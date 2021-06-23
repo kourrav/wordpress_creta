@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: hi_IL\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - שטח שמאלי"
+
+msgid "$P - left"
+msgstr "$ P - שמאל"
+
+msgid "(Approx. %s)"
+msgstr "(כ- %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ לריבית שלך בשיעור, למשל: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s הוא"
+
+msgid "Base currency of the site is: %s"
+msgstr "מטבע הבסיס של האתר הוא: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "מומש עבור WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "להוסיף"
+
+msgid "Add Currency"
+msgstr "הוסף מטבע"
+
+msgid "Add all"
+msgstr "הוסף הכל"
+
+msgid "Add custom money sign"
+msgstr "הוסף שלט כסף מותאם אישית"
+
+msgid "Add group"
+msgstr "הוספת קבוצה"
+
+msgid "Add new profile"
+msgstr "הוסף פרופיל חדש"
+
+msgid "Add to:"
+msgstr "להוסיף ל:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "הוסף את סמלי הכסף שלך בחנות שלך. דוגמה: $ USD, AAA, AUD $, DDD - מופרדים בפסיקים"
+
+msgid "Advanced"
+msgstr "מתקדם"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "לאחר סיום cron - שיעורי מטבע חדשים יישלחו בדוא\"ל מנהל האתר. שים לב: אם אין לך הודעות דוא\"ל - המשמעות היא שדואר פונקציית PHP () לא עובד בשרת שלך או שליחת דוא\"ל באמצעות פונקציה זו נעולה."
+
+msgid "Aggregator API key"
+msgstr "מפתח API לצבירה"
+
+msgid "Base currency"
+msgstr "מטבע בסיס"
+
+msgid "Basic"
+msgstr "בסיסי"
+
+msgid "Basic field(s)"
+msgstr "שדות בסיסיים"
+
+msgid "Behavior"
+msgstr "התנהגות"
+
+msgid "Behavior for devices"
+msgstr "התנהגות למכשירים"
+
+msgid "Cancel"
+msgstr "ביטול"
+
+msgid "Cents"
+msgstr "סנטים"
+
+msgid "Change order currency"
+msgstr "שנה מטבע הזמנה"
+
+msgid "Change the order currency to any other"
+msgstr "שנה את מטבע ההזמנה לכל אחר"
+
+msgid "Chart type: bar"
+msgstr "סוג תרשים: סרגל"
+
+msgid "Chart type: pie"
+msgstr "סוג תרשים: עוגה"
+
+msgid "Checkout by GeoIP rules"
+msgstr "צ'ק-אאוט לפי כללי GeoIP"
+
+msgid "Choise behavior"
+msgstr "בחר התנהגות"
+
+msgid "Choise currencies"
+msgstr "בחר מטבעות"
+
+msgid "Choise side"
+msgstr "בחר בצד"
+
+msgid "Choise skin"
+msgstr "בחר בעור"
+
+msgid "Chosen dark drop-down"
+msgstr "נפתח כהה נבחר"
+
+msgid "Chosen drop-down"
+msgstr "נפתח נפתח"
+
+msgid "Classic blocks"
+msgstr "בלוקים קלאסיים"
+
+msgid "Click to select the flag"
+msgstr "לחץ לבחירת הדגל"
+
+msgid "Codex"
+msgstr "קודקס"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "איסוף מטבעות החלפת נתונים למטרות עסקיות. לא אוספים נתונים פרטיים של לקוחות, אלא רק מטבע, מדינה וזמן מעבר. יש גם סטטיסטיקה למטבעות הזמנות."
+
+msgid "Convert"
+msgstr "המרת"
+
+msgid "Count of digits after point"
+msgstr "ספירת ספרות אחרי נקודה"
+
+msgid "Coupon amount"
+msgstr "סכום הקופון"
+
+msgid "Currencies"
+msgstr "מטבעות"
+
+msgid "Currencies excluding from view"
+msgstr "מטבעות למעט מהעין"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "מטבעות מדרגים עדכון אוטומטי על ידי WordPress cron."
+
+msgid "Currency"
+msgstr "מַטְבֵּעַ"
+
+msgid "Currency aggregator"
+msgstr "צובר מטבע"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "צוברים מטבע. הערה: אם אתה יודע אגרגטור שאינו מיוצג ב- WOOCS כתוב בקשת תמיכה בבקשה עם הצעה להוסיף אותו!"
+
+msgid "Currency in which the customer paid."
+msgstr "מטבע בו שילם הלקוח."
+
+msgid "Currency rate when the customer paid"
+msgstr "שער המטבע כאשר הלקוח שילם"
+
+msgid "Currency storage"
+msgstr "אחסון מטבע"
+
+msgid "Currencylayer"
+msgstr "שובר מטבעות"
+
+msgid "Current currency is:"
+msgstr "המטבע הנוכחי הוא:"
+
+msgid "Custom money signs"
+msgstr "שלטי כסף בהתאמה אישית"
+
+msgid "Custom price format"
+msgstr "פורמט מחיר מותאם אישית"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "הלקוח ישלם במטבע שנבחר (כן) או במטבע ברירת מחדל (לא)."
+
+msgid "Decimal"
+msgstr "עֶשׂרוֹנִי"
+
+msgid "Decimals"
+msgstr "עשרוניות"
+
+msgid "Delete profile"
+msgstr "מחק פרופיל"
+
+msgid "Description"
+msgstr "תיאור"
+
+msgid "Direct use"
+msgstr "שימוש ישיר"
+
+msgid "Disable on pages"
+msgstr "השבת בדפים"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "השבתה או הפעלת WOOCS בעמודים המתוארים בלבד. השתמש בשבלולי פסיקים ודפים. דוגמה: בלוג, חשבון"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "מרחק מהחלק העליון של המסך לחסימת ה- HTML של המתג. אתה יכול להגדיר ב- px או ב-%. דוגמה 1: 100 פיקסלים. דוגמא 2: 10%."
+
+msgid "Documentation"
+msgstr "תיעוד"
+
+msgid "Drop-down options text type"
+msgstr "סוג טקסט של אפשרויות נפתחות"
+
+msgid "EU countries"
+msgstr "מדינות האיחוד האירופי"
+
+msgid "Edit profile"
+msgstr "ערוך פרופיל"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "הודעה בדוא\"ל על תוצאות \\ \"דרג עדכון אוטומטי \""
+
+msgid "Enable/Disable"
+msgstr "הפעל / השבת"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "הפעל / השבת את מחליף המטבעות הצדדי בדף שלך"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "דוגמאות: 300 פיקסלים, 100%, אוטומטי"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "דוגמאות: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "מדגם: USD, EUR"
+
+msgid "FAQ"
+msgstr "שאלות נפוצות"
+
+msgid "Fixer"
+msgstr "לתקן"
+
+msgid "Flag"
+msgstr "דֶגֶל"
+
+msgid "Flag position"
+msgstr "מיקום דגל"
+
+msgid "Flags (as images)"
+msgstr "דגלים (כתמונות)"
+
+msgid "For ajax redraw."
+msgstr "לצייר מחדש של אייאקס."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "למטבעות - נתונים מצטברים על מספר המדינות אילו משתמשים בחרו מטבעות בחזית האתר. להזמנות - ספירת הזמנות שבוצעו ממדינות, זוהתה על ידי המדינה שנבחרה בכתובת החיוב."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "למטבעות - נתונים מצטברים על מטבעות נבחרים בחזית האתר. להזמנות - ספירת ההזמנות שבוצעו במטבעות שנבחרו."
+
+msgid "For ddslick script only!"
+msgstr "לתסריט ddslick בלבד!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "הכריחו את הלקוחות לשלם בדף הקופה לפי כללים שהוגדרו בכרטיסייה 'כללי GeoIP'. שים לב: לתכונה זו יש היגיון הגיוני אם הפעלת את 'הפעל תמחור קבוע' והתקנת גם כללי מחירים קבועים במוצרים עבור מטבעות שונים!"
+
+msgid "Free flags images"
+msgstr "תמונות דגלים בחינם"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "פרופילי GeoIP"
+
+msgid "GeoIP rules"
+msgstr "כללי GeoIP"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP עובד מ v.2.3 של תוסף WooCommerce ולא עם גרסאות קלות של WooCommerce !!"
+
+msgid "Get free API keys:"
+msgstr "קבל מפתחות API בחינם:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "נותן יכולת לקבוע מחירים שונים עבור כל תפקיד משתמש"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "נותן יכולת לקבוע מחירים שונים עבור כל תפקיד משתמש. מסנן המחירים של WooCommerce המקורי הוא עיוור לנתונים אלה!"
+
+msgid "Go Pro!"
+msgstr "להתמקצע!"
+
+msgid "Help"
+msgstr "עֶזרָה"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "כאן תוכל ליצור קבוצה של פרופילי מדינות כדי להחיל אותה ואז במוצרים לפי ההיגיון העסקי שלך. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "כאן תוכלו להגדיר סכום קבוע לתלוש לכל מטבע שתרצו. במקרה של שדה סכום ריק ספירה לפי קצב תעבוד!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "כאן תוכלו לקבוע מחיר קבוע עבור המוצר לכל מטבע שתרצו. במקרה של שדה מחיר ריק ספירה לפי קצב תעבוד!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "כאן תוכלו לקבוע מחירים במטבע הבסיסי עבור מדינות שונות, והספירה מחדש תעשה יחסית לערכים אלו. שים לב: מחיר קבוע למטבעות הוא בעל עדיפות גבוהה יותר!"
+
+msgid "Hide cents"
+msgstr "הסתר סנטים"
+
+msgid "Hide on mobile devices"
+msgstr "הסתר במכשירים ניידים"
+
+msgid "Hide on the pages"
+msgstr "התחבא בדפים"
+
+msgid "Hide switcher on checkout page"
+msgstr "הסתר מחליף בדף הקופה"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "הסתר מחליף בדף הקופה מכל סיבה שהיא שלך. שידור טוב יותר למשתמשים מחליף מטבע בדף הקופה במצב מרובה."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "הסתר / הצג מערכות תשלומים בדף התשלום בהתאם למטבע הנוכחי"
+
+msgid "Hint"
+msgstr "לרמוז"
+
+msgid "Hover color"
+msgstr "לרחף את הצבע"
+
+msgid "Hover field(s)"
+msgstr "העבר את העכבר לשדות"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "כיצד להציג מחליף מטבע (כברירת מחדל) בחזית האתר. (חדש) שימו לב על עורות עם מספרים - תוכלו להשתמש בהם באותו דף עם עיצובים שונים בקיצור [woocs] המתואר בסגנון המאפיין ובמספר הסגנון שלו (ראו עמוד קודקס בכרטיסיית עזרת מידע)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "אני משתמש בתוסף מטמון באתר שלי"
+
+msgid "I cant add flags! What to do?"
+msgstr "אני לא יכול להוסיף דגלים! מה לעשות?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "אם חלונית ההגדרות של WOOCS נראית שגויה או שיש לך שגיאות JavaScript (לאחר העדכון) - ראשית"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "אם בכרטיסייה אפשרות מופעלת אפשרויות אני משתמש בתוסף מטמון באתר שלי - כדי למנוע נתונים כפולים לרישום נתונים סטטיסטיים בכרטיסייה אפשרויות הפעלת אפשרות אין נתוני GET בקישור!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "אם יש לך רעיון לגבי תבנית css + js - שלח בקשה לתמיכה בבקשה תאר את החזון שלך."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "אם יש לך רעיונות לגבי תרחישים של הסטטיסטיקה אנא שתף ​​ודן בהם ב- %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "אם תרצה תן ללקוחות שלך לשלם במטבע שבחרת בכרטיסייה מתקדם הגדר את האפשרות האם מספר מותר כן."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "בחלק מהשרתים יש בעיות בהפעלות, ואחרי שמטבע בחר באיפוס למטבע קבלת פנים או מטבע geo ip. במקרה כזה השתמש חולף. אם זה אפשרי באירוח שלך השתמש ב- Memcached או Redis!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "בגרסה החינמית של התוסף %s אתה יכול לפעול עם 2 מטבעות בלבד %s! אם אתה רוצה להשתמש במטבעות נוספים %s אתה יכול לבצע שדרוג לגרסת הפרימיום %s של התוסף"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "במחירי הצגת מטבע לביקור ראשון של הלקוח שלך באתר שלך. אל תעשו זאת באופן פרטי כדי להימנע מבלגן הגיוני!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "כללי GeoIP נפרדים עבור כל מוצר"
+
+msgid "Individual fixed amount for coupon"
+msgstr "סכום קבוע פרט לקופון"
+
+msgid "Individual fixed amount for shipping"
+msgstr "סכום קבוע בודד למשלוח"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "כללי מחירים קבועים בודדים לכל מוצר"
+
+msgid "Individual prices based on user role"
+msgstr "מחירים אישיים בהתבסס על תפקיד המשתמש"
+
+msgid "Is hidden"
+msgstr "מוחבא"
+
+msgid "Is multiple allowed"
+msgstr "האם מספר מותר"
+
+msgid "Is shown"
+msgstr "מוצג"
+
+msgid "Left"
+msgstr "שמאל"
+
+msgid "Load countries from profile"
+msgstr "טען מדינות מהפרופיל"
+
+msgid "Loading"
+msgstr "טעינה"
+
+msgid "Main color"
+msgstr "צבע עיקרי"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "צבע עיקרי אשר מצביע על אלמנטים המתגים"
+
+msgid "Maximum spend"
+msgstr "הוצאה מקסימלית"
+
+msgid "Minimum spend"
+msgstr "מינימום הוצאה"
+
+msgid "Money signs"
+msgstr "שלטי כסף"
+
+msgid "More power for your shop"
+msgstr "יותר כוח לחנות שלך"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "מסנן המחירים של WooCommerce המקורי אינו רואה נתונים שנוצרו על ידי תכונה זו."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "מסנן המחירים של WooCommerce המקורי הוא עיוור לכל הנתונים שנוצרים על ידי תכונות מסומנות"
+
+msgid "New profile"
+msgstr "פרופיל חדש"
+
+msgid "No"
+msgstr "לא"
+
+msgid "No GET data in link"
+msgstr "אין נתוני GET בקישור"
+
+msgid "No such profile"
+msgstr "אין פרופיל כזה"
+
+msgid "Nope, maybe later!"
+msgstr "לא, אולי אחר כך!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "לא ניתן לחשב את ההזמנה מחדש - מכיוון שמטבע הבסיס הנוכחי הוא %s, ומטבע בסיס ההזמנה הוא %s!"
+
+msgid "Not styled drop-down"
+msgstr "נפתח לא מעוצב"
+
+msgid "Note"
+msgstr "הערות"
+
+msgid "Notes*"
+msgstr "הערות *"
+
+msgid "Ok, you deserve it"
+msgstr "בסדר, מגיע לך"
+
+msgid "Open exchange rates"
+msgstr "שערי חליפין פתוחים"
+
+msgid "Options"
+msgstr "אפשרויות"
+
+msgid "Order currency"
+msgstr "הזמנת מטבע"
+
+msgid "Order currency rate"
+msgstr "הזמנת שער מטבע"
+
+msgid "P $ - right space"
+msgstr "P $ - שטח נכון"
+
+msgid "P$ - right"
+msgstr "P $ - נכון"
+
+msgid "PHP Session"
+msgstr "מושב PHP"
+
+msgid "Payments"
+msgstr "תשלומים"
+
+msgid "Payments behavior"
+msgstr "התנהגות תשלומים"
+
+msgid "Payments rules"
+msgstr "כללי תשלומים"
+
+msgid "Please use the API key"
+msgstr "אנא השתמש במפתח ה- API"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "יציאה ל: memcached או redis. בדרך כלל עבור יציאת memcached הוא 11211, עבור redis יציאה היא 6379. קרא את תיעוד האירוח שלך באיזה יציאה להשתמש עבור memcached או redis."
+
+msgid "Position"
+msgstr "עמדה"
+
+msgid "Precision"
+msgstr "דיוק"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "לחץ על כפתור זה אם ברצונך לקבל שער מטבע מהצבור שנבחר לעיל!"
+
+msgid "Prices preloader"
+msgstr "מחירים מראש"
+
+msgid "Prices without cents"
+msgstr "מחירים ללא סנטים"
+
+msgid "Private"
+msgstr "פְּרָטִי"
+
+msgid "Profile is deleted"
+msgstr "הפרופיל נמחק"
+
+msgid "Profiles"
+msgstr "פרופילים"
+
+msgid "Public"
+msgstr "הציבור"
+
+msgid "Quick introduction"
+msgstr "מבוא מהיר"
+
+msgid "Rate"
+msgstr "ציון"
+
+msgid "Rate and Interest"
+msgstr "שיעור ועניין"
+
+msgid "Rate auto update"
+msgstr "דרג עדכון אוטומטי"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "קרא את הוויקי על קודי פעיל מטבע"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "קראו את הוויקי אודות מטבעות קודים פעילים  <-  קבלו כאן קודי מטבעות נכונים אם אינכם בטוחים בנושא!"
+
+msgid "Recalculate all orders"
+msgstr "חשב מחדש את כל ההזמנות"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "חשב מחדש את כל ההזמנות במטבע בסיסי. מומלץ לבדוק אפשרות זו בשכפול של האתר שלך! קרא את תיעוד התוסף בנושא!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "חשב מחדש את ההזמנה הנוכחית עם המטבע שנבחר."
+
+msgid "Recalculate order"
+msgstr "חישוב הסדר מחדש"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "ספר מחדש מחירים ללא סנטים בכל מקום כמו ב- JPY ו- TWD שמטבע הדברים אין להם סנטים. השתמש בפסיק. דוגמה: UAH, RUB. בדוק אותו לקופה לאחר ההתקנה!"
+
+msgid "Regular price"
+msgstr "מחיר רגיל"
+
+msgid "Remove"
+msgstr "להסיר"
+
+msgid "Reverse this option"
+msgstr "הפוך אפשרות זו"
+
+msgid "Reverse use"
+msgstr "שימוש הפוך"
+
+msgid "Right"
+msgstr "ימין"
+
+msgid "Roll blocks"
+msgstr "גלגל בלוקים"
+
+msgid "Round chain"
+msgstr "שרשרת עגולה"
+
+msgid "Round select"
+msgstr "בחר סיבוב"
+
+msgid "Sale price"
+msgstr "מחיר מבצע"
+
+msgid "Save changes please!"
+msgstr "שמור שינויים בבקשה!"
+
+msgid "Select Currency"
+msgstr "בחר מטבע"
+
+msgid "Select currency..."
+msgstr "תבחר מדינה..."
+
+msgid "Select symbol position"
+msgstr "בחר מיקום סמל"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "שרת או שקע עבור: memcached או redis. בדרך כלל הוא מקומי. קרא את תיעוד האירוח שלך באיזה מארח להשתמש עבור memcached או redis."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "הגדר כן כאן רק אם אתה באמת משתמש בתוסף מטמון לאתר שלך, למשל כמו מטמון סופר או מטמון Hiper (לא משנה). + הגדר \\ \"פורמט מחיר מותאם אישית \", לדוגמה: __PRICE__ (__CODE__). לאחר הפעלת תכונה זו - נקה את המטמון כדי שזה יעבוד. זה יאפשר מחירים להצגה במטבע שנבחר בכל דפי האתר. עמלה עבור תכונה זו - שאילתות נוספות של AJAX למחירי מוצרים מחדש."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "הגדר את המטבע הראשי של אתלון. זה צריך להיות המטבע שבו מחיר הסחורה שהוצג!"
+
+msgid "Set title"
+msgstr "הגדר כותרת"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "הגדר את הפורמט שלך כיצד להציג מחיר בחזית. השתמש במקשים: __CODE __, __ PRICE__. השאר אותו ריק כדי להשתמש בפורמט ברירת מחדל דוגמה: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "האם מערכת התשלומים צריכה להיות מוסתרת עבור מטבעות נבחרים או להפך!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "הצג לחצן אפשרויות WOOCS בסרגל הניהול העליון לגישה מהירה. מאוד שימושי לעבודה אקטיבית. גלוי למנהלי אתרים בלבד!"
+
+msgid "Show approx. amount"
+msgstr "הראה כ כמות"
+
+msgid "Show approx. price"
+msgstr "הראה כ מחיר"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "הצג את הסכום המשוער בקופה ובעמוד העגלה עם מטבע המשתמש שהוגדר על ידי IP בכרטיסיה כללי GeoIp. עובד רק עם נתוני שיעורי מטבעות ולא עם כללי מחירים קבועים וכללים גיאוגרפיים."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "הצג את המחיר המשוער בחנות ובדף המוצר היחיד עם מטבע המשתמש שהוגדר על ידי IP בכרטיסיה כללי GeoIp. עובד רק עם נתוני שערי מטבעות ולא עם כללי מחירים קבועים וכללים גיאוגרפיים."
+
+msgid "Show cents"
+msgstr "הראה סנטים"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "הראה מטבע לכולם בחזית האתר או הסתר לרגעים פרטיים בלוח הניהול של wp באמצעות שימוש בלבד."
+
+msgid "Show flags"
+msgstr "הראה דגלים"
+
+msgid "Show flags by default"
+msgstr "הצג דגלים כברירת מחדל"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "הצג סמל מידע בסמוך למחיר המוצר, בעוד שהוא מתחת לרחף מציג מחירים של מוצרים בכל המטבעות"
+
+msgid "Show money signs"
+msgstr "הראה שלטי כסף"
+
+msgid "Show on all devices"
+msgstr "הצג בכל המכשירים"
+
+msgid "Show on mobile devices only"
+msgstr "הצג במכשירים ניידים בלבד"
+
+msgid "Show on the pages"
+msgstr "הראה בדפים"
+
+msgid "Show options button on top admin bar."
+msgstr "לחץ על לחצן האפשרויות בסרגל הניהול העליון."
+
+msgid "Show price info icon"
+msgstr "הצג סמל פרטי מחיר"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "הצגה / הסתרה במכשיר נייד (בעדיפות הגבוהה ביותר)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "הצג / הסתר דגלים בתפריט הנפתח הקדמי"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "הצג / הסתר שלטי כסף בתפריט הנפתח הקדמי"
+
+msgid "Side"
+msgstr "צד"
+
+msgid "Side switcher"
+msgstr "מחליף צד"
+
+msgid "Skin"
+msgstr "עור"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "כמה צוברים דורשים מפתח API. ראה את הרמז למטה כיצד להשיג אותו!"
+
+msgid "Statistic"
+msgstr "נתון"
+
+msgid "Storage port"
+msgstr "יציאת אחסון"
+
+msgid "Storage server"
+msgstr "שרת אחסון"
+
+msgid "Style #1"
+msgstr "סגנון מס '1"
+
+msgid "Style #2"
+msgstr "סגנון מס '2"
+
+msgid "Style #3"
+msgstr "סגנון מס '3"
+
+msgid "Style of the switcher on the site front"
+msgstr "סגנון המתג בחזית האתר"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "מחליף מטבע ללא נכסי GET (? מטבע = דולר ארה\"ב) בקישור. עובד במסחר ווק> 3.3.0."
+
+msgid "Symbol"
+msgstr "סמל"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "מטבע ההזמנה הזה שונה באופן ידני %s!"
+
+msgid "Thank you, I did it!"
+msgstr "תודה, עשיתי את זה!"
+
+msgid "The Free Currency Converter"
+msgstr "ממיר המטבע החינמי"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "הקופון קבע כללי מינימום ומקסימום הוצאה"
+
+msgid "The coupon fixed amount rules"
+msgstr "כללי הסכום הקבוע בקופון"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "האפשרויות הבאות משפיעות על אופן הצגת המחירים בחזית. מחליף המטבע של WooCommerce מופעל. הגדר מטבע ברירת מחדל %s בבקשה."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "ההוצאה המקסימלית לקופון זה היא %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "ההוצאה המינימלית לקופון זה היא %s."
+
+msgid "The price based on user role"
+msgstr "המחיר מבוסס על תפקיד המשתמש"
+
+msgid "The product custom GeoIP rules"
+msgstr "כללי GeoIP המותאמים אישית למוצר"
+
+msgid "The product fixed prices rules"
+msgstr "כללי המחירים הקבועים למוצר"
+
+msgid "The side where the switcher is be placed"
+msgstr "הצד שבו ממוקם המתג"
+
+msgid "The switcher color when mouse hovering"
+msgstr "צבע המתג בעת ריחוף העכבר"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "זה גורם לעבוד מהר יותר על הגדרות הכללים עבור כל מוצר"
+
+msgid "Title"
+msgstr "כותרת"
+
+msgid "Top margin"
+msgstr "שוליים עליונים"
+
+msgid "Total amount"
+msgstr "הכמות הכוללת"
+
+msgid "Total in basic currency:"
+msgstr "סה\"כ במטבע בסיסי:"
+
+msgid "Transient"
+msgstr "חולף"
+
+msgid "UPGRADE to Full version"
+msgstr "לשדרג לגרסה מלאה"
+
+msgid "Update all rates"
+msgstr "עדכן את כל התעריפים"
+
+msgid "Update profile"
+msgstr "עדכן פרופיל"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "השימוש בגיאוגרפיה גורם לבעיות, לא נראה לי שזה עובד בשבילי"
+
+msgid "Video tutorials"
+msgstr "הדרכות וידאו"
+
+msgid "Visibility"
+msgstr "ראות"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - WooCommerce Professional Bulk Editor"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - קבוע מינימום והוצאה מקסימאלית"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - הסכום הקבוע בקופון"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - המחיר המבוסס על תפקיד המשתמש"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - כללי GeoIP המותאמים אישית למוצר"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - המחירים הקבועים של המוצר"
+
+msgid "WOOCS Currency Options"
+msgstr "אפשרויות מטבע של WOOCS"
+
+msgid "WOOCS Order Info"
+msgstr "WOOCS פרטי הזמנה"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - מסנן מוצרי WooCommerce"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - שולחנות מוצרים פעילים של WooCommerce"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "אזהרה: מסחר Wooc אינו מופעל"
+
+msgid "Watch video instructions"
+msgstr "צפו בהוראות וידאו"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "אנו עובדים קשה בכדי להפוך את התוסף הזה ליעיל יותר עבור החנויות המקוונות שלכם, ומוכן ל- %s לשמוע את הביקורת, ההצעות והדעות שלכם %s, אנא שתפו אותו איתנו!"
+
+msgid "Welcome currency"
+msgstr "מטבע קבלת פנים"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "איזה תוכן יוצג במתג לאחר שעכבר מרחף על מטבע כלשהו שם. גרסאות:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "איזה תוכן להציג במתג לאחר טעינת דף האתר. גרסאות:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "היכן באתר צריך להחביא את המתג. אם מוצג כאן ערך כלשהו, ​​המחליף יוסתר בדפים אלה וייראה בכל הערכים האחרים. ניתן להשתמש במזהי עמודים באמצעות פסיק, לדוגמא: 28,34,232. אתה יכול גם להשתמש במילים מיוחדות כמו: מוצר, חנות, קופה, חזית דף, מסחר ווק"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "היכן באתר המחליף צריך להיות גלוי. אם מוצג כאן ערך כלשהו, ​​הסתר יוסתר בכל העמודים האחרים שאינם מוצגים בשדה זה. ניתן להשתמש במזהי עמודים באמצעות פסיק, לדוגמא: 28,34,232. אתה יכול גם להשתמש במילים מיוחדות כמו: מוצר, חנות, קופה, חזית דף, מסחר ווק"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "איזה טקסט מוצג באפשרויות הנפתחות - קוד מטבע או טקסט תיאור. נראה טוב לכל הנפילות למעט ddslick."
+
+msgid "Width"
+msgstr "רוֹחַב"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "מתג מטבע WooCommerce תמיכה"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "מחליף מטבע WooCommerce v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "פונקציונליות GeoIP של WooCommerce אינה פועלת באתר שלך. אולי זֶה יעזור לך."
+
+msgid "Yes"
+msgstr "יש"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "תוכל לקבוע סכום קבוע לקופון עבור כל מטבע. שים לב: יש לאפשר 'האם מותר להכניס מספר רב'!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "תוכל להגדיר סכום קבוע עבור כל מטבע בחינם וכל דרכי המשלוח האחרות. שים לב: יש לאפשר 'האם מותר להכניס מספר רב'!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "תוכל לקבוע מחירים קבועים עבור מוצרים פשוטים ומשתנים. שים לב: יש לאפשר 'האם מותר להכניס מספר רב'!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "תוכל לקבוע מחירים שונים עבור כל מוצר (במטבע BASIC) עבור מדינות שונות"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "המדינה שלך לא מוגדרת! בעיות בשירות GeoIp."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "המדינה שלך לא מוגדרת! בעיות בחיבור לאינטרנט או בשירות GeoIp."
+
+msgid "Your country is: %s"
+msgstr "המדינה שלך היא: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "המדינה שלך היא: %s. (מוגדר על ידי פונקציונליות GeoIP של מסחר ווק)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "הגרסה שלך לתוסף WooCommerce מיושנת מדי. עדכן מינימום לגרסת %s כדי למנוע תקלה!"
+
+msgid "a hint"
+msgstr "רמז"
+
+msgid "auto"
+msgstr "המכונית"
+
+msgid "cancel"
+msgstr "לבטל"
+
+msgid "change the rate and this description to the right values"
+msgstr "שנה את התעריף ואת התיאור לערכים הנכונים"
+
+msgid "clear all"
+msgstr "נקה הכל"
+
+msgid "code"
+msgstr "קוד"
+
+msgid "currency"
+msgstr "מטבע"
+
+msgid "daily"
+msgstr "יומי"
+
+msgid "ddslick drop-down"
+msgstr "התפריט הנפתח ddslick"
+
+msgid "description"
+msgstr "תיאור"
+
+msgid "drag and drop"
+msgstr "גרור ושחרר"
+
+msgid "enter amount"
+msgstr "הכנס סכום"
+
+msgid "enter roll width"
+msgstr "הזן רוחב גליל"
+
+msgid "exchange rate"
+msgstr "שער חליפין"
+
+msgid "from"
+msgstr "החל מ-"
+
+msgid "full version of the plugin"
+msgstr "הגרסה המלאה של התוסף"
+
+msgid "here"
+msgstr "כאן"
+
+msgid "hourly"
+msgstr "לפי שעה"
+
+msgid "interest"
+msgstr "אינטרס"
+
+msgid "is added!"
+msgstr "נוסף!"
+
+msgid "is updated!"
+msgstr "זה מעודכן!"
+
+msgid "left"
+msgstr "עזבו"
+
+msgid "loading"
+msgstr "טוען"
+
+msgid "monthly"
+msgstr "אחת לחודש"
+
+msgid "move"
+msgstr "המהלך"
+
+msgid "no auto update"
+msgstr "אין עדכון אוטומטי"
+
+msgid "no data for %s"
+msgstr "אין נתונים עבור %s"
+
+msgid "orders (completed)"
+msgstr "הזמנות (הושלמו)"
+
+msgid "reset the browser cache"
+msgstr "אפס את מטמון הדפדפן"
+
+msgid "results"
+msgstr "תוצאות"
+
+msgid "right"
+msgstr "תקין"
+
+msgid "select all"
+msgstr "בחר הכל"
+
+msgid "select some countries"
+msgstr "בחר כמה מדינות"
+
+msgid "select user role"
+msgstr "בחר תפקיד משתמש"
+
+msgid "special: each 15 minutes"
+msgstr "מיוחד: כל 15 דקות"
+
+msgid "special: each 30 minutes"
+msgstr "מיוחד: כל 30 דקות"
+
+msgid "special: each 45 minutes"
+msgstr "מיוחד: כל 45 דקות"
+
+msgid "special: each 5 minutes"
+msgstr "מיוחד: כל 5 דקות"
+
+msgid "special: each minute"
+msgstr "מיוחד: כל דקה"
+
+msgid "support"
+msgstr "תמיכה"
+
+msgid "the plugin forum"
+msgstr "פורום התוספים"
+
+msgid "to"
+msgstr "ל"
+
+msgid "twicedaily"
+msgstr "פעמיים ביום"
+
+msgid "wSelect drop-down"
+msgstr "w בחר בתפריט הנפתח"
+
+msgid "Currencies popularity"
+msgstr "פופולריות מטבעות"
+
+msgid "Countries popularity"
+msgstr "פופולריות של מדינות"

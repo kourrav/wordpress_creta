@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: vi\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - dấu cách bên trái"
+
+msgid "$P - left"
+msgstr "$ P - trái"
+
+msgid "(Approx. %s)"
+msgstr "(Xấp xỉ %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ đối với lãi suất của bạn trong tỷ lệ, ví dụ: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s là"
+
+msgid "Base currency of the site is: %s"
+msgstr "Tiền tệ cơ bản của trang web là: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Thực tế cho WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Add Currency"
+msgstr "Thêm tiền tệ"
+
+msgid "Add all"
+msgstr "Thêm tất cả"
+
+msgid "Add custom money sign"
+msgstr "Thêm ký hiệu tiền tùy chỉnh"
+
+msgid "Add group"
+msgstr "Thêm nhóm"
+
+msgid "Add new profile"
+msgstr "Thêm hồ sơ mới"
+
+msgid "Add to:"
+msgstr "Thêm vào:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Thêm biểu tượng tiền của bạn trong cửa hàng của bạn. Ví dụ: $ USD, AAA, AUD $, DDD - được phân tách bằng dấu phẩy"
+
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Sau khi thực hiện cron - tỷ giá tiền tệ mới sẽ được gửi trên email của quản trị viên trang web. LƯU Ý: nếu bạn không nhận được email - có nghĩa là hàm mail () của PHP không hoạt động trên máy chủ của bạn hoặc việc gửi email bằng hàm này đã bị khóa."
+
+msgid "Aggregator API key"
+msgstr "Khóa API tổng hợp"
+
+msgid "Base currency"
+msgstr "Tiền tệ cơ bản"
+
+msgid "Basic"
+msgstr "Căn bản"
+
+msgid "Basic field(s)"
+msgstr "(Các) trường cơ bản"
+
+msgid "Behavior"
+msgstr "Hành vi"
+
+msgid "Behavior for devices"
+msgstr "Hành vi dành cho thiết bị"
+
+msgid "Cancel"
+msgstr "hủy bỏ"
+
+msgid "Cents"
+msgstr "Thuốc"
+
+msgid "Change order currency"
+msgstr "Thay đổi đơn vị tiền tệ"
+
+msgid "Change the order currency to any other"
+msgstr "Thay đổi đơn vị tiền tệ sang bất kỳ loại tiền tệ nào khác"
+
+msgid "Chart type: bar"
+msgstr "Loại biểu đồ: thanh"
+
+msgid "Chart type: pie"
+msgstr "Loại biểu đồ: bánh"
+
+msgid "Checkout by GeoIP rules"
+msgstr "Thanh toán theo quy tắc GeoIP"
+
+msgid "Choise behavior"
+msgstr "Hành vi chọn lọc"
+
+msgid "Choise currencies"
+msgstr "Chọn tiền tệ"
+
+msgid "Choise side"
+msgstr "Choise bên"
+
+msgid "Choise skin"
+msgstr "Làm đẹp da"
+
+msgid "Chosen dark drop-down"
+msgstr "Menu thả xuống tối đã chọn"
+
+msgid "Chosen drop-down"
+msgstr "Trình đơn thả xuống đã chọn"
+
+msgid "Classic blocks"
+msgstr "Khối cổ điển"
+
+msgid "Click to select the flag"
+msgstr "Nhấp để chọn cờ"
+
+msgid "Codex"
+msgstr "Sách thuốc"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Thu thập số liệu thống kê chuyển đổi tiền tệ cho mục đích kinh doanh. Không có bất kỳ dữ liệu cá nhân nào của khách hàng bị thu thập, chỉ có tiền tệ, quốc gia và thời gian chuyển đổi. Cũng có thống kê cho đơn đặt hàng tiền tệ ở đó."
+
+msgid "Convert"
+msgstr "Chuyển đổi"
+
+msgid "Count of digits after point"
+msgstr "Đếm các chữ số sau điểm"
+
+msgid "Coupon amount"
+msgstr "Số tiền phiếu thưởng"
+
+msgid "Currencies"
+msgstr "Tiền tệ"
+
+msgid "Currencies excluding from view"
+msgstr "Đơn vị tiền tệ không bao gồm chế độ xem"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Tỷ lệ tiền tệ tự động cập nhật bởi WordPress cron."
+
+msgid "Currency"
+msgstr "Tiền tệ"
+
+msgid "Currency aggregator"
+msgstr "Công cụ tổng hợp tiền tệ"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Người tổng hợp tiền tệ. Lưu ý: Nếu bạn biết bộ tổng hợp không được đại diện trong WOOCS, hãy viết yêu cầu hỗ trợ, vui lòng đề xuất thêm nó!"
+
+msgid "Currency in which the customer paid."
+msgstr "Đơn vị tiền tệ mà khách hàng đã thanh toán."
+
+msgid "Currency rate when the customer paid"
+msgstr "Tỷ giá tiền tệ khi khách hàng thanh toán"
+
+msgid "Currency storage"
+msgstr "Lưu trữ tiền tệ"
+
+msgid "Currencylayer"
+msgstr "Tiền tệ"
+
+msgid "Current currency is:"
+msgstr "Đơn vị tiền tệ hiện tại là:"
+
+msgid "Custom money signs"
+msgstr "Dấu hiệu tiền tùy chỉnh"
+
+msgid "Custom price format"
+msgstr "Định dạng giá tùy chỉnh"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "Khách hàng sẽ thanh toán bằng đơn vị tiền tệ đã chọn (Có) hoặc bằng đơn vị tiền tệ mặc định (Không)."
+
+msgid "Decimal"
+msgstr "số thập phân"
+
+msgid "Decimals"
+msgstr "số thập phân"
+
+msgid "Delete profile"
+msgstr "Xóa hồ sơ"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Direct use"
+msgstr "Sử dụng trực tiếp"
+
+msgid "Disable on pages"
+msgstr "Tắt trên các trang"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "Chỉ tắt hoặc bật WOOCS trên các trang được mô tả. Sử dụng dấu phẩy và sên trang. Ví dụ: blog, tài khoản"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Khoảng cách từ đầu màn hình đến khối html của trình chuyển đổi. Bạn có thể đặt bằng px hoặc%. Ví dụ 1: 100px. Ví dụ 2: 10%."
+
+msgid "Documentation"
+msgstr "Tài liệu"
+
+msgid "Drop-down options text type"
+msgstr "Loại văn bản tùy chọn thả xuống"
+
+msgid "EU countries"
+msgstr "các nước EU"
+
+msgid "Edit profile"
+msgstr "Chỉnh sửa hồ sơ"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "Thông báo qua email về kết quả \\ \"Xếp hạng tự động cập nhật \""
+
+msgid "Enable/Disable"
+msgstr "Cho phép vô hiệu hóa"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Bật / Tắt trình chuyển đổi tiền tệ bên trên trang của bạn"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Ví dụ: 300px, 100%, tự động"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Ví dụ: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "Ví dụ: USD, EUR"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Fixer"
+msgstr "Người cố định"
+
+msgid "Flag"
+msgstr "Flag"
+
+msgid "Flag position"
+msgstr "Cờ vị trí"
+
+msgid "Flags (as images)"
+msgstr "Cờ (dưới dạng hình ảnh)"
+
+msgid "For ajax redraw."
+msgstr "Để vẽ lại ajax."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "Đối với tiền tệ - dữ liệu tổng hợp về số lượng quốc gia mà người dùng đã chọn đơn vị tiền tệ trên trang web. Đối với đơn đặt hàng - số lượng đơn đặt hàng được thực hiện từ các quốc gia, được phát hiện bởi quốc gia đã chọn trong địa chỉ thanh toán."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "Đối với tiền tệ - dữ liệu tổng hợp về các loại tiền tệ đã chọn trên trang web. Đối với đơn đặt hàng - số lượng đơn đặt hàng được thực hiện bằng các loại tiền đã chọn."
+
+msgid "For ddslick script only!"
+msgstr "Chỉ dành cho tập lệnh ddslick!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Buộc khách hàng thanh toán trên trang thanh toán theo các quy tắc được xác định trong tab 'Quy tắc GeoIP'. CHÚ Ý: tính năng này có ý nghĩa hợp lý nếu bạn bật 'Bật giá cố định' và cũng cài đặt quy tắc giá cố định trong sản phẩm cho các loại tiền tệ khác nhau!"
+
+msgid "Free flags images"
+msgstr "Hình ảnh cờ miễn phí"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "Hồ sơ GeoIP"
+
+msgid "GeoIP rules"
+msgstr "Quy tắc GeoIP"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP hoạt động từ phiên bản.2.3 của plugin WooCommerce và không với các phiên bản nhỏ của WooCommerce !!"
+
+msgid "Get free API keys:"
+msgstr "Nhận các khóa API miễn phí:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Cung cấp khả năng đặt các mức giá khác nhau cho từng vai trò người dùng"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Cung cấp khả năng đặt các mức giá khác nhau cho từng vai trò người dùng. Bộ lọc giá WooCommerce tự nhiên bị mù đối với dữ liệu này!"
+
+msgid "Go Pro!"
+msgstr "Đi pro!"
+
+msgid "Help"
+msgstr "Trợ giúp"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Tại đây, bạn có thể tạo tập hợp các cấu hình quốc gia để áp dụng nó trong các sản phẩm theo logic kinh doanh của bạn. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Tại đây bạn có thể đặt số tiền CỐ ĐỊNH cho phiếu giảm giá cho bất kỳ đơn vị tiền tệ nào bạn muốn. Trong trường hợp trường số tiền trống, việc đếm lại theo tỷ lệ sẽ hoạt động!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Tại đây, bạn có thể đặt giá CỐ ĐỊNH cho sản phẩm với bất kỳ loại tiền nào bạn muốn. Trong trường hợp giá trống, tính lại theo tỷ lệ sẽ hoạt động!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Tại đây, bạn có thể đặt giá bằng đơn vị tiền tệ cơ bản cho các quốc gia khác nhau và việc kiểm kê lại sẽ được thực hiện tương đối với các giá trị này. CHÚ Ý: giá cố định cho các loại tiền có mức độ ưu tiên cao hơn!"
+
+msgid "Hide cents"
+msgstr "Ẩn xu"
+
+msgid "Hide on mobile devices"
+msgstr "Ẩn trên thiết bị di động"
+
+msgid "Hide on the pages"
+msgstr "Ẩn trên các trang"
+
+msgid "Hide switcher on checkout page"
+msgstr "Ẩn trình chuyển đổi trên trang thanh toán"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Ẩn trình chuyển đổi trên trang thanh toán vì bất kỳ lý do gì. Làm lại tốt hơn cho người dùng thay đổi tiền tệ trên trang thanh toán ở nhiều chế độ."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Ẩn / Hiển thị hệ thống thanh toán trên trang thanh toán tùy thuộc vào đơn vị tiền tệ hiện tại"
+
+msgid "Hint"
+msgstr "Dấu"
+
+msgid "Hover color"
+msgstr "Màu di chuột"
+
+msgid "Hover field(s)"
+msgstr "(Các) trường di chuột"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Cách hiển thị trình chuyển đổi tiền tệ (theo mặc định) trên mặt trước của trang web. (MỚI) Thu hút sự chú ý của bạn trên các giao diện có số - bạn có thể sử dụng chúng trên cùng một trang với các thiết kế khác nhau trong shortcode [woocs] được mô tả trong kiểu thuộc tính và số kiểu của nó (xem trang Codex trong tab Trợ giúp Thông tin)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "Tôi đang sử dụng plugin bộ nhớ cache trên trang web của mình"
+
+msgid "I cant add flags! What to do?"
+msgstr "Tôi không thể thêm cờ! Để làm gì?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "Nếu bảng cài đặt WOOCS trông không chính xác hoặc bạn có lỗi JavaScript (sau khi cập nhật) - trước hết"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Nếu trong tab Tùy chọn kích hoạt tùy chọn Tôi đang sử dụng plugin bộ nhớ cache trên trang web của mình - để tránh dữ liệu kép cho việc đăng ký dữ liệu thống kê trong tab Tùy chọn kích hoạt tùy chọn Không có dữ liệu GET trong liên kết!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Nếu bạn có ý tưởng về mẫu css + js - hãy gửi yêu cầu hỗ trợ, vui lòng mô tả tầm nhìn của bạn ở đâu."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "Nếu bạn có ý tưởng về các kịch bản của thống kê, vui lòng chia sẻ và thảo luận trên %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Nếu bạn muốn cho phép khách hàng thanh toán bằng đơn vị tiền tệ đã chọn của họ trong tab Nâng cao, hãy đặt tùy chọn Được phép nhiều thành Có."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "Trong một số máy chủ, có sự cố với các phiên và sau khi chọn đơn vị tiền tệ, thiết lập lại của nó để chào mừng tiền tệ hoặc tiền tệ ip địa lý. Trong trường hợp này, hãy sử dụng tạm thời. Nếu có thể trên hosting của bạn, hãy sử dụng Memcached hoặc Redis!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "Trong phiên bản miễn phí của plugin %s, bạn chỉ có thể hoạt động với 2 loại tiền tệ BẤT KỲ %s! Nếu bạn muốn sử dụng nhiều đơn vị tiền tệ hơn %s, bạn có thể thực hiện nâng cấp lên phiên bản cao cấp%s của plugin"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "Theo đơn vị tiền tệ hiển thị giá cho lượt truy cập đầu tiên của khách hàng trên trang web của bạn. Đừng làm điều đó riêng tư để tránh lộn xộn logic!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Các quy tắc GeoIP riêng cho từng sản phẩm"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Số tiền cố định cá nhân cho phiếu giảm giá"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Số tiền cố định riêng để vận chuyển"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Các quy tắc về giá cố định riêng cho từng sản phẩm"
+
+msgid "Individual prices based on user role"
+msgstr "Giá riêng lẻ dựa trên vai trò của người dùng"
+
+msgid "Is hidden"
+msgstr "Bị ẩn"
+
+msgid "Is multiple allowed"
+msgstr "Được phép nhiều"
+
+msgid "Is shown"
+msgstr "Được hiển thị"
+
+msgid "Left"
+msgstr "Còn lại"
+
+msgid "Load countries from profile"
+msgstr "Tải các quốc gia từ hồ sơ"
+
+msgid "Loading"
+msgstr "Tải"
+
+msgid "Main color"
+msgstr "Màu chính"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Màu chính tô màu cho các phần tử của bộ chuyển đổi"
+
+msgid "Maximum spend"
+msgstr "Chi tiêu tối đa"
+
+msgid "Minimum spend"
+msgstr "Chi tiêu tối thiểu"
+
+msgid "Money signs"
+msgstr "Dấu hiệu tiền"
+
+msgid "More power for your shop"
+msgstr "Thêm sức mạnh cho cửa hàng của bạn"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Bộ lọc giá WooCommerce tự nhiên không thấy dữ liệu được tạo bởi tính năng này."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Bộ lọc giá WooCommerce gốc bị mù đối với tất cả dữ liệu được tạo bởi các tính năng được đánh dấu"
+
+msgid "New profile"
+msgstr "Hồ sơ mới"
+
+msgid "No"
+msgstr "Không"
+
+msgid "No GET data in link"
+msgstr "Không có dữ liệu GET trong liên kết"
+
+msgid "No such profile"
+msgstr "Không có hồ sơ như vậy"
+
+msgid "Nope, maybe later!"
+msgstr "Không, có thể sau!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "Không thể tính toán lại đơn đặt hàng - vì đơn vị tiền tệ cơ bản hiện tại là %s và đơn vị tiền tệ cơ sở của đơn đặt hàng là %s!"
+
+msgid "Not styled drop-down"
+msgstr "Trình đơn thả xuống không theo kiểu"
+
+msgid "Note"
+msgstr "chú thích"
+
+msgid "Notes*"
+msgstr "Ghi chú *"
+
+msgid "Ok, you deserve it"
+msgstr "Ok, bạn xứng đáng"
+
+msgid "Open exchange rates"
+msgstr "Tỷ giá hối đoái mở"
+
+msgid "Options"
+msgstr "Các lựa chọn"
+
+msgid "Order currency"
+msgstr "Đơn vị tiền tệ"
+
+msgid "Order currency rate"
+msgstr "Đặt hàng tỷ giá tiền tệ"
+
+msgid "P $ - right space"
+msgstr "P $ - dấu cách bên phải"
+
+msgid "P$ - right"
+msgstr "P $ - phải"
+
+msgid "PHP Session"
+msgstr "Phiên PHP"
+
+msgid "Payments"
+msgstr "Thanh toán"
+
+msgid "Payments behavior"
+msgstr "Hành vi thanh toán"
+
+msgid "Payments rules"
+msgstr "Quy tắc thanh toán"
+
+msgid "Please use the API key"
+msgstr "Vui lòng sử dụng khóa API"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Cổng cho: memcached hoặc redis. Thông thường đối với cổng memcached là 11211, đối với cổng redis là 6379. Đọc tài liệu lưu trữ của bạn về cổng nào sẽ sử dụng cho memcached hoặc redis."
+
+msgid "Position"
+msgstr "Chức vụ"
+
+msgid "Precision"
+msgstr "Độ chính xác"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Nhấn nút này nếu bạn muốn nhận tỷ giá tiền tệ từ bộ tổng hợp đã chọn ở trên!"
+
+msgid "Prices preloader"
+msgstr "Trình tải trước giá"
+
+msgid "Prices without cents"
+msgstr "Giá không có xu"
+
+msgid "Private"
+msgstr "Riêng"
+
+msgid "Profile is deleted"
+msgstr "Hồ sơ đã bị xóa"
+
+msgid "Profiles"
+msgstr "Profiles"
+
+msgid "Public"
+msgstr "Công khai"
+
+msgid "Quick introduction"
+msgstr "Giới thiệu nhanh"
+
+msgid "Rate"
+msgstr "Tỷ lệ"
+
+msgid "Rate and Interest"
+msgstr "Lãi suất và Lãi suất"
+
+msgid "Rate auto update"
+msgstr "Đánh giá cập nhật tự động"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Đọc wiki về Mã hoạt động tiền tệ"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "Đọc wiki về Mã đơn vị tiền tệ đang hoạt động  <-  Nhận mã đơn vị tiền tệ phù hợp tại đây nếu bạn không chắc chắn về nó!"
+
+msgid "Recalculate all orders"
+msgstr "Tính toán lại tất cả các đơn đặt hàng"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Tính toán lại tất cả các đơn đặt hàng với đơn vị tiền tệ cơ bản. Đề xuất kiểm tra tùy chọn này trên bản sao của trang web của bạn! Đọc tài liệu của plugin về nó!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Tính toán lại đơn đặt hàng hiện tại với đơn vị tiền tệ đã chọn."
+
+msgid "Recalculate order"
+msgstr "Tính toán lại đơn hàng"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Tính giá không có xu ở mọi nơi như JPY và TWD mà bản chất của nó không có xu. Sử dụng dấu phẩy. Ví dụ: UAH, RUB. Kiểm tra nó để thanh toán sau khi thiết lập!"
+
+msgid "Regular price"
+msgstr "Giá cả phải chăng"
+
+msgid "Remove"
+msgstr "Hủy bỏ"
+
+msgid "Reverse this option"
+msgstr "Đảo ngược tùy chọn này"
+
+msgid "Reverse use"
+msgstr "Đảo ngược sử dụng"
+
+msgid "Right"
+msgstr "Đúng"
+
+msgid "Roll blocks"
+msgstr "Cuộn khối"
+
+msgid "Round chain"
+msgstr "Chuỗi tròn"
+
+msgid "Round select"
+msgstr "Chọn vòng"
+
+msgid "Sale price"
+msgstr "Giá bán"
+
+msgid "Save changes please!"
+msgstr "Vui lòng lưu các thay đổi!"
+
+msgid "Select Currency"
+msgstr "Chọn tiền tệ"
+
+msgid "Select currency..."
+msgstr "Chọn đơn vị tiền tệ ..."
+
+msgid "Select symbol position"
+msgstr "Chọn vị trí biểu tượng"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Máy chủ hoặc ổ cắm cho: memcached hoặc redis. Thường là localhost. Đọc tài liệu lưu trữ của bạn về máy chủ lưu trữ nào sẽ sử dụng cho memcached hoặc redis."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "Đặt Có ở đây CHỈ nếu bạn THỰC SỰ sử dụng plugin bộ nhớ cache cho trang web của mình, ví dụ như Super cache hoặc Hiper cache (không thành vấn đề). + Đặt \\ \"Định dạng giá tùy chỉnh \", ví dụ: __PRICE__ (__CODE__). Sau khi bật tính năng này - hãy làm sạch bộ nhớ cache của bạn để nó hoạt động. Nó sẽ cho phép hiển thị giá bằng đơn vị tiền tệ đã chọn trên tất cả các trang của trang web. Phí cho tính năng này - các truy vấn AJAX bổ sung để vẽ lại giá sản phẩm."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Đặt tiền tệ chính của etalon. Đây phải là đơn vị tiền tệ mà giá của hàng hóa được thể hiện!"
+
+msgid "Set title"
+msgstr "Đặt tiêu đề"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Đặt định dạng của bạn như thế nào để hiển thị giá ở mặt trước. Sử dụng các phím: __CODE __, __ PRICE__. Để trống để sử dụng định dạng mặc định. Ví dụ: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Hệ thống thanh toán nên được ẩn đối với các loại tiền tệ đã chọn hoặc ngược lại được hiển thị!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Hiển thị nút tùy chọn WOOCS trên thanh quản trị trên cùng để truy cập nhanh. Rất tiện dụng cho công việc năng động. Chỉ hiển thị cho quản trị viên trang web!"
+
+msgid "Show approx. amount"
+msgstr "Hiển thị khoảng. số tiền"
+
+msgid "Show approx. price"
+msgstr "Hiển thị khoảng. giá bán"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Hiển thị số tiền gần đúng trên thanh toán và trang giỏ hàng với đơn vị tiền tệ của người dùng được xác định bởi IP trong tab quy tắc GeoIp. Chỉ hoạt động với dữ liệu tỷ giá tiền tệ và KHÔNG hoạt động với quy tắc giá cố định và quy tắc địa lý."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Hiển thị giá gần đúng trên cửa hàng và trang sản phẩm đơn lẻ với đơn vị tiền tệ của người dùng được xác định bởi IP trong tab quy tắc GeoIp. Chỉ hoạt động với dữ liệu tỷ giá tiền tệ và KHÔNG hoạt động với quy tắc giá cố định và quy tắc địa lý."
+
+msgid "Show cents"
+msgstr "Hiển thị xu"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Chỉ hiển thị tiền tệ cho tất cả trên trang web hoặc Ẩn những khoảnh khắc riêng tư trong bảng quản trị wp chỉ bằng cách sử dụng."
+
+msgid "Show flags"
+msgstr "Hiển thị cờ"
+
+msgid "Show flags by default"
+msgstr "Hiển thị cờ theo mặc định"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Hiển thị biểu tượng thông tin gần giá của sản phẩm, trong khi di chuột qua của nó hiển thị giá của sản phẩm bằng tất cả các đơn vị tiền tệ"
+
+msgid "Show money signs"
+msgstr "Hiển thị dấu hiệu tiền"
+
+msgid "Show on all devices"
+msgstr "Hiển thị trên tất cả các thiết bị"
+
+msgid "Show on mobile devices only"
+msgstr "Chỉ hiển thị trên thiết bị di động"
+
+msgid "Show on the pages"
+msgstr "Hiển thị trên các trang"
+
+msgid "Show options button on top admin bar."
+msgstr "Hiển thị nút tùy chọn trên thanh quản trị trên cùng."
+
+msgid "Show price info icon"
+msgstr "Hiển thị biểu tượng thông tin giá"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Hiển thị / Ẩn trên thiết bị di động (ưu tiên cao nhất)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Hiển thị / ẩn cờ trên menu thả xuống phía trước"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Hiển thị / ẩn dấu hiệu tiền trên menu thả xuống phía trước"
+
+msgid "Side"
+msgstr "Bên"
+
+msgid "Side switcher"
+msgstr "Trình chuyển đổi bên"
+
+msgid "Skin"
+msgstr "Da"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Một số trình tổng hợp yêu cầu khóa API. Xem gợi ý dưới đây để làm thế nào để có được nó!"
+
+msgid "Statistic"
+msgstr "Thống kê"
+
+msgid "Storage port"
+msgstr "Cổng lưu trữ"
+
+msgid "Storage server"
+msgstr "Máy chủ lưu trữ"
+
+msgid "Style #1"
+msgstr "Phong cách # 1"
+
+msgid "Style #2"
+msgstr "Phong cách # 2"
+
+msgid "Style #3"
+msgstr "Phong cách # 3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Phong cách của trình chuyển đổi trên mặt trước của trang web"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Chuyển đổi tiền tệ không có thuộc tính GET (? Currency = USD) trong liên kết. Hoạt động trong woocommerce> 3.3.0."
+
+msgid "Symbol"
+msgstr "Mã"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "Đơn vị tiền tệ của đơn hàng NÀY được thay đổi thủ công %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Cảm ơn bạn, tôi đã làm được!"
+
+msgid "The Free Currency Converter"
+msgstr "Công cụ chuyển đổi tiền tệ miễn phí"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "Phiếu thưởng đã cố định các quy tắc chi tiêu Tối thiểu và Tối đa"
+
+msgid "The coupon fixed amount rules"
+msgstr "Quy tắc số tiền cố định phiếu thưởng"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "Các tùy chọn sau đây ảnh hưởng đến cách giá được hiển thị trên giao diện người dùng. Công cụ chuyển đổi tiền tệ WooCommerce được kích hoạt. Vui lòng đặt tiền tệ mặc định %s."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "Mức chi tiêu tối đa cho phiếu giảm giá này là %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "Mức chi tiêu tối thiểu cho phiếu giảm giá này là %s."
+
+msgid "The price based on user role"
+msgstr "Giá dựa trên vai trò của người dùng"
+
+msgid "The product custom GeoIP rules"
+msgstr "Các quy tắc GeoIP tùy chỉnh của sản phẩm"
+
+msgid "The product fixed prices rules"
+msgstr "Quy tắc về giá cố định của sản phẩm"
+
+msgid "The side where the switcher is be placed"
+msgstr "Phía nơi đặt bộ chuyển đổi"
+
+msgid "The switcher color when mouse hovering"
+msgstr "Màu của trình chuyển đổi khi di chuột"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "Điều này giúp công việc cài đặt quy tắc cho từng sản phẩm nhanh hơn"
+
+msgid "Title"
+msgstr "Tựa"
+
+msgid "Top margin"
+msgstr "Lề trên"
+
+msgid "Total amount"
+msgstr "Tổng cộng"
+
+msgid "Total in basic currency:"
+msgstr "Tổng bằng đơn vị tiền tệ cơ bản:"
+
+msgid "Transient"
+msgstr "Tạm thời"
+
+msgid "UPGRADE to Full version"
+msgstr "Nâng cấp đến phiên bản đầy đủ"
+
+msgid "Update all rates"
+msgstr "Cập nhật tất cả các mức giá"
+
+msgid "Update profile"
+msgstr "Cập nhật hồ sơ"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Sử dụng Định vị địa lý gây ra sự cố, dường như không hiệu quả với tôi"
+
+msgid "Video tutorials"
+msgstr "video hướng dẫn"
+
+msgid "Visibility"
+msgstr "Visibility"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - Chuyên gia biên tập hàng loạt WooCommerce"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - cố định Chi tiêu tối thiểu và tối đa"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - số tiền cố định của phiếu thưởng"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - giá dựa trên vai trò của người dùng"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - các quy tắc GeoIP tùy chỉnh của sản phẩm"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - giá cố định của sản phẩm"
+
+msgid "WOOCS Currency Options"
+msgstr "Tùy chọn tiền tệ của WOOCS"
+
+msgid "WOOCS Order Info"
+msgstr "Thông tin đặt hàng của WOOCS"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - Bộ lọc sản phẩm thương mại WooC"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - Bảng sản phẩm hoạt động của WooCommerce"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Cảnh báo: Woocommerce chưa được kích hoạt"
+
+msgid "Watch video instructions"
+msgstr "Xem video hướng dẫn"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "Chúng tôi làm việc chăm chỉ để làm cho plugin này trở thành công cụ hiệu quả hơn cho các cửa hàng điện tử của bạn và %s sẵn sàng lắng nghe đánh giá, đề xuất và ý kiến ​​của bạn %s, hãy chia sẻ nó với chúng tôi!"
+
+msgid "Welcome currency"
+msgstr "Tiền tệ chào mừng"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Nội dung nào sẽ hiển thị trong trình chuyển đổi sau khi di chuột vào bất kỳ đơn vị tiền tệ nào ở đó. Biến thể:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Nội dung nào sẽ hiển thị trong trình chuyển đổi sau khi tải trang trang web. Biến thể:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Bộ chuyển đổi sẽ được ẩn ở đâu trên trang web. Nếu có bất kỳ giá trị nào được trình bày ở đây, trình chuyển đổi sẽ bị ẩn trên các trang đó và hiển thị trên tất cả các trang khác. Bạn có thể sử dụng ID trang bằng dấu phẩy, ví dụ: 28,34,232. Ngoài ra, bạn có thể sử dụng các từ đặc biệt như: product, shop, checkout, front_page, woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Trình chuyển đổi sẽ hiển thị ở đâu trên trang web. Nếu bất kỳ giá trị nào được trình bày ở đây, trình chuyển đổi sẽ bị ẩn trên tất cả các trang khác không được trình bày trong trường này. Bạn có thể sử dụng ID trang bằng dấu phẩy, ví dụ: 28,34,232. Ngoài ra, bạn có thể sử dụng các từ đặc biệt như: product, shop, checkout, front_page, woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Văn bản nào hiển thị trong các tùy chọn thả xuống - mã đơn vị tiền tệ HOẶC văn bản mô tả. Có vẻ tốt cho tất cả các trình đơn thả xuống ngoại trừ ddslick."
+
+msgid "Width"
+msgstr "Chiều rộng"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "HỖ TRỢ Trình chuyển đổi tiền tệ WooCommerce"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "Công cụ chuyển đổi tiền tệ WooCommerce v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "Chức năng GeoIP của WooCommerce không hoạt động trên trang web của bạn. Có lẽ điều này sẽ giúp bạn."
+
+msgid "Yes"
+msgstr "Có"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Bạn sẽ có thể đặt số tiền CỐ ĐỊNH cho phiếu giảm giá cho mỗi loại tiền tệ. LƯU Ý: \"Có được phép nhiều không\" nên được bật!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Bạn sẽ có thể đặt số tiền CỐ ĐỊNH cho mỗi loại tiền miễn phí và tất cả các cách vận chuyển khác. LƯU Ý: \"Có được phép nhiều không\" nên được bật!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Bạn sẽ có thể đặt giá CỐ ĐỊNH cho các sản phẩm đơn giản và có thể thay đổi. LƯU Ý: \"Có được phép nhiều không\" nên được bật!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "Bạn sẽ có thể đặt các mức giá khác nhau cho từng sản phẩm (bằng đơn vị tiền tệ CƠ BẢN) cho các quốc gia khác nhau"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Quốc gia của bạn không được xác định! Sự cố với dịch vụ GeoIp."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Quốc gia của bạn không được xác định! Sự cố với kết nối internet hoặc dịch vụ GeoIp."
+
+msgid "Your country is: %s"
+msgstr "Quốc gia của bạn là: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Quốc gia của bạn là: %s. (được định nghĩa bởi chức năng GeoIP của woocommerce)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "Phiên bản plugin WooCommerce của bạn đã quá lỗi thời. Cập nhật tối thiểu lên phiên bản %s để tránh hoạt động sai!"
+
+msgid "a hint"
+msgstr "một gợi ý"
+
+msgid "auto"
+msgstr "tự động"
+
+msgid "cancel"
+msgstr "hủy bỏ"
+
+msgid "change the rate and this description to the right values"
+msgstr "thay đổi tỷ lệ và mô tả này thành các giá trị phù hợp"
+
+msgid "clear all"
+msgstr "Làm sạch tất cả"
+
+msgid "code"
+msgstr "mã"
+
+msgid "currency"
+msgstr "tiền tệ"
+
+msgid "daily"
+msgstr "hàng ngày."
+
+msgid "ddslick drop-down"
+msgstr "thả xuống ddslick"
+
+msgid "description"
+msgstr "Mô tả"
+
+msgid "drag and drop"
+msgstr "kéo và thả"
+
+msgid "enter amount"
+msgstr "nhập số tiền"
+
+msgid "enter roll width"
+msgstr "nhập chiều rộng cuộn"
+
+msgid "exchange rate"
+msgstr "tỷ giá hối đoái"
+
+msgid "from"
+msgstr "từ"
+
+msgid "full version of the plugin"
+msgstr "phiên bản đầy đủ của plugin"
+
+msgid "here"
+msgstr "nhấn vào đây."
+
+msgid "hourly"
+msgstr "giờ"
+
+msgid "interest"
+msgstr "quan tâm"
+
+msgid "is added!"
+msgstr "được thêm vào!"
+
+msgid "is updated!"
+msgstr "đã cập nhật!"
+
+msgid "left"
+msgstr "trái"
+
+msgid "loading"
+msgstr "tải"
+
+msgid "monthly"
+msgstr "hàng tháng"
+
+msgid "move"
+msgstr "di chuyển"
+
+msgid "no auto update"
+msgstr "không có cập nhật tự động"
+
+msgid "no data for %s"
+msgstr "không có dữ liệu cho %s"
+
+msgid "orders (completed)"
+msgstr "đơn đặt hàng (đã hoàn thành)"
+
+msgid "reset the browser cache"
+msgstr "đặt lại bộ nhớ cache của trình duyệt"
+
+msgid "results"
+msgstr "các kết quả"
+
+msgid "right"
+msgstr "ngay"
+
+msgid "select all"
+msgstr "chọn tất cả"
+
+msgid "select some countries"
+msgstr "chọn một số quốc gia"
+
+msgid "select user role"
+msgstr "chọn vai trò người dùng"
+
+msgid "special: each 15 minutes"
+msgstr "đặc biệt: mỗi 15 phút"
+
+msgid "special: each 30 minutes"
+msgstr "đặc biệt: mỗi 30 phút"
+
+msgid "special: each 45 minutes"
+msgstr "đặc biệt: mỗi 45 phút"
+
+msgid "special: each 5 minutes"
+msgstr "đặc biệt: mỗi 5 phút"
+
+msgid "special: each minute"
+msgstr "đặc biệt: mỗi phút"
+
+msgid "support"
+msgstr "hỗ trợ"
+
+msgid "the plugin forum"
+msgstr "diễn đàn plugin"
+
+msgid "to"
+msgstr "đến"
+
+msgid "twicedaily"
+msgstr "hai lần mỗi ngày"
+
+msgid "wSelect drop-down"
+msgstr "wSelect thả xuống"
+
+msgid "Currencies popularity"
+msgstr "Tiền tệ phổ biến"
+
+msgid "Countries popularity"
+msgstr "Quốc gia phổ biến"

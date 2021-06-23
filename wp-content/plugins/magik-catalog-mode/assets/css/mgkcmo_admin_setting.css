@@ -1,0 +1,45 @@
+.mgkcmo_wrap
+{
+	margin: 10px;
+}
+
+.mgkcmo_wrap .form-table
+{
+	background: #fff;
+	padding: 10px;
+	margin-bottom: 40px;
+}
+
+.mgkcmo_wrap  .form-table th
+{
+	padding: 20px 10px 20px 15px;
+}
+
+
+.mgkcmo_wrap .form-table th
+{
+	    width: 280px;
+}
+
+
+/* magik plugin common panel css */
+
+
+.mgkplugins_panel_wrap
+{
+	background: #fff;
+	padding: 20px;
+	margin-bottom: 40px;
+}
+
+.mgkplugins_panel_wrap .mgk_plugin_seaction
+{
+
+}
+
+
+.mgkplugins_panel_wrap .mgkplugin_link li a
+{
+ font-size: 15px;
+ text-decoration: none;
+}

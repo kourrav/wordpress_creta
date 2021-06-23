@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: nl_NL\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - linker spatie"
+
+msgid "$P - left"
+msgstr "$ P - koppelingen"
+
+msgid "(Approx. %s)"
+msgstr "(Ongeveer %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ naar uw rente in het tarief, bijvoorbeeld: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s is"
+
+msgid "Base currency of the site is: %s"
+msgstr "De basisvaluta van de site is: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Geactualiseerd voor WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Add Currency"
+msgstr "Valuta toevoegen"
+
+msgid "Add all"
+msgstr "Voeg alles toe"
+
+msgid "Add custom money sign"
+msgstr "Voeg een aangepast geldbord toe"
+
+msgid "Add group"
+msgstr "Groep toevoegen"
+
+msgid "Add new profile"
+msgstr "Nieuw profiel toevoegen"
+
+msgid "Add to:"
+msgstr "Toevoegen aan:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Voeg uw geldsymbolen toe aan uw winkel. Voorbeeld: $ USD, AAA, AUD $, DDD - gescheiden door komma's"
+
+msgid "Advanced"
+msgstr "Meer opties"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Nadat cron klaar is, worden nieuwe valutakoersen verzonden naar de e-mail van de sitebeheerder. LET OP: als u geen e-mails heeft ontvangen, betekent dit dat de PHP-functie mail () niet werkt op uw server of het verzenden van e-mails door deze functie is vergrendeld."
+
+msgid "Aggregator API key"
+msgstr "API-sleutel-aggregator"
+
+msgid "Base currency"
+msgstr "Basisvaluta"
+
+msgid "Basic"
+msgstr "Basic"
+
+msgid "Basic field(s)"
+msgstr "Basisveld (en)"
+
+msgid "Behavior"
+msgstr "Gedrag"
+
+msgid "Behavior for devices"
+msgstr "Gedrag voor apparaten"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Cents"
+msgstr "Cent"
+
+msgid "Change order currency"
+msgstr "Wijzig de ordervaluta"
+
+msgid "Change the order currency to any other"
+msgstr "Wijzig de ordervaluta in een andere valuta"
+
+msgid "Chart type: bar"
+msgstr "Grafiektype: balk"
+
+msgid "Chart type: pie"
+msgstr "Grafiektype: taart"
+
+msgid "Checkout by GeoIP rules"
+msgstr "Afrekenen op basis van GeoIP-regels"
+
+msgid "Choise behavior"
+msgstr "Kies gedrag"
+
+msgid "Choise currencies"
+msgstr "Kies valuta"
+
+msgid "Choise side"
+msgstr "Kies kant"
+
+msgid "Choise skin"
+msgstr "Kies huid"
+
+msgid "Chosen dark drop-down"
+msgstr "Gekozen donkere vervolgkeuzelijst"
+
+msgid "Chosen drop-down"
+msgstr "Gekozen dropdown-menu"
+
+msgid "Classic blocks"
+msgstr "Klassieke blokken"
+
+msgid "Click to select the flag"
+msgstr "Klik om de vlag te selecteren"
+
+msgid "Codex"
+msgstr "Codex"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Verzamel valuta-omschakelingsstatistieken voor zakelijke doeleinden. Er worden geen privégegevens van klanten verzameld, alleen valuta, land en tijdstip van overstappen. Ook statistiek voor ordervaluta's is er."
+
+msgid "Convert"
+msgstr "Converteren"
+
+msgid "Count of digits after point"
+msgstr "Aantal cijfers na punt"
+
+msgid "Coupon amount"
+msgstr "Couponbedrag"
+
+msgid "Currencies"
+msgstr "Valuta"
+
+msgid "Currencies excluding from view"
+msgstr "Valuta's die niet zichtbaar zijn"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Valutakoersen automatisch bijwerken door WordPress cron."
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Currency aggregator"
+msgstr "Valuta-aggregator"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Valuta-aggregators. Opmerking: als u een aggregator kent die niet in WOOCS wordt weergegeven, schrijf dan een verzoek om ondersteuning, met de suggestie om deze toe te voegen!"
+
+msgid "Currency in which the customer paid."
+msgstr "Valuta waarin de klant heeft betaald."
+
+msgid "Currency rate when the customer paid"
+msgstr "Wisselkoers toen de klant betaalde"
+
+msgid "Currency storage"
+msgstr "Valuta-opslag"
+
+msgid "Currencylayer"
+msgstr "Valutaspeler"
+
+msgid "Current currency is:"
+msgstr "Huidige valuta is:"
+
+msgid "Custom money signs"
+msgstr "Aangepaste geldborden"
+
+msgid "Custom price format"
+msgstr "Aangepast prijsformaat"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "De klant betaalt met de geselecteerde valuta (Ja) of met de standaardvaluta (Nee)."
+
+msgid "Decimal"
+msgstr "Decimaal"
+
+msgid "Decimals"
+msgstr "Decimalen"
+
+msgid "Delete profile"
+msgstr "Verwijder profiel"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Direct use"
+msgstr "Direct gebruik"
+
+msgid "Disable on pages"
+msgstr "Uitschakelen op pagina's"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "WOOCS alleen op de beschreven pagina's in- of uitschakelen. Gebruik komma's en paginaslakken. Voorbeeld: blog, account"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Afstand vanaf de bovenkant van het scherm tot het html-blok van de switcher. U kunt instellen in px of in%. Voorbeeld 1: 100px. Voorbeeld 2: 10%."
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid "Drop-down options text type"
+msgstr "Teksttype met vervolgkeuzemenu's"
+
+msgid "EU countries"
+msgstr "EU-landen"
+
+msgid "Edit profile"
+msgstr "Bewerk profiel"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "E-mailbericht over de resultaten van \\ \"Beoordeel auto-update \""
+
+msgid "Enable/Disable"
+msgstr "Inschakelen / uitschakelen"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Schakel de valutawisselaar aan de zijkant op uw pagina in / uit"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Voorbeelden: 300px, 100%, auto"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Voorbeelden: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "Voorbeeld: USD, EUR"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Fixer"
+msgstr "fixeerbad"
+
+msgid "Flag"
+msgstr "Vlag"
+
+msgid "Flag position"
+msgstr "Vlag positie"
+
+msgid "Flags (as images)"
+msgstr "Vlaggen (als afbeeldingen)"
+
+msgid "For ajax redraw."
+msgstr "Voor het opnieuw tekenen van ajax."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "Voor valuta's - geaggregeerde gegevens over het aantal landen waarin gebruikers valuta's hebben geselecteerd op de voorkant van de site. Voor bestellingen - het aantal bestellingen dat is gedaan vanuit landen, gedetecteerd door het geselecteerde land in het factuuradres."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "Voor valuta's - geaggregeerde gegevens over geselecteerde valuta's op de voorkant van de site. Voor bestellingen - aantal bestellingen gemaakt in de geselecteerde valuta."
+
+msgid "For ddslick script only!"
+msgstr "Alleen voor ddslick-script!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Dwing de klanten om op de afrekenpagina te betalen volgens de regels die zijn gedefinieerd op het tabblad 'GeoIP-regels'. LET OP: deze functie is logisch als je 'Vaste prijzen inschakelen' hebt ingeschakeld en ook regels voor vaste prijzen in de producten voor verschillende valuta's hebt geïnstalleerd!"
+
+msgid "Free flags images"
+msgstr "Gratis vlaggen afbeeldingen"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "GeoIP-profielen"
+
+msgid "GeoIP rules"
+msgstr "GeoIP-regels"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP werkt vanaf v.2.3 van de WooCommerce-plug-in en niet met kleinere versies van WooCommerce !!"
+
+msgid "Get free API keys:"
+msgstr "Ontvang gratis API-sleutels:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Biedt de mogelijkheid om voor elke gebruikersrol verschillende prijzen in te stellen"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Biedt de mogelijkheid om voor elke gebruikersrol verschillende prijzen in te stellen. Native WooCommerce-prijsfilter is blind voor deze gegevens!"
+
+msgid "Go Pro!"
+msgstr "Ga voor Pro!"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Hier kunt u een reeks landenprofielen maken om deze vervolgens in de producten toe te passen volgens uw bedrijfslogica. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Hier kunt u een VAST bedrag voor de coupon instellen voor elke valuta die u maar wilt. In het geval van een leeg bedrag, zal het opnieuw tellen op tarief werken!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Hier kunt u een VASTE prijs voor het product instellen voor elke valuta die u maar wilt. In het geval van een leeg prijsveld werkt hertelling op tarief!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Hier kunt u prijzen instellen in de basisvaluta voor verschillende landen, en er zal opnieuw worden geteld op basis van deze waarden. LET OP: vaste prijs voor valuta heeft hogere prioriteit!"
+
+msgid "Hide cents"
+msgstr "Verberg centen"
+
+msgid "Hide on mobile devices"
+msgstr "Verberg op mobiele apparaten"
+
+msgid "Hide on the pages"
+msgstr "Verberg je op de pagina's"
+
+msgid "Hide switcher on checkout page"
+msgstr "Verberg switcher op afrekenpagina"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Verberg switcher op de afrekenpagina om welke reden dan ook. Betere herstart voor gebruikers om de valuta te wijzigen op de afrekenpagina in meerdere modi."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Verberg / toon betalingssystemen op de afrekenpagina, afhankelijk van de huidige valuta"
+
+msgid "Hint"
+msgstr "Aanwijzing"
+
+msgid "Hover color"
+msgstr "Beweeg de kleur"
+
+msgid "Hover field(s)"
+msgstr "Hover-veld (en)"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Hoe valutawisselaar (standaard) op de voorkant van de site weer te geven. (NIEUW) Vestig uw aandacht op skins met getallen - u kunt ze op dezelfde pagina gebruiken met verschillende ontwerpen in shortcode [woocs] beschreven in zijn attribuutstijl en stijlnummer (zie Codex-pagina in Info Help-tabblad)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "Ik gebruik een cache-plug-in op mijn site"
+
+msgid "I cant add flags! What to do?"
+msgstr "Ik kan geen vlaggen toevoegen! Wat te doen?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "Als het WOOCS-instellingenpaneel er onjuist uitziet of als je JavaScript-fouten hebt (na update) - ten eerste"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Als ik in het tabblad Opties de optie heb geactiveerd, gebruik ik de cache-plug-in op mijn site - om dubbele gegevens voor statistische gegevensregistratie in het tabblad Opties te vermijden, activeer ik de optie Geen GET-gegevens in link!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Als u een idee heeft over css + js-sjabloon - stuur een verzoek om ondersteuning, beschrijf uw visie."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "Als je ideeën hebt over scenario's van de statistiek, deel ze dan en bespreek ze op %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Als u uw klanten wilt laten betalen in hun geselecteerde valuta in het tabblad Geavanceerd, stelt u de optie Is meerdere toegestaan ​​in op Ja."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "Op sommige servers zijn er problemen met sessies, en nadat de valuta is geselecteerd, wordt deze gereset om valuta of geografische valuta te verwelkomen. Gebruik in dat geval tijdelijk. Als het mogelijk is op uw hosting, gebruik dan Memcached of Redis!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "In de gratis versie van de plug-in %s kun je alleen met 2 ALLE valuta's werken %s! Als u meer %s-valuta wilt gebruiken, kunt u upgraden naar de premiumversie%s van de plug-in"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "In welke valuta de prijzen weergeven voor het eerste bezoek van uw klant op uw site. Doe het niet privé om logische puinhoop te vermijden!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Individuele GeoIP-regels voor elk product"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Individueel vast bedrag voor coupon"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Individueel vast bedrag voor verzending"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Individuele regels voor vaste prijzen voor elk product"
+
+msgid "Individual prices based on user role"
+msgstr "Individuele prijzen op basis van gebruikersrol"
+
+msgid "Is hidden"
+msgstr "Is verborgen"
+
+msgid "Is multiple allowed"
+msgstr "Is meerdere toegestaan"
+
+msgid "Is shown"
+msgstr "Wordt getoond"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Load countries from profile"
+msgstr "Laad landen uit profiel"
+
+msgid "Loading"
+msgstr "het laden"
+
+msgid "Main color"
+msgstr "Hoofdkleur"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Hoofdkleur die de switcher-elementen inkleurt"
+
+msgid "Maximum spend"
+msgstr "Maximale besteding"
+
+msgid "Minimum spend"
+msgstr "Minimale besteding"
+
+msgid "Money signs"
+msgstr "Geld tekenen"
+
+msgid "More power for your shop"
+msgstr "Meer power voor uw winkel"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Native WooCommerce-prijsfilter ziet geen gegevens die door deze functie worden gegenereerd."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Native WooCommerce-prijsfilter is blind voor alle gegevens die worden gegenereerd door gemarkeerde functies"
+
+msgid "New profile"
+msgstr "Nieuw profiel"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No GET data in link"
+msgstr "Geen GET-gegevens in link"
+
+msgid "No such profile"
+msgstr "Geen dergelijk profiel"
+
+msgid "Nope, maybe later!"
+msgstr "Nee, misschien later!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "Het is niet mogelijk om de bestelling opnieuw te berekenen - omdat de huidige basisvaluta %s is en de basisvaluta van de bestelling %s!"
+
+msgid "Not styled drop-down"
+msgstr "Drop-down niet gestileerd"
+
+msgid "Note"
+msgstr "Opmerking:"
+
+msgid "Notes*"
+msgstr "Opmerkingen *"
+
+msgid "Ok, you deserve it"
+msgstr "Oké, je verdient het"
+
+msgid "Open exchange rates"
+msgstr "Open wisselkoersen"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Order currency"
+msgstr "Bestel valuta"
+
+msgid "Order currency rate"
+msgstr "Valutakoers bestellen"
+
+msgid "P $ - right space"
+msgstr "P $ - juiste ruimte"
+
+msgid "P$ - right"
+msgstr "P $ - juist"
+
+msgid "PHP Session"
+msgstr "PHP-sessie"
+
+msgid "Payments"
+msgstr "Betaalmogelijkheden"
+
+msgid "Payments behavior"
+msgstr "Betalingsgedrag"
+
+msgid "Payments rules"
+msgstr "Betalingsregels"
+
+msgid "Please use the API key"
+msgstr "Gebruik de API-sleutel"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Poort voor: memcached of redis. Gewoonlijk is de poort voor memcached 11211, voor redis is poort 6379. Lees uw hostingdocumentatie over welke poort moet worden gebruikt voor memcached of redis."
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Precision"
+msgstr "precisie"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Druk op deze knop als u de wisselkoers van de geselecteerde aggregator hierboven wilt opvragen!"
+
+msgid "Prices preloader"
+msgstr "Prijzen preloader"
+
+msgid "Prices without cents"
+msgstr "Prijzen zonder cent"
+
+msgid "Private"
+msgstr "Privaat"
+
+msgid "Profile is deleted"
+msgstr "Profiel is verwijderd"
+
+msgid "Profiles"
+msgstr "Profielen"
+
+msgid "Public"
+msgstr "Publieke"
+
+msgid "Quick introduction"
+msgstr "Snelle introductie"
+
+msgid "Rate"
+msgstr "tarief"
+
+msgid "Rate and Interest"
+msgstr "Tarief en rente"
+
+msgid "Rate auto update"
+msgstr "Beoordeel automatische update"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Lees de wiki over valuta-actieve codes"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "Lees de wiki over valuta-actieve codes  <-  Krijg hier de juiste valutacodes als je er niet zeker van bent!"
+
+msgid "Recalculate all orders"
+msgstr "Herbereken alle bestellingen"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Bereken alle bestellingen opnieuw met de basisvaluta. Aanbevolen test deze optie op de kloon van uw site! Lees de documentatie van de plug-in erover!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Bereken de huidige bestelling opnieuw met de geselecteerde valuta."
+
+msgid "Recalculate order"
+msgstr "Bereken de bestelling opnieuw"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Herhaal de prijzen overal zonder cent, zoals in JPY en TWD, die van nature geen cent hebben. Gebruik een komma. Voorbeeld: UAH, RUB. Test het voor het afrekenen na het instellen!"
+
+msgid "Regular price"
+msgstr "Normale prijs"
+
+msgid "Remove"
+msgstr "verwijderen"
+
+msgid "Reverse this option"
+msgstr "Keer deze optie om"
+
+msgid "Reverse use"
+msgstr "Omgekeerd gebruik"
+
+msgid "Right"
+msgstr "Rechtsaf"
+
+msgid "Roll blocks"
+msgstr "Rol blokken"
+
+msgid "Round chain"
+msgstr "Ronde ketting"
+
+msgid "Round select"
+msgstr "Rond selecteren"
+
+msgid "Sale price"
+msgstr "Verkoopprijs"
+
+msgid "Save changes please!"
+msgstr "Sla de wijzigingen op!"
+
+msgid "Select Currency"
+msgstr "selecteer valuta"
+
+msgid "Select currency..."
+msgstr "Selecteer valuta..."
+
+msgid "Select symbol position"
+msgstr "Selecteer symboolpositie"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Server of socket voor: memcached of redis. Meestal is dit localhost. Lees uw hostingdocumentatie over welke host u moet gebruiken voor memcached of redis."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "Stel hier ALLEEN Ja in als u ECHT de cache-plug-in voor uw site gebruikt, bijvoorbeeld zoals Super cache of Hiper cache (maakt niet uit). + Stel \\ \"Aangepast prijsformaat \" in, bijvoorbeeld: __PRICE__ (__CODE__). Nadat u deze functie hebt ingeschakeld, maakt u uw cache schoon om het te laten werken. Hiermee kunnen prijzen in de geselecteerde valuta op alle pagina's van de site worden weergegeven. Vergoeding voor deze functie - aanvullende AJAX-vragen voor het opnieuw tekenen van productprijzen."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Stel de hoofdvaluta van etalon in. Dit zou de valuta moeten zijn waarin de prijs van goederen tentoongesteld wordt!"
+
+msgid "Set title"
+msgstr "Titel instellen"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Stel uw formaat in hoe u de prijs op de voorkant wilt weergeven. Gebruik de toetsen: __CODE __, __ PRICE__. Laat het leeg om het standaardformaat te gebruiken. Voorbeeld: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Moet het betalingssysteem worden verborgen voor geselecteerde valuta's of omgekeerd weergegeven!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Toon WOOCS-optieknop op de bovenste beheerbalk voor snelle toegang. Erg handig voor actief werk. Alleen zichtbaar voor sitebeheerders!"
+
+msgid "Show approx. amount"
+msgstr "Toon ca. bedrag"
+
+msgid "Show approx. price"
+msgstr "Toon ca. prijs"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Toon het geschatte bedrag bij het afrekenen en de winkelwagenpagina met de valuta van de gebruiker gedefinieerd door IP op het tabblad GeoIp-regels. Werkt alleen met valutakoersgegevens en NIET met regels voor vaste prijzen en geografische regels."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Toon de geschatte prijs op de winkel en de enkele productpagina met de valuta van de gebruiker gedefinieerd door IP op het tabblad GeoIp-regels. Werkt alleen met valutakoersgegevens en NIET met regels voor vaste prijzen en geografische regels."
+
+msgid "Show cents"
+msgstr "Toon centen"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Toon valuta voor iedereen op de site of Verberg voor privémomenten in het wp admin-paneel met alleen."
+
+msgid "Show flags"
+msgstr "Toon vlaggen"
+
+msgid "Show flags by default"
+msgstr "Toon standaard vlaggen"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Toon info-icoon bij de prijs van het product dat, terwijl het eronder zweeft, prijzen van producten in alle valuta's toont"
+
+msgid "Show money signs"
+msgstr "Toon geldborden"
+
+msgid "Show on all devices"
+msgstr "Weergeven op alle apparaten"
+
+msgid "Show on mobile devices only"
+msgstr "Alleen weergeven op mobiele apparaten"
+
+msgid "Show on the pages"
+msgstr "Toon op de pagina's"
+
+msgid "Show options button on top admin bar."
+msgstr "Toon de knop Opties op de beheerdersbalk bovenaan."
+
+msgid "Show price info icon"
+msgstr "Prijs info pictogram weergeven"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Weergeven / verbergen op mobiel apparaat (hoogste prioriteit)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Toon / verberg vlaggen in de vervolgkeuzelijst aan de voorkant"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Toon / verberg geldborden in de vervolgkeuzelijst aan de voorkant"
+
+msgid "Side"
+msgstr "Kant"
+
+msgid "Side switcher"
+msgstr "Zijwisselaar"
+
+msgid "Skin"
+msgstr "huid"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Sommige aggregators hebben een API-sleutel nodig. Zie de onderstaande hint om het te krijgen!"
+
+msgid "Statistic"
+msgstr "Statistisch"
+
+msgid "Storage port"
+msgstr "Opslagpoort"
+
+msgid "Storage server"
+msgstr "Opslagserver"
+
+msgid "Style #1"
+msgstr "Stijl #1"
+
+msgid "Style #2"
+msgstr "Stijl #2"
+
+msgid "Style #3"
+msgstr "Stijl #3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Stijl van de switcher op de site"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Wisselt van valuta zonder GET-eigenschappen (? Currency = USD) in de link. Werkt in woocommerce> 3.3.0."
+
+msgid "Symbol"
+msgstr "Symbool"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "DEZE ordervaluta wordt handmatig gewijzigd %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Dank je, ik heb het gedaan!"
+
+msgid "The Free Currency Converter"
+msgstr "De gratis valuta-omzetter"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "De coupon vaste minimum en maximum bestedingsregels"
+
+msgid "The coupon fixed amount rules"
+msgstr "Regels voor het vaste couponbedrag"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "De volgende opties zijn van invloed op hoe prijzen op de frontend worden weergegeven. WooCommerce Currency Switcher is geactiveerd. Stel de standaardvaluta %s in alstublieft."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "De maximale besteding voor deze bon is %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "De minimale besteding voor deze coupon is %s."
+
+msgid "The price based on user role"
+msgstr "De prijs op basis van gebruikersrol"
+
+msgid "The product custom GeoIP rules"
+msgstr "De aangepaste GeoIP-regels van het product"
+
+msgid "The product fixed prices rules"
+msgstr "De regels voor vaste prijzen van het product"
+
+msgid "The side where the switcher is be placed"
+msgstr "De kant waar de switcher wordt geplaatst"
+
+msgid "The switcher color when mouse hovering"
+msgstr "De kleur van de schakelaar wanneer de muis zweeft"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "Dit maakt het werk aan regelinstellingen voor elk product sneller"
+
+msgid "Title"
+msgstr "titel"
+
+msgid "Top margin"
+msgstr "Bovenmarge"
+
+msgid "Total amount"
+msgstr "Totaalbedrag"
+
+msgid "Total in basic currency:"
+msgstr "Totaal in basisvaluta:"
+
+msgid "Transient"
+msgstr "vergankelijk"
+
+msgid "UPGRADE to Full version"
+msgstr "Upgrade naar de volledige versie"
+
+msgid "Update all rates"
+msgstr "Update alle tarieven"
+
+msgid "Update profile"
+msgstr "Profiel bijwerken"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Het gebruik van Geolocatie levert problemen op, lijkt bij mij niet te werken"
+
+msgid "Video tutorials"
+msgstr "Video uitleg"
+
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - WooCommerce Bulk Editor Professional"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - het vast Minimale en maximale uitgaven"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - het vaste couponbedrag"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - de prijs op basis van gebruikersrol"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - de aangepaste GeoIP-regels voor producten"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - de vaste prijzen van het product"
+
+msgid "WOOCS Currency Options"
+msgstr "WOOCS valuta-opties"
+
+msgid "WOOCS Order Info"
+msgstr "WOOCS Bestelinformatie"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - WooCommerce-productenfilter"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - Tabellen met actieve producten van WooCommerce"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Waarschuwing: Woocommerce is niet geactiveerd"
+
+msgid "Watch video instructions"
+msgstr "Bekijk video-instructies"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "We werken er hard aan om deze plug-in effectiever te maken voor uw e-shops, en we zijn klaar om %s uw recensie, suggesties en meningen %s te horen, deel het met ons!"
+
+msgid "Welcome currency"
+msgstr "Welkom valuta"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Welke inhoud moet in de switcher worden weergegeven nadat de muisaanwijzer op een valuta daar is geplaatst. Varianten:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Welke inhoud moet worden weergegeven in de switcher nadat de sitepagina is geladen. Varianten:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Waar op de site de switcher moet worden verborgen. Als hier een waarde wordt gepresenteerd, wordt de switcher op die pagina's verborgen en op alle andere pagina's zichtbaar. U kunt pagina-ID's gebruiken met een komma, bijvoorbeeld: 28,34,232. U kunt ook speciale woorden gebruiken als: product, shop, checkout, front_page, woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Waar op de site de switcher zichtbaar moet zijn. Als hier een waarde wordt gepresenteerd, wordt de switcher verborgen op alle andere pagina's die niet in dit veld worden weergegeven. U kunt pagina-ID's gebruiken met een komma, bijvoorbeeld: 28,34,232. U kunt ook speciale woorden gebruiken als: product, shop, checkout, front_page, woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Welke tekst wordt weergegeven in de vervolgkeuzelijst - valutacode OF beschrijvende tekst. Ziet er goed uit voor alle vervolgkeuzemenu's behalve ddslick."
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "ONDERSTEUNING WooCommerce Currency Switcher"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "WooCommerce Currency Switcher v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "De WooCommerce GeoIP-functionaliteit werkt niet op uw site. Kan zijn dit zal je helpen."
+
+msgid "Yes"
+msgstr "En"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "U kunt voor elke valuta een VAST bedrag instellen voor een coupon. LET OP: 'Is meerdere toegestaan' moet aan staan!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "U kunt gratis een VAST bedrag instellen voor elke valuta en voor alle andere verzendmethoden. LET OP: 'Is meerdere toegestaan' moet ingeschakeld zijn!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "U kunt VASTE prijzen instellen voor eenvoudige en variabele producten. LET OP: 'Is meerdere toegestaan' moet ingeschakeld zijn!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "U kunt verschillende prijzen instellen voor elk product (in BASIC-valuta) voor verschillende landen"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Uw land is niet gedefinieerd! Problemen met GeoIp-service."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Uw land is niet gedefinieerd! Problemen met internetverbinding of GeoIp-service."
+
+msgid "Your country is: %s"
+msgstr "Uw land is: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Uw land is: %s. (gedefinieerd door woocommerce GeoIP-functionaliteit)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "Uw versie van de WooCommerce-plug-in is te verouderd. Update minimum naar %s-versie om storingen te voorkomen!"
+
+msgid "a hint"
+msgstr "een hint"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "cancel"
+msgstr "annuleren"
+
+msgid "change the rate and this description to the right values"
+msgstr "verander het tarief en deze beschrijving naar de juiste waarden"
+
+msgid "clear all"
+msgstr "wis alles"
+
+msgid "code"
+msgstr "code"
+
+msgid "currency"
+msgstr "valuta"
+
+msgid "daily"
+msgstr "dagelijks"
+
+msgid "ddslick drop-down"
+msgstr "ddslick drop-down"
+
+msgid "description"
+msgstr "beschrijving"
+
+msgid "drag and drop"
+msgstr "slepen en neerzetten"
+
+msgid "enter amount"
+msgstr "voer een bedrag in"
+
+msgid "enter roll width"
+msgstr "voer de rolbreedte in"
+
+msgid "exchange rate"
+msgstr "wisselkoers"
+
+msgid "from"
+msgstr "van"
+
+msgid "full version of the plugin"
+msgstr "volledige versie van de plug-in"
+
+msgid "here"
+msgstr "hier"
+
+msgid "hourly"
+msgstr "ieder uur"
+
+msgid "interest"
+msgstr "belang"
+
+msgid "is added!"
+msgstr "is toegevoegd!"
+
+msgid "is updated!"
+msgstr "is geüpdatet!"
+
+msgid "left"
+msgstr "links"
+
+msgid "loading"
+msgstr "het laden"
+
+msgid "monthly"
+msgstr "maandelijks"
+
+msgid "move"
+msgstr "beweging"
+
+msgid "no auto update"
+msgstr "geen automatische update"
+
+msgid "no data for %s"
+msgstr "geen gegevens voor %s"
+
+msgid "orders (completed)"
+msgstr "bestellingen (voltooid)"
+
+msgid "reset the browser cache"
+msgstr "reset de browsercache"
+
+msgid "results"
+msgstr ""
+
+msgid "right"
+msgstr "Rechtsaf"
+
+msgid "select all"
+msgstr "Alles selecteren"
+
+msgid "select some countries"
+msgstr "selecteer enkele landen"
+
+msgid "select user role"
+msgstr "selecteer gebruikersrol"
+
+msgid "special: each 15 minutes"
+msgstr "speciaal: elke 15 minuten"
+
+msgid "special: each 30 minutes"
+msgstr "speciaal: elke 30 minuten"
+
+msgid "special: each 45 minutes"
+msgstr "speciaal: elke 45 minuten"
+
+msgid "special: each 5 minutes"
+msgstr "speciaal: elke 5 minuten"
+
+msgid "special: each minute"
+msgstr "speciaal: elke minuut"
+
+msgid "support"
+msgstr "mail via"
+
+msgid "the plugin forum"
+msgstr "het plugin-forum"
+
+msgid "to"
+msgstr "naar"
+
+msgid "twicedaily"
+msgstr "tweemaal daags"
+
+msgid "wSelect drop-down"
+msgstr "wSelecteer vervolgkeuzelijst"
+
+msgid "Currencies popularity"
+msgstr "Valuta populariteit"
+
+msgid "Countries popularity"
+msgstr "Landen populariteit"

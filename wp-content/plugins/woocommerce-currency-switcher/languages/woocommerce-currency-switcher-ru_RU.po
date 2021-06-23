@@ -1,0 +1,1028 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - левый пробел"
+
+msgid "$P - left"
+msgstr "$ P - левый"
+
+msgid "(Approx. %s)"
+msgstr "(Прибл.  %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ к вашей процентной ставке, например: 0,15"
+
+msgid "1 %s is"
+msgstr "1  %s - это"
+
+msgid "Base currency of the site is: %s"
+msgstr "Базовая валюта сайта:  %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Актуализировано для WooCommerce v.%sx"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add Currency"
+msgstr "Добавить валюту"
+
+msgid "Add all"
+msgstr "Добавить все"
+
+msgid "Add custom money sign"
+msgstr "Добавить денежный знак"
+
+msgid "Add group"
+msgstr "Добавить группу"
+
+msgid "Add new profile"
+msgstr "Добавить новый профиль"
+
+msgid "Add to:"
+msgstr "Добавить к:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Добавьте свои денежные символы в свой магазин. Пример: $ USD, AAA, AUD $, DDD - через запятую"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "После завершения cron - новые курсы валют будут отправлены на электронную почту администратора сайта. ВНИМАНИЕ: если у вас нет писем - это значит, что PHP-функция mail () не работает на вашем сервере или отправка писем с помощью этой функции заблокирована."
+
+msgid "Aggregator API key"
+msgstr "Ключ API агрегатора"
+
+msgid "Base currency"
+msgstr "Базовая валюта"
+
+msgid "Basic"
+msgstr "Базовый"
+
+msgid "Basic field(s)"
+msgstr "Основные поля"
+
+msgid "Behavior"
+msgstr "Поведение"
+
+msgid "Behavior for devices"
+msgstr "Поведение для устройств"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cents"
+msgstr "Центов"
+
+msgid "Change order currency"
+msgstr "Изменить валюту заказа"
+
+msgid "Change the order currency to any other"
+msgstr "Измените валюту заказа на любую другую"
+
+msgid "Chart type: bar"
+msgstr "Тип диаграммы: столбик"
+
+msgid "Chart type: pie"
+msgstr "Тип диаграммы: круговая"
+
+msgid "Checkout by GeoIP rules"
+msgstr "Оплата по правилам GeoIP"
+
+msgid "Choice behaviour"
+msgstr "Выбор поведения"
+
+msgid "Choice currencies"
+msgstr "Выбор валюты"
+
+msgid "Choice side"
+msgstr "Сторона выбора"
+
+msgid "Choice skin"
+msgstr "Выбор скина"
+
+msgid "Chosen dark drop-down"
+msgstr "Темный раскрывающийся список"
+
+msgid "Chosen drop-down"
+msgstr "Chosen раскрывающийся список"
+
+msgid "Classic blocks"
+msgstr "Классические блоки"
+
+msgid "Click to select the flag"
+msgstr "Нажмите, чтобы выбрать флаг"
+
+msgid "Codex"
+msgstr "Кодекс"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Собирайте статистику переключения валют для деловых целей. Никаких личных данных клиентов не собирается, только валюта, страна и время перехода. Также есть статистика по валютам заказа."
+
+msgid "Convert"
+msgstr "Конвертировать"
+
+msgid "Count of digits after point"
+msgstr "Количество цифр после точки"
+
+msgid "Coupon amount"
+msgstr "Сумма купона"
+
+msgid "Currencies"
+msgstr "Валюты"
+
+msgid "Currencies excluding from view"
+msgstr "Валюты, исключенные из просмотра"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Автоматическое обновление курсов валют с помощью WordPress cron."
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Currency aggregator"
+msgstr "Валютный агрегатор"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Валютные агрегаторы. Примечание: если вы знаете агрегатор, которого нет в WOOCS, напишите запрос в поддержку, пожалуйста, с предложением его добавить!"
+
+msgid "Currency in which the customer paid."
+msgstr "Валюта, в которой оплатил заказчик."
+
+msgid "Currency rate when the customer paid"
+msgstr "Курс валюты при оплате покупателем"
+
+msgid "Currency storage"
+msgstr "Хранение валюты"
+
+msgid "Currencylayer"
+msgstr "Currency layer"
+
+msgid "Current currency is:"
+msgstr "Текущая валюта:"
+
+msgid "Custom money signs"
+msgstr "Пользовательские денежные знаки"
+
+msgid "Custom price format"
+msgstr "Пользовательский формат цены"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "Клиент будет платить в выбранной валюте (Да) или в валюте по умолчанию (Нет)."
+
+msgid "Decimal"
+msgstr "Десятичная дробь"
+
+msgid "Decimals"
+msgstr "Десятичные_знаки"
+
+msgid "Delete profile"
+msgstr "Удалить профиль"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Direct use"
+msgstr "Прямое использование"
+
+msgid "Disable on pages"
+msgstr "Отключить на страницах"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "Отключение или включение WOOCS только на описанных страницах. Используйте запятую и ярлыки страниц. Пример: блог, аккаунт"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Расстояние от верхнего края экрана до html-блока переключателя. Вы можете установить в пикселях или в%. Пример 1: 100 пикселей. Пример 2: 10%."
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Drop-down options text type"
+msgstr "Тип текста раскрывающегося меню"
+
+msgid "EU countries"
+msgstr "Страны ЕС"
+
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "Уведомление по электронной почте о результатах \"Автообновление курсов \""
+
+msgid "Enable/Disable"
+msgstr "Включить / Выключить"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Включение / отключение бокового переключателя валют на вашей странице"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Примеры: 300px, 100%, auto"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Примеры: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "Пример: доллары США, евро"
+
+msgid "FAQ"
+msgstr "Часто задаваемые вопросы"
+
+msgid "Fixer"
+msgstr "Фиксация"
+
+msgid "Flag"
+msgstr "Флаг"
+
+msgid "Flag position"
+msgstr "Положение флага"
+
+msgid "Flags (as images)"
+msgstr "Флаги (как изображения)"
+
+msgid "For ajax redraw."
+msgstr "Для перерисовки ajax."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "Для валют - агрегированные данные о количестве стран, валюты которых пользователи выбрали на сайте. Для заказов - количество заказов из стран, определенных выбранной страной в платежном адресе."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "Для валют - агрегированные данные о выбранных валютах на сайте. Для заказов - количество заказов, выполненных в выбранных валютах."
+
+msgid "For ddslick script only!"
+msgstr "Только для скрипта ddslick!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Заставьте клиентов платить на странице оформления заказа по правилам, определенным на вкладке «Правила GeoIP». ВНИМАНИЕ : эта функция имеет логический смысл, если вы включили «Включить фиксированное ценообразование», а также установили правила фиксированных цен в продуктах для разных валют!"
+
+msgid "Free flags images"
+msgstr "Бесплатные изображения флагов"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "Профили GeoIP"
+
+msgid "GeoIP rules"
+msgstr "Правила GeoIP"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP работает с версии 2.3 плагина WooCommerce и не работает с дополнительными версиями WooCommerce !!"
+
+msgid "Get free API keys:"
+msgstr "Получите бесплатные ключи API:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Дает возможность устанавливать разные цены для каждой роли пользователя"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Дает возможность устанавливать разные цены для каждой роли пользователя. Собственный ценовой фильтр WooCommerce не учитывает эти данные!"
+
+msgid "Go Pro!"
+msgstr "Премиум версия!"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Здесь вы можете создать набор профилей стран, чтобы применить его в продуктах в соответствии с вашей бизнес-логикой.  %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Здесь вы можете установить ФИКСИРОВАННУЮ сумму для купона в любой валюте, которую вы хотите. В случае пустого поля суммы будет работать пересчет по ставке!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Здесь вы можете установить ФИКСИРОВАННУЮ цену на товар в любой валюте. В случае пустого поля цены будет работать пересчет по ставке!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Здесь вы можете установить цены в базовой валюте для разных стран, и пересчет будет производиться относительно этих значений. ВНИМАНИЕ: фиксированная цена на валюту имеет приоритет!"
+
+msgid "Hide cents"
+msgstr "Скрыть центы"
+
+msgid "Hide on mobile devices"
+msgstr "Скрыть на мобильных устройствах"
+
+msgid "Hide on the pages"
+msgstr "Скрыть на страницах"
+
+msgid "Hide switcher on checkout page"
+msgstr "Скрыть переключатель на странице оформления заказа"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Скрыть переключатель на странице оформления заказа по любой из ваших причин. Лучшее ограничение для пользователей, меняющих валюту на странице оформления заказа в нескольких режимах."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Скрыть / показать платежные системы на странице оформления заказа в зависимости от текущей валюты"
+
+msgid "Hint"
+msgstr "Подсказка"
+
+msgid "Hover color"
+msgstr "Цвет при наведении"
+
+msgid "Hover field(s)"
+msgstr "Поле (а) наведения"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Как вывести переключатель валют (по умолчанию) на фронт. (НОВИНКА) Обратите внимание на скины с номерами - вы можете использовать их на одной странице с разными дизайнами в шорткоде [woocs], описанном в его стиле атрибута и номере стиля (см. Страницу Кодекса во вкладке «Информация»)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "Я использую плагин кеширования на своем сайте"
+
+msgid "I cant add flags! What to do?"
+msgstr "Я не могу добавлять флаги! Что делать?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "Если панель настроек WOOCS выглядит некорректно или у вас есть ошибки JavaScript (после обновления) - сначала"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Если на вкладке «Параметры» активирована опция, я использую плагин кеширования на своем сайте - чтобы избежать дублирования данных для регистрации статистических данных, на вкладке «Параметры» активируйте опцию «Нет данных GET в ссылке!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Если у вас есть представление о шаблоне css + js - отправьте запрос в поддержку, где опишите свое видение."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "Если у вас есть идеи о сценариях статистики, поделитесь и обсудите их на  %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Если вы хотите, чтобы ваши клиенты платили в выбранной ими валюте, на вкладке «Дополнительно» установите для параметра «Разрешено несколько» значение «Да»."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "На некоторых серверах есть проблемы с сессиями, и после выбора валюты ее сбросить на приветственную валюту или гео ip валюту. В таком случае используйте переходной режим. Если это возможно на вашем хостинге, используйте Memcached или Redis!"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "В какой валюте указаны цены за первое посещение вашим клиентом вашего сайта. Не делайте этого приватным, чтобы избежать логической неразберихи!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Индивидуальные правила GeoIP для каждого продукта"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Индивидуальная фиксированная сумма по купону"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Индивидуальная фиксированная сумма за доставку"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Индивидуальные правила фиксированных цен для каждого продукта"
+
+msgid "Individual prices based on user role"
+msgstr "Индивидуальные цены в зависимости от роли пользователя"
+
+msgid "Is hidden"
+msgstr "Скрыт"
+
+msgid "Is multiple allowed"
+msgstr "Плата разными валютами"
+
+msgid "Is shown"
+msgstr "Показано"
+
+msgid "Left"
+msgstr "Левый"
+
+msgid "Load countries from profile"
+msgstr "Загрузить страны из профиля"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Main color"
+msgstr "Основной цвет"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Основной цвет, окрашивающий элементы переключателя"
+
+msgid "Maximum spend"
+msgstr "Максимальный расход"
+
+msgid "Minimum spend"
+msgstr "Минимальная трата"
+
+msgid "Money signs"
+msgstr "Денежные знаки"
+
+msgid "More power for your shop"
+msgstr "Больше мощности для вашего магазина"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Собственный ценовой фильтр WooCommerce не видит данные, созданные этой функцией."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Собственный ценовой фильтр WooCommerce слепой для всех данных, сгенерированных отмеченными функциями"
+
+msgid "New profile"
+msgstr "Новый профиль"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No GET data in link"
+msgstr "Нет данных GET в ссылке"
+
+msgid "No such profile"
+msgstr "Нет такого профиля"
+
+msgid "Nope, maybe later!"
+msgstr "Нет, может быть, позже!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is~%s!"
+msgstr "Невозможно пересчитать заказ, потому что текущая базовая валюта  %s, а базовая валюта заказа ~%s!"
+
+msgid "Not styled drop-down"
+msgstr "Раскрывающийся список без стиля"
+
+msgid "Note"
+msgstr "Прмечание"
+
+msgid "Notes*"
+msgstr "Заметки*"
+
+msgid "Ok, you deserve it"
+msgstr "Хорошо ты это заслужил"
+
+msgid "Open exchange rates"
+msgstr "Открытые курсы обмена"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Order currency"
+msgstr "Валюта заказа"
+
+msgid "Order currency rate"
+msgstr "Курс валюты заказа"
+
+msgid "P $ - right space"
+msgstr "P $ - правый пробел"
+
+msgid "P$ - right"
+msgstr "P $ - право"
+
+msgid "PHP Session"
+msgstr "Сессия PHP"
+
+msgid "Payments"
+msgstr "Оплата"
+
+msgid "Payments behavior"
+msgstr "Платежное поведение"
+
+msgid "Payments rules"
+msgstr "Правила оплаты"
+
+msgid "Please use the API key"
+msgstr "Пожалуйста, используйте ключ API"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Порт для: memcached или redis. Обычно для memcached порт - 11211, для redis - 6379. Прочтите документацию по хостингу о том, какой порт использовать для memcached или redis."
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Precision"
+msgstr "Точность"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Нажмите эту кнопку, если хотите получить курс валюты от выбранного агрегатора выше!"
+
+msgid "Prices preloader"
+msgstr "Ценовой прелоадер"
+
+msgid "Prices without cents"
+msgstr "Цены без цента"
+
+msgid "Private"
+msgstr "Частный"
+
+msgid "Profile is deleted"
+msgstr "Профиль удален"
+
+msgid "Profiles"
+msgstr "Профили"
+
+msgid "Public"
+msgstr "Публичное"
+
+msgid "Quick introduction"
+msgstr "Краткое введение"
+
+msgid "Rate"
+msgstr "Обменный курс"
+
+msgid "Rate and Interest"
+msgstr "Ставка и процент"
+
+msgid "Rate auto update"
+msgstr "Автообновление курсов валют"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Прочтите вики об активных кодах валюты"
+
+msgid "Read wiki about Currency Active codes <- Get right currencies codes here if you are not sure about it!"
+msgstr "Прочтите вики об активных кодах валют <- Получите здесь правильные коды валют, если вы не уверены в этом!"
+
+msgid "Recalculate all orders"
+msgstr "Пересчитать все заказы"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Пересчитайте все заказы в базовой валюте. Рекомендуем протестировать эту опцию на клоне вашего сайта! Прочтите об этом в документации плагина!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Пересчитать текущий заказ с выбранной валютой."
+
+msgid "Recalculate order"
+msgstr "Пересчитать заказ"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Пересчитывайте цены без цента везде, например, в JPY и TWD, которые по своей природе не имеют цента. Используйте запятую. Пример: грн., Руб. Протестируйте его для оформления заказа после настройки!"
+
+msgid "Regular price"
+msgstr "Обычная цена"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Reverse this option"
+msgstr "Отменить эту опцию"
+
+msgid "Reverse use"
+msgstr "Обратное использование"
+
+msgid "Right"
+msgstr "Правый"
+
+msgid "Roll blocks"
+msgstr "Блоки валков"
+
+msgid "Round chain"
+msgstr "Круглая цепь"
+
+msgid "Round select"
+msgstr "Круглый выбор"
+
+msgid "Sale price"
+msgstr "Продажная цена"
+
+msgid "Save changes please!"
+msgstr "Сохраните изменения!"
+
+msgid "Select Currency"
+msgstr "Выберите валюту"
+
+msgid "Select currency..."
+msgstr "Выберите валюту ..."
+
+msgid "Select symbol position"
+msgstr "Выберите позицию символа"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Сервер или сокет для: memcached или redis. Обычно это localhost. Прочтите документацию по хостингу о том, какой хост использовать для memcached или redis."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "Установите здесь «Да» ТОЛЬКО если вы ДЕЙСТВИТЕЛЬНО используете плагин кеширования для своего сайта, например Super cache или Hiper cache (не имеет значения). + Установите \\ \"Пользовательский формат цены \", например: __PRICE__ (__CODE__). После включения этой функции очистите кеш, чтобы он заработал. Это позволит отображать цены в выбранной валюте на всех страницах сайта. Плата за эту функцию - дополнительные запросы AJAX для перерисовки цен на товары."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Установите эталонную основную валюту. Это должна быть валюта, в которой выставлена ​​цена товара!"
+
+msgid "Set title"
+msgstr "Установить заголовок"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Установите формат отображения цены на лицевой стороне. Используйте ключи: __CODE __, __ PRICE__. Оставьте поле пустым, чтобы использовать формат по умолчанию. Пример: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Система платежей должна быть скрыта для выбранных валют или наоборот показана!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Показать кнопку параметров WOOCS на верхней панели администратора для быстрого доступа. Очень удобно для активной работы. Доступно только администраторам сайта!"
+
+msgid "Show approx. amount"
+msgstr "Показать ок. количество"
+
+msgid "Show approx. price"
+msgstr "Показать ок. цена"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Показывать приблизительную сумму на кассе и на странице корзины с валютой пользователя, определенной IP-адресом на вкладке правил GeoIp. Работает только с данными о курсах валют, а НЕ с правилами фиксированных цен и географическими правилами."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Показывать приблизительную цену в магазине и на странице отдельного продукта с валютой пользователя, определенной IP-адресом на вкладке правил GeoIp. Работает только с данными о курсах валют, а НЕ с правилами фиксированных цен и географическими правилами."
+
+msgid "Show cents"
+msgstr "Показать центы"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Показывать валюту для всех на сайте или Скрывать для приватных моментов в панели администратора wp, используя только."
+
+msgid "Show flags"
+msgstr "Показать флажки"
+
+msgid "Show flags by default"
+msgstr "Показывать флаги по умолчанию"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Показывать информационный значок рядом с ценой продукта, который при наведении курсора показывает цены продуктов во всех валютах"
+
+msgid "Show money signs"
+msgstr "Показывать денежные знаки"
+
+msgid "Show on all devices"
+msgstr "Показать на всех устройствах"
+
+msgid "Show on mobile devices only"
+msgstr "Показать только на мобильных устройствах"
+
+msgid "Show on the pages"
+msgstr "Показать на страницах"
+
+msgid "Show options button on top admin bar."
+msgstr "Показать кнопку параметров на верхней панели администратора."
+
+msgid "Show price info icon"
+msgstr "Показать значок информации о цене"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Показать / скрыть на мобильном устройстве (высший приоритет)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Показать / скрыть флаги в раскрывающемся списке на передней панели"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Показать / скрыть денежные знаки в раскрывающемся списке на передней панели"
+
+msgid "Side"
+msgstr "Боковой"
+
+msgid "Side switcher"
+msgstr "Боковой переключатель"
+
+msgid "Skin"
+msgstr "Скин"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Некоторым агрегаторам требуется ключ API. См. Подсказку ниже, как ее получить!"
+
+msgid "Statistic"
+msgstr "Статистически"
+
+msgid "Storage port"
+msgstr "Порт хранения"
+
+msgid "Storage server"
+msgstr "Сервер хранения данных"
+
+msgid "Style #1"
+msgstr "Стиль #1"
+
+msgid "Style #2"
+msgstr "Стиль #2"
+
+msgid "Style #3"
+msgstr "Стиль #3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Стиль переключателя на лицевой стороне сайта"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Переключает валюту без свойств GET (?currency = USD) в ссылке. Работает в woocommerce> 3.3.0."
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "Валюта ЭТОГО заказа изменена вручную %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Спасибо, я сделал!"
+
+msgid "The Free Currency Converter"
+msgstr "Бесплатный конвертер валют"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "В купоне установлены правила минимального и максимального расходов"
+
+msgid "The coupon fixed amount rules"
+msgstr "Правила фиксированной суммы купона"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "Следующие параметры влияют на то, как цены отображаются в интерфейсе. Переключатель валют WooCommerce активирован. Установите валюту по умолчанию  %s, пожалуйста."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "Максимальный расход по этому купону составляет  %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "Минимальная сумма для этого купона составляет %s."
+
+msgid "The price based on user role"
+msgstr "Цена зависит от роли пользователя"
+
+msgid "The product custom GeoIP rules"
+msgstr "Пользовательские правила GeoIP продукта"
+
+msgid "The product fixed prices rules"
+msgstr "Правила фиксированных цен на товары"
+
+msgid "The side where the switcher is be placed"
+msgstr "Сторона размещения переключателя"
+
+msgid "The switcher color when mouse hovering"
+msgstr "Цвет переключателя при наведении курсора мыши"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "Это ускоряет работу над настройкой правил для каждого продукта"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Top margin"
+msgstr "Верхний отступ"
+
+msgid "Total amount"
+msgstr "Итого"
+
+msgid "Total in basic currency:"
+msgstr "Итого в базовой валюте:"
+
+msgid "Transient"
+msgstr "Транзиент"
+
+msgid "UPGRADE to Full version"
+msgstr "Обновить до полной версии"
+
+msgid "Update all rates"
+msgstr "Обновить все курсы"
+
+msgid "Update profile"
+msgstr "Обновить профиль"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Использование геолокации вызывает проблемы, похоже, у меня не работает"
+
+msgid "Video tutorials"
+msgstr "Видео уроки"
+
+msgid "Visibility"
+msgstr "Видимость"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - Профессиональный массовый редактор WooCommerce"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - фиксированной максимальная и минимальная трата"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - фиксированная сумма купона"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - цена зависит от роли пользователя"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - пользовательские правила GeoIP продукта"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - фиксированные цены на товар"
+
+msgid "WOOCS Currency Options"
+msgstr "Варианты валюты WOOCS"
+
+msgid "WOOCS Order Info"
+msgstr "Информация для заказа WOOCS"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - Фильтр товаров WooCommerce"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - Таблицы активных товаров WooCommerce"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Предупреждение: Woocommerce не активирован"
+
+msgid "Watch video instructions"
+msgstr "Посмотреть видеоинструкцию"
+
+msgid "Welcome currency"
+msgstr "Валюта приветствия"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants: __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Какой контент показывать в переключателе после наведения мыши на любую валюту. Варианты: __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants: __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Какой контент показывать в переключателе после загрузки страницы сайта. Варианты: __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Где на сайте должен быть спрятан переключатель. Если здесь указано какое-либо значение, переключатель будет скрыт на этих страницах и виден на всех других. Вы можете использовать идентификаторы страниц через запятую, например: 28,34,232. Также вы можете использовать специальные слова, такие как: product, shop, checkout, front_page, woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Где на сайте должен быть виден переключатель. Если здесь указано какое-либо значение, переключатель будет скрыт на всех других страницах, не представленных в этом поле. Вы можете использовать идентификаторы страниц через запятую, например: 28,34,232. Также вы можете использовать специальные слова, такие как: product, shop, checkout, front_page, woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Какой текст отображается в раскрывающихся вариантах - код валюты ИЛИ текст описания. Хорошо смотрится для всех раскрывающихся списков, кроме ddslick."
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "ПОДДЕРЖКА переключателя валют WooCommerce"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "Переключатель валют WooCommerce v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "Функциональность WooCommerce GeoIP не работает на вашем сайте. Может быть, это Вам поможет."
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Вы сможете установить ФИКСИРОВАННУЮ сумму купона для каждой валюты. ВНИМАНИЕ: должен быть включен параметр «Разрешено несколько»!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Вы сможете бесплатно установить ФИКСИРОВАННУЮ сумму для каждой валюты и всех других способов доставки. ВНИМАНИЕ: должен быть включен параметр «Разрешено несколько»!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Вы сможете установить ФИКСИРОВАННЫЕ цены для простых и переменных товаров. ВНИМАНИЕ: должен быть включен параметр «Разрешено несколько»!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "Вы сможете установить разные цены для каждого продукта (в основной валюте) для разных стран"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Ваша страна не определена! Проблемы с сервисом GeoIp."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Ваша страна не определена! Проблемы с подключением к Интернету или сервисом GeoIp."
+
+msgid "Your country is: %s"
+msgstr "Ваша страна:  %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Ваша страна:  %s. (определяется функциональностью Woocommerce GeoIP)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "Ваша версия плагина WooCommerce слишком устарела. Обновите минимум до версии  %s, чтобы избежать сбоев!"
+
+msgid "a hint"
+msgstr "подсказка"
+
+msgid "auto"
+msgstr "автоматический"
+
+msgid "cancel"
+msgstr "отменить"
+
+msgid "change the rate and this description to the right values"
+msgstr "измените скорость и это описание на правильные значения"
+
+msgid "clear all"
+msgstr "очистить все"
+
+msgid "code"
+msgstr "код"
+
+msgid "currency"
+msgstr "валюта"
+
+msgid "daily"
+msgstr "ежедневно"
+
+msgid "ddslick drop-down"
+msgstr "раскрывающийся список ddslick"
+
+msgid "description"
+msgstr "описание"
+
+msgid "drag and drop"
+msgstr "перетащить"
+
+msgid "enter amount"
+msgstr "введите сумму"
+
+msgid "enter roll width"
+msgstr "введите ширину рулона"
+
+msgid "exchange rate"
+msgstr "обменный курс"
+
+msgid "from"
+msgstr "из"
+
+msgid "full version of the plugin"
+msgstr "полная версия плагина"
+
+msgid "here"
+msgstr "здесь"
+
+msgid "hourly"
+msgstr "почасовой"
+
+msgid "interest"
+msgstr "интерес"
+
+msgid "is added!"
+msgstr "добавлен!"
+
+msgid "is updated!"
+msgstr "обновлено!"
+
+msgid "left"
+msgstr "оставил"
+
+msgid "loading"
+msgstr "погрузка"
+
+msgid "monthly"
+msgstr "ежемесячно"
+
+msgid "move"
+msgstr "двигаться"
+
+msgid "no auto update"
+msgstr "нет автоматического обновления"
+
+msgid "no data for %s"
+msgstr "нет данных для %s"
+
+msgid "orders (completed)"
+msgstr "заказы (завершено)"
+
+msgid "remove"
+msgstr "удаление"
+
+msgid "reset the browser cache"
+msgstr "сбросить кеш браузера"
+
+msgid "results"
+msgstr "результаты"
+
+msgid "right"
+msgstr "правильно"
+
+msgid "select all"
+msgstr "выбрать все"
+
+msgid "select some countries"
+msgstr "выберите некоторые страны"
+
+msgid "select user role"
+msgstr "выберите роль пользователя"
+
+msgid "special: each 15 minutes"
+msgstr "специальные: каждые 15 минут"
+
+msgid "special: each 30 minutes"
+msgstr "специальные: каждые 30 минут"
+
+msgid "special: each 45 minutes"
+msgstr "специальные: каждые 45 минут"
+
+msgid "special: each 5 minutes"
+msgstr "специальные: каждые 5 минут"
+
+msgid "special: each minute"
+msgstr "особенный: каждую минуту"
+
+msgid "support"
+msgstr "поддержка"
+
+msgid "the plugin forum"
+msgstr "форум плагинов"
+
+msgid "to"
+msgstr "в"
+
+msgid "twicedaily"
+msgstr "два раза в день"
+
+msgid "wSelect drop-down"
+msgstr "wSelect селект"
+
+msgid "weekly"
+msgstr "еженедельно"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "В бесплатной версии плагина %s вы можете работать с 2 ЛЮБЫМИ валютами только %s! Если вы хотите использовать больше валют %s, вы можете выполнить обновление до премиум-версии %s плагина"
+
+#. Text in function
+#: woocommerce-currency-switcher-free/views/plugin_options.php:1231
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "Мы прилагаем все усилия, чтобы сделать этот плагин более эффективным инструментом для ваших интернет-магазинов, и готовы к тому, чтобы %s услышать ваш отзыв, предложения и мнения %s, пожалуйста, поделитесь ими с нами!"
+
+msgid "Currencies popularity"
+msgstr "Популярность валют"
+
+msgid "Countries popularity"
+msgstr "Популярность стран"

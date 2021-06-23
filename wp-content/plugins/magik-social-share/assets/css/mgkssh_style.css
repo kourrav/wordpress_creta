@@ -1,0 +1,169 @@
+/**
+ * Admin Magik Social Share CSS
+ *
+ * @author MagikCommerce
+ * @package Magik Social Share
+ * @version 1.0
+ */
+
+.social {
+	overflow: hidden
+}
+.social a {
+	color: #666;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border: 1px #333 solid
+}
+.social a:hover {
+	color: #fff;
+}
+.social .fb a:before {
+	content: "\f09a";
+	font-family: FontAwesome;
+}
+.social .fb a {
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .fb a:hover {
+	background: #3C5B9B !important;
+}
+.social .tw a:before {
+	content: "\f099";
+	font-family: FontAwesome;
+}
+.social .tw a {
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .tw a:hover {
+	background: #359BED !important;
+}
+.social .googleplus a:before {
+	content: "\f0d5";
+	font-family: FontAwesome;
+}
+.social .googleplus a {
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .googleplus a:hover {
+	background: #E33729!important;
+}
+.social .rss a:before {
+	content: "\f09e";
+	font-family: FontAwesome;
+}
+.social .rss a {
+	content: "\f09e";
+	font-family: FontAwesome;
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .rss a:hover {
+	background: #FD9F13 !important;
+}
+.social .instagram a:before {
+	content: "\f16d";
+	font-family: FontAwesome;
+}
+.social .instagram a {
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .instagram a:hover {
+	background: #359BED !important;
+}
+.social .pintrest a:before {
+	content: "\f0d3";
+	font-family: FontAwesome;
+}
+.social .pintrest a {
+	content: "\f0d3";
+	font-family: FontAwesome;
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .pintrest a:hover {
+	background: #cb2027 !important;
+}
+.social .linkedin a:before {
+	content: "\f0e1";
+	font-family: FontAwesome;
+}
+.social .linkedin a {
+	content: "\f0e1";
+	font-family: FontAwesome;
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .linkedin a:hover {
+	background: #027ba5 !important;
+}
+.social .youtube a:before {
+	content: "\f167";
+	font-family: FontAwesome;
+}
+.social .youtube a {
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .youtube a:hover {
+	background: #F03434 !important;
+}
+.social h4 {
+	margin: 14px 0 0px 0px;
+}
+.social ul {
+	margin: 0;
+	list-style: none;
+}
+.social ul li {
+	margin-right: 10px;
+	border: none
+}
+.social ul li:last-child {
+	border-bottom: none
+}
+.social a {
+	transition: background 400ms ease-in-out;
+	-webkit-transition: background 400ms ease-in-out;
+	-moz-transition: background 400ms ease-in-out;
+	-o-transition: background 400ms ease-in-out;
+}
+
+/* instagram css */
+
+.social .instagram a {
+	content: "\f16d";
+	font-family: FontAwesome;
+	font-size: 18px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+}
+.social .instagram a:before {
+	content: "\f16d";
+	font-family: FontAwesome;
+}
+.social .instagram a:hover {
+	background: #5484ab !important;
+}

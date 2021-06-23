@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: sr_SR\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ П - леви размак"
+
+msgid "$P - left"
+msgstr "$ П - лево"
+
+msgid "(Approx. %s)"
+msgstr "(Приближно %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ вашем интересу за стопу, на пример: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s је"
+
+msgid "Base currency of the site is: %s"
+msgstr "Основна валута странице је: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Актуализовано за ВооЦоммерце в. %s .к"
+
+msgid "Add"
+msgstr "додати"
+
+msgid "Add Currency"
+msgstr "Додајте валуту"
+
+msgid "Add all"
+msgstr "Додај све"
+
+msgid "Add custom money sign"
+msgstr "Додајте прилагођени знак за новац"
+
+msgid "Add group"
+msgstr "Додај групу"
+
+msgid "Add new profile"
+msgstr "Додај нови профил"
+
+msgid "Add to:"
+msgstr "Додати:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Додајте симболе новца у своју продавницу. Пример: УСД УСД, ААА, АУД $, ДДД - одвојени зарезима"
+
+msgid "Advanced"
+msgstr "Напредан"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Након завршетка црон-а - нови курс валута биће послат на имејл администратора веб локације. ПАЖЊА: ако немате е-пошту - то значи да ПХП функција маил () не ради на вашем серверу или је слање е-поште помоћу ове функције закључано."
+
+msgid "Aggregator API key"
+msgstr "АПИ кључ агрегатора"
+
+msgid "Base currency"
+msgstr "Основна валута"
+
+msgid "Basic"
+msgstr "основни"
+
+msgid "Basic field(s)"
+msgstr "Основна поља"
+
+msgid "Behavior"
+msgstr "Понашање"
+
+msgid "Behavior for devices"
+msgstr "Понашање уређаја"
+
+msgid "Cancel"
+msgstr "отказати"
+
+msgid "Cents"
+msgstr "Центи"
+
+msgid "Change order currency"
+msgstr "Промените валуту налога"
+
+msgid "Change the order currency to any other"
+msgstr "Промените валуту поруџбине у било коју другу"
+
+msgid "Chart type: bar"
+msgstr "Тип графикона: трака"
+
+msgid "Chart type: pie"
+msgstr "Тип графикона: пита"
+
+msgid "Checkout by GeoIP rules"
+msgstr "Плаћање по ГеоИП правилима"
+
+msgid "Choise behavior"
+msgstr "Изборно понашање"
+
+msgid "Choise currencies"
+msgstr "Избор валута"
+
+msgid "Choise side"
+msgstr "Изборна страна"
+
+msgid "Choise skin"
+msgstr "Избор коже"
+
+msgid "Chosen dark drop-down"
+msgstr "Изабрани тамни падајући мени"
+
+msgid "Chosen drop-down"
+msgstr "Изабрани падајући мени"
+
+msgid "Classic blocks"
+msgstr "Класични блокови"
+
+msgid "Click to select the flag"
+msgstr "Кликните да бисте изабрали заставицу"
+
+msgid "Codex"
+msgstr "Цодек"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Прикупљајте статистику замене валута у пословне сврхе. Не прикупљају се никакви приватни подаци купаца, већ само валута, држава и време замене. Постоји и статистика за валуте поруџбина."
+
+msgid "Convert"
+msgstr "Претворити"
+
+msgid "Count of digits after point"
+msgstr "Број цифара након тачке"
+
+msgid "Coupon amount"
+msgstr "Ношење купона"
+
+msgid "Currencies"
+msgstr "Валуте"
+
+msgid "Currencies excluding from view"
+msgstr "Валуте искључујући из погледа"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Аутоматско ажурирање валута врши ВордПресс црон."
+
+msgid "Currency"
+msgstr "Валута"
+
+msgid "Currency aggregator"
+msgstr "Валут агрегатор"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Агрегатори валута. Напомена: Ако знате агрегатор који није представљен у ВООЦС, напишите захтев за подршку, молимо са предлогом да га додате!"
+
+msgid "Currency in which the customer paid."
+msgstr "Валута у којој је купац платио."
+
+msgid "Currency rate when the customer paid"
+msgstr "Курс валуте када је купац платио"
+
+msgid "Currency storage"
+msgstr "Складиштење валута"
+
+msgid "Currencylayer"
+msgstr "Цурренцилаиер"
+
+msgid "Current currency is:"
+msgstr "Тренутна валута је:"
+
+msgid "Custom money signs"
+msgstr "Прилагођени новчани знакови"
+
+msgid "Custom price format"
+msgstr "Прилагођени формат цене"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "Купац ће платити са одабраном валутом (Да) или са заданом валутом (Не)."
+
+msgid "Decimal"
+msgstr "Децимал"
+
+msgid "Decimals"
+msgstr "Децимале"
+
+msgid "Delete profile"
+msgstr "Избриши профил"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Direct use"
+msgstr "Директна употреба"
+
+msgid "Disable on pages"
+msgstr "Онемогући на страницама"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "Онемогућавање или омогућавање ВООЦС-а само на описаним страницама. Користите зарез и пужеве страница. Пример: блог, налог"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Удаљеност од врха екрана до ХТМЛ блока пребацивача. Можете поставити у пк или у%. Пример 1: 100 пиксела. Пример 2: 10%."
+
+msgid "Documentation"
+msgstr "документација"
+
+msgid "Drop-down options text type"
+msgstr "Тип текста падајућег менија"
+
+msgid "EU countries"
+msgstr "Земље ЕУ"
+
+msgid "Edit profile"
+msgstr "Измени профил"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "Обавештење е-поштом о резултатима \\ \"Оцените аутоматско ажурирање \""
+
+msgid "Enable/Disable"
+msgstr "Омогући онемогући"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Омогућите / онемогућите бочни мењач валута на својој страници"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Примери: 300 пиксела, 100%, аутоматски"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Примери: ЕУР, ГБП, УАХ"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "На пример: УСД, ЕУР"
+
+msgid "FAQ"
+msgstr "Питања"
+
+msgid "Fixer"
+msgstr "Мишљење"
+
+msgid "Flag"
+msgstr "Оутпост"
+
+msgid "Flag position"
+msgstr "Положај заставе"
+
+msgid "Flags (as images)"
+msgstr "Заставе (као слике)"
+
+msgid "For ajax redraw."
+msgstr "За ајак прецртавање."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "За валуте - збирни подаци о броју земаља које су корисници изабрали валуте на предњој страни веб странице. За поруџбине - број наруџби извршених из земаља које је изабрана држава открила на адреси за обрачун."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "За валуте - збирни подаци о одабраним валутама на предњој страни веб странице. За поруџбине - број налога извршених у изабраним валутама."
+
+msgid "For ddslick script only!"
+msgstr "Само за ддслицк скрипту!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Присилите купце да плаћају на страници за плаћање правилима дефинисаним на картици „ГеоИП правила“. ПАЖЊА: ова функција има логичног смисла ако сте омогућили „Омогући фиксне цене“, а такође инсталирали правила фиксних цена у производе за различите валуте!"
+
+msgid "Free flags images"
+msgstr "Бесплатне слике застава"
+
+msgid "GeoIP"
+msgstr "ГеоИП"
+
+msgid "GeoIP profiles"
+msgstr "ГеоИП профили"
+
+msgid "GeoIP rules"
+msgstr "ГеоИП правила"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "ГеоИП ради од в.2.3 додатка ВооЦоммерце, а не са мањим верзијама ВооЦоммерце !!"
+
+msgid "Get free API keys:"
+msgstr "Набавите бесплатне АПИ кључеве:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Даје могућност постављања различитих цена за сваку корисничку улогу"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Даје могућност постављања различитих цена за сваку корисничку улогу. Изворни филтер цена ВооЦоммерце је слеп за ове податке!"
+
+msgid "Go Pro!"
+msgstr "Го Про!"
+
+msgid "Help"
+msgstr "Помоћ"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Овде можете створити скуп профила земаља да бисте их применили у производима према вашој пословној логици. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Овде можете да поставите ФИКСНИ износ за купон за било коју валуту коју желите. У случају празног износа, поље пребројавања по курсу ће радити!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Овде можете да поставите ФИКСНУ цену производа за било коју валуту коју желите. У случају празног поља са ценама, прерачунавање по цени ће радити!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Овде можете да поставите цене у основној валути за различите земље, а поновно бројање извршиће се релативно према тим вредностима. ПАЖЊА: фиксна цена за валуте има већи приоритет!"
+
+msgid "Hide cents"
+msgstr "Сакриј центи"
+
+msgid "Hide on mobile devices"
+msgstr "Сакриј се на мобилним уређајима"
+
+msgid "Hide on the pages"
+msgstr "Сакриј на страницама"
+
+msgid "Hide switcher on checkout page"
+msgstr "Сакриј прекидач на страници за плаћање"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Сакријте прекидач на страници за плаћање из било ког разлога. Бољи рестрике за кориснике мења валуту на страници за плаћање у вишеструком режиму."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Сакриј / прикажи системе плаћања на страници за плаћање, у зависности од тренутне валуте"
+
+msgid "Hint"
+msgstr "Наговештај"
+
+msgid "Hover color"
+msgstr "Боја лебдења"
+
+msgid "Hover field(s)"
+msgstr "Поље изнад курсора"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Како приказати мењач валута (подразумевано) на предњој страни веб странице. (НОВО) Скрените пажњу на коже са бројевима - можете их користити на истој страници са различитим дизајном у кратком коду [вооцс] описаном у њеном стилу атрибута и броју стила (погледајте страницу Цодек на картици Инфо Хелп)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "На својој веб локацији користим додатак за кеш меморију"
+
+msgid "I cant add flags! What to do?"
+msgstr "Не могу да додам заставе! Шта да радим?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "Ако табла за подешавања ВООЦС-а изгледа нетачно или имате ЈаваСцрипт грешке (након ажурирања) - прво"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Ако је на картици Опције активирана опција, користим додатак за предмеморију на својој веб локацији - да бих избегао двоструке податке за регистрацију статистичких података у картици Опције активирам опцију Нема ГЕТ података у вези!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Ако имате идеју о цсс + јс предлошку - пошаљите захтев за подршку, молимо где опишите своју визију."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "Ако имате идеје о сценаријима статистике, поделите их и разговарајте о њима на %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Ако желите да пустите своје купце да плаћају у изабраној валути на картици Напредно подесите опцију Да ли је вишеструко дозвољено на Да."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "На неким серверима постоје проблеми са сесијама, а након одабира валуте да се ресетује валута да прихвати валуту или гео ип валуту. У том случају користите пролазно. Ако је то могуће на вашем хостингу, користите Мемцацхед или Редис!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "У бесплатној верзији додатка %s можете радити са 2 БИЛО КОЈЕ валуте %s! Ако желите да користите више валута %s можете извршити надоградњу на премиум верзију %s додатка"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "У којој валути прикажите цене за прву посету вашег купца на вашој веб локацији. Не чините то приватно да бисте избегли логичку збрку!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Индивидуална ГеоИП правила за сваки производ"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Појединачни фиксни износ за купон"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Појединачни фиксни износ за отпрему"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Појединачна правила фиксних цена за сваки производ"
+
+msgid "Individual prices based on user role"
+msgstr "Појединачне цене на основу улоге корисника"
+
+msgid "Is hidden"
+msgstr "Је скривен"
+
+msgid "Is multiple allowed"
+msgstr "Да ли је дозвољено вишеструко"
+
+msgid "Is shown"
+msgstr "Је приказан"
+
+msgid "Left"
+msgstr "налево"
+
+msgid "Load countries from profile"
+msgstr "Учитај земље из профила"
+
+msgid "Loading"
+msgstr "Утовар"
+
+msgid "Main color"
+msgstr "Главна боја"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Главна боја којом се боје елементи прекидача"
+
+msgid "Maximum spend"
+msgstr "Максимална потрошња"
+
+msgid "Minimum spend"
+msgstr "Минимална потрошња"
+
+msgid "Money signs"
+msgstr "Новчани знакови"
+
+msgid "More power for your shop"
+msgstr "Више снаге за вашу продавницу"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Изворни филтер цена ВооЦоммерце не види податке генерисане овом функцијом."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Изворни филтер цена ВооЦоммерце је слеп за све податке генерисане означеним карактеристикама"
+
+msgid "New profile"
+msgstr "Нови профил"
+
+msgid "No"
+msgstr "Не"
+
+msgid "No GET data in link"
+msgstr "Нема ГЕТ података у вези"
+
+msgid "No such profile"
+msgstr "Нема таквог профила"
+
+msgid "Nope, maybe later!"
+msgstr "Не, можда касније!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "Није могуће поновно израчунати поруџбину - јер је тренутна основна валута %s, а основна валута налога %s!"
+
+msgid "Not styled drop-down"
+msgstr "Није обликован падајући мени"
+
+msgid "Note"
+msgstr "белешке"
+
+msgid "Notes*"
+msgstr "Напомене *"
+
+msgid "Ok, you deserve it"
+msgstr "Ок, заслужио си"
+
+msgid "Open exchange rates"
+msgstr "Отворени девизни курс"
+
+msgid "Options"
+msgstr "Опције"
+
+msgid "Order currency"
+msgstr "Наручите валуту"
+
+msgid "Order currency rate"
+msgstr "Наручите курс валуте"
+
+msgid "P $ - right space"
+msgstr "П $ - десни размак"
+
+msgid "P$ - right"
+msgstr "П $ - тачно"
+
+msgid "PHP Session"
+msgstr "ПХП сесија"
+
+msgid "Payments"
+msgstr "Плаћање"
+
+msgid "Payments behavior"
+msgstr "Понашање плаћања"
+
+msgid "Payments rules"
+msgstr "Правила плаћања"
+
+msgid "Please use the API key"
+msgstr "Молимо користите АПИ кључ"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Лука за: мемцацхед или редис. Обично је мемцацхед порт 11211, а редис порт 6379. Прочитајте документацију о хостингу о томе који порт користити за мемцацхед или редис."
+
+msgid "Position"
+msgstr "положај"
+
+msgid "Precision"
+msgstr "Прецизност"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Притисните ово дугме ако желите да добијете курс валуте од горе изабраног агрегатора!"
+
+msgid "Prices preloader"
+msgstr "Прелоадер цена"
+
+msgid "Prices without cents"
+msgstr "Цене без центи"
+
+msgid "Private"
+msgstr "Приватан"
+
+msgid "Profile is deleted"
+msgstr "Профил је избрисан"
+
+msgid "Profiles"
+msgstr "Профили"
+
+msgid "Public"
+msgstr "Јавност"
+
+msgid "Quick introduction"
+msgstr "Брзо упознавање"
+
+msgid "Rate"
+msgstr "нога"
+
+msgid "Rate and Interest"
+msgstr "Стани и бодеж"
+
+msgid "Rate auto update"
+msgstr "Оцените аутоматско ажурирање"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Прочитајте вики о активним кодовима валута"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "Прочитајте вики о активним кодовима валута  <-  Овде потражите одговарајуће кодове валута ако нисте сигурни у то!"
+
+msgid "Recalculate all orders"
+msgstr "Прерачунајте све поруџбине"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Прерачунајте све поруџбине са основном валутом. Препоручено тестирајте ову опцију на клону ваше веб локације! Прочитајте документацију додатка о томе!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Прерачунајте тренутни налог са изабраном валутом."
+
+msgid "Recalculate order"
+msgstr "Прерачунајте редослед"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Пребројајте цене без центи свуда као у ЈПИ и ТВД који по својој природи немају центи. Користите зарез. Пример: УАХ, РУБ. Тестирајте га за наплату након подешавања!"
+
+msgid "Regular price"
+msgstr "Регуларна цена"
+
+msgid "Remove"
+msgstr "уклонити"
+
+msgid "Reverse this option"
+msgstr "Обратите ову опцију"
+
+msgid "Reverse use"
+msgstr "Обрнута употреба"
+
+msgid "Right"
+msgstr "У праву"
+
+msgid "Roll blocks"
+msgstr "Ваљкасти блокови"
+
+msgid "Round chain"
+msgstr "Округли ланац"
+
+msgid "Round select"
+msgstr "Роунд селецт"
+
+msgid "Sale price"
+msgstr "Продајна цена"
+
+msgid "Save changes please!"
+msgstr "Сачувајте промене, молим вас!"
+
+msgid "Select Currency"
+msgstr "Изаберите Валута"
+
+msgid "Select currency..."
+msgstr "Изаберите валуту ..."
+
+msgid "Select symbol position"
+msgstr "Изаберите положај симбола"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Сервер или сокет за: мемцацхед или редис. Обично је лоцалхост. Прочитајте документацију о хостингу о томе који хост да користите за мемцацхед или редис."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "Овде поставите ДА САМО ако СТВАРНО користите додатак за предмеморију за своју веб локацију, на пример као Супер кеш или Хипер кеш (није битно). + Подесите \\ \"Прилагођени формат цене \", на пример: __ПРИЦЕ__ (__ЦОДЕ__). Након омогућавања ове функције - очистите кеш меморију да би могла да функционише. Омогућиће приказивање цена у изабраној валути на свим страницама веб локације. Накнада за ову функцију - додатни АЈАКС упити за прекрајање цена производа."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Поставите еталон главном валутом. Ово би требала бити валута у којој је изложена цена робе!"
+
+msgid "Set title"
+msgstr "Поставите наслов"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Подесите формат како да се цена приказује унапред. Користите кључеве: __КОД __, __ ЦЕНА__. Оставите празно да бисте користили задати формат. Пример: __ПРИЦЕ__ (__ЦОДЕ__)"
+
+msgid "Settings"
+msgstr "Подешавања"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Да ли би систем плаћања требао бити скривен за изабране валуте или обратно приказан!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Покажите дугме ВООЦС опција на горњој траци администратора за брзи приступ. Веома згодан за активан рад. Видљиво само администраторима веб локација!"
+
+msgid "Show approx. amount"
+msgstr "Наручите приближно хабање"
+
+msgid "Show approx. price"
+msgstr "Наручите оквирну цену"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Прикажите приближни износ на благајни и страници колица са валутом корисника коју дефинише ИП на картици ГеоИп правила. Ради само са подацима о курсевима валута, А НЕ са правилима фиксних цена и географским правилима."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Прикажите приближну цену у продавници и на појединачној страници производа са валутом корисника коју дефинише ИП на картици ГеоИп правила. Ради само са подацима о курсевима валута, А НЕ са правилима фиксних цена и географским правилима."
+
+msgid "Show cents"
+msgstr "Схов центс"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Прикажите валуту за све на предњој страни веб странице или Сакријте за приватне тренутке у вп админ панелу само користећи."
+
+msgid "Show flags"
+msgstr "Покажи заставе"
+
+msgid "Show flags by default"
+msgstr "По дефаулту прикажи заставице"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Покажите икону информација у близини цене производа која, иако је испод курса, приказује цене производа у свим валутама"
+
+msgid "Show money signs"
+msgstr "Покажите новчане знакове"
+
+msgid "Show on all devices"
+msgstr "Прикажи на свим уређајима"
+
+msgid "Show on mobile devices only"
+msgstr "Приказујте само на мобилним уређајима"
+
+msgid "Show on the pages"
+msgstr "Прикажи на страницама"
+
+msgid "Show options button on top admin bar."
+msgstr "Дугме Прикажи опције на горњој траци администратора."
+
+msgid "Show price info icon"
+msgstr "Прикажи икону информација о цени"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Прикажи / сакриј на мобилном уређају (највиши приоритет)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Покажите / сакријте заставице на предњем падајућем менију"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Покажите / сакријте новчане знакове на предњем падајућем менију"
+
+msgid "Side"
+msgstr "Држава"
+
+msgid "Side switcher"
+msgstr "Бочни прекидач"
+
+msgid "Skin"
+msgstr "Кожа"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Неки агрегатори захтевају АПИ кључ. Погледајте доњи наговештај како то добити!"
+
+msgid "Statistic"
+msgstr "статистички"
+
+msgid "Storage port"
+msgstr "Порт за одлагање"
+
+msgid "Storage server"
+msgstr "Стораге сервер"
+
+msgid "Style #1"
+msgstr "Стил # 1"
+
+msgid "Style #2"
+msgstr "Стил # 2"
+
+msgid "Style #3"
+msgstr "Стил # 3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Стил пребацивача на предњој страни сајта"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Пребацује валуту без ГЕТ својстава (? Валута = УСД) у вези. Ради у вооцоммерце-у> 3.3.0."
+
+msgid "Symbol"
+msgstr "симбол"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "ОВА валута налога се ручно мења %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Хвала, успео сам!"
+
+msgid "The Free Currency Converter"
+msgstr "Бесплатни претварач валута"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "Купон је утврдио правила о минималној и максималној потрошњи"
+
+msgid "The coupon fixed amount rules"
+msgstr "Правила о фиксном износу купона"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "Следеће опције утичу на то како се цене приказују на предњој страни. ВооЦоммерце мењач валута је активиран. Подесите подразумевану валуту %s молим."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "Максимална потрошња за овај купон је %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "Минимална потрошња за овај купон је %s."
+
+msgid "The price based on user role"
+msgstr "Цена на основу улоге корисника"
+
+msgid "The product custom GeoIP rules"
+msgstr "Прилагођена ГеоИП правила производа"
+
+msgid "The product fixed prices rules"
+msgstr "Правила фиксних цена производа"
+
+msgid "The side where the switcher is be placed"
+msgstr "Страна на којој се поставља прекидач"
+
+msgid "The switcher color when mouse hovering"
+msgstr "Боја пребацивача приликом лебдења миша"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "То убрзава рад на подешавању правила за сваки производ"
+
+msgid "Title"
+msgstr "наслов"
+
+msgid "Top margin"
+msgstr "Горња маргина"
+
+msgid "Total amount"
+msgstr "Укупна сума"
+
+msgid "Total in basic currency:"
+msgstr "Укупно у основној валути:"
+
+msgid "Transient"
+msgstr "Прелазни"
+
+msgid "UPGRADE to Full version"
+msgstr "НАДОГРАДИТЕ на пуну верзију"
+
+msgid "Update all rates"
+msgstr "Ажурирајте све цене"
+
+msgid "Update profile"
+msgstr "Ажурирање профил"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Коришћење Геолоцатион-а узрокује проблеме, изгледа да ми не иде"
+
+msgid "Video tutorials"
+msgstr "Видео упутства"
+
+msgid "Visibility"
+msgstr "Видљивост"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "ВООБЕ - ВооЦоммерце Булк Едитор Профессионал"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "ВООЦС - тхе фиксно Минимална и максимална потрошња"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "ВООЦС - купон са фиксним износом"
+
+msgid "WOOCS - the price based on user role"
+msgstr "ВООЦС - цена заснована на улози корисника"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "ВООЦС - прилагођена ГеоИП правила производа"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "ВООЦС - производ фиксне цене"
+
+msgid "WOOCS Currency Options"
+msgstr "ВООЦС опције валуте"
+
+msgid "WOOCS Order Info"
+msgstr "ВООЦС Информације о наруџби"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "ВООФ - ВооЦоммерце Продуцтс Филтер"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "ВООТ - Табеле активних производа ВооЦоммерце"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Упозорење: Вооцоммерце није активиран"
+
+msgid "Watch video instructions"
+msgstr "Погледајте видео упутства"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "Трудимо се да овај додатак учинимо ефикаснијим алатом за ваше е-продавнице и спремни смо да %s чујемо ваш преглед, сугестије и мишљења %s, поделите га са нама!"
+
+msgid "Welcome currency"
+msgstr "Валута добродошлице"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Који садржај приказати у преклопнику након преласка курсора миша у било којој тамошњој валути. Варијанте: __ЦОДЕ__ __ФЛАГ___ __СИГН__ __ДЕСЦР__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Који садржај приказати у пребацивачу након учитавања странице веб локације. Варијанте: __ЦОДЕ__ __ФЛАГ___ __СИГН__ __ДЕСЦР__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Где на веб локацији свич треба да буде сакривен. Ако је овде представљена било која вредност, свичер ће бити скривен на тим страницама и видљив на свим осталим. Можете да користите ИД-ове страница помоћу зареза, пример: 28,34,232. Такође можете да користите посебне речи као: производ, продавница, плаћање, насловна страница, вооцоммерце"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Где на веб локацији свич треба да буде видљив. Ако је овде представљена било која вредност, свичер ће бити скривен на свим осталим страницама које нису представљене у овом пољу. Можете да користите ИД-ове страница помоћу зареза, пример: 28,34,232. Такође можете да користите посебне речи као: производ, продавница, плаћање, насловна страница, вооцоммерце"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Који текст се приказује у падајућим опцијама - код валуте ИЛИ текст описа. Изгледа добро за све падајуће меније, осим за ддслицк."
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "Подршка ВооЦоммерце мењача валута"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "ВооЦоммерце мењач валута в. %s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "Функција ВооЦоммерце ГеоИП не ради на вашој веб локацији. Можда ово ће вам помоћи."
+
+msgid "Yes"
+msgstr "да"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Моћи ћете да поставите ФИКСНИ износ за купон за сваку валуту. ПАЖЊА: Треба омогућити 'Да ли је дозвољено вишеструко'!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Моћи ћете да поставите ФИКСНИ износ за сваку валуту бесплатно и за све друге начине испоруке. ПАЖЊА: Треба омогућити 'Да ли је дозвољено вишеструко'!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Моћи ћете да одредите ФИКСНЕ цене за једноставне и променљиве производе. ПАЖЊА: Треба омогућити 'Да ли је дозвољено вишеструко'!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "Моћи ћете да поставите различите цене за сваки производ (у основној валути) за различите земље"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Ваша држава није дефинисана! Проблеми са услугом ГеоИп."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Ваша држава није дефинисана! Проблеми са интернет везом или услугом ГеоИп."
+
+msgid "Your country is: %s"
+msgstr "Ваша земља је: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Ваша земља је: %s. (дефинисано вооцоммерце ГеоИП функционалношћу)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "Ваша верзија додатка ВооЦоммерце је превише застарела. Ажурирајте минимум на %s верзију да бисте избегли неисправност!"
+
+msgid "a hint"
+msgstr "наговештај"
+
+msgid "auto"
+msgstr "ауто"
+
+msgid "cancel"
+msgstr "отказати"
+
+msgid "change the rate and this description to the right values"
+msgstr "промените стопу и овај опис на праве вредности"
+
+msgid "clear all"
+msgstr "избриши све"
+
+msgid "code"
+msgstr "код"
+
+msgid "currency"
+msgstr "валута"
+
+msgid "daily"
+msgstr "свакодневно"
+
+msgid "ddslick drop-down"
+msgstr "ддслицк падајући мени"
+
+msgid "description"
+msgstr "Опис"
+
+msgid "drag and drop"
+msgstr "превуците и отпустите"
+
+msgid "enter amount"
+msgstr "унети износ"
+
+msgid "enter roll width"
+msgstr "унесите ширину ролне"
+
+msgid "exchange rate"
+msgstr "наравно"
+
+msgid "from"
+msgstr "од"
+
+msgid "full version of the plugin"
+msgstr "пуна верзија додатка"
+
+msgid "here"
+msgstr "овде"
+
+msgid "hourly"
+msgstr "по сат"
+
+msgid "interest"
+msgstr "бодеж"
+
+msgid "is added!"
+msgstr "се додаје!"
+
+msgid "is updated!"
+msgstr "је ажуриран!"
+
+msgid "left"
+msgstr "left (остављено)"
+
+msgid "loading"
+msgstr "утовар"
+
+msgid "monthly"
+msgstr "месечно"
+
+msgid "move"
+msgstr "потез"
+
+msgid "no auto update"
+msgstr "нема аутоматског ажурирања"
+
+msgid "no data for %s"
+msgstr "нема података за %s"
+
+msgid "orders (completed)"
+msgstr "поруџбине (завршене)"
+
+msgid "reset the browser cache"
+msgstr "ресетујте кеш меморију прегледача"
+
+msgid "results"
+msgstr "Резултати"
+
+msgid "right"
+msgstr "у праву"
+
+msgid "select all"
+msgstr "Изабери све"
+
+msgid "select some countries"
+msgstr "изаберите неке државе"
+
+msgid "select user role"
+msgstr "изаберите корисничку улогу"
+
+msgid "special: each 15 minutes"
+msgstr "посебно: сваких 15 минута"
+
+msgid "special: each 30 minutes"
+msgstr "посебно: сваких 30 минута"
+
+msgid "special: each 45 minutes"
+msgstr "посебно: сваких 45 минута"
+
+msgid "special: each 5 minutes"
+msgstr "посебно: сваких 5 минута"
+
+msgid "special: each minute"
+msgstr "посебно: сваки минут"
+
+msgid "support"
+msgstr "подршка"
+
+msgid "the plugin forum"
+msgstr "форум додатака"
+
+msgid "to"
+msgstr "пре него што"
+
+msgid "twicedaily"
+msgstr "два пута дневно"
+
+msgid "wSelect drop-down"
+msgstr "вИзаберите падајући мени"
+
+msgid "Currencies popularity"
+msgstr "Популарност валута"
+
+msgid "Countries popularity"
+msgstr "Популарност земаља"

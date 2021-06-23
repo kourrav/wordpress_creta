@@ -1,0 +1,51 @@
+.redux-main .form-table .wp-picker-container .iris-picker 
+{
+position:relative;
+}
+
+ input.of-radio-img-radio{display: none;}
+        .tile_img_wrap{
+          display: block;                
+        }
+        .tile_img_wrap > span > img{
+          float: left;
+          margin:0 5px 10px 0;
+        }
+        .tile_img_wrap > span > img:hover{
+          cursor: pointer;
+        }            
+        .tile_img_wrap img.of-radio-img-selected{
+          border: 3px solid #CCCCCC;
+        }
+         #magikCreta_page_layout_meta_box h2 {
+    margin-top: 20px;
+    font-size: 1.5em;
+    
+     }
+        #magikCreta_page_layout_meta_box .inside h2 {
+    margin-top: 20px;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    padding: 0 0 3px;
+    clear: left;
+}
+
+ input.of-radio-img-radio{display: none;}
+        .tile_img_wrap{
+          display: block;                
+        }
+        .tile_img_wrap > span > img{
+          float: left;
+          margin:0 5px 10px 0;
+        }
+        .tile_img_wrap > span > img:hover{
+          cursor: pointer;
+        }            
+        .tile_img_wrap img.of-radio-img-selected{
+          border: 3px solid #CCCCCC;
+        }
+        .postbox-container .inside .tile_img_wrap
+        {
+          height:70px;
+        }
+        

@@ -1,0 +1,49 @@
+# Copyright (C) 2019 MagikCommerce
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magik WooCategory Image 1.0\n"
+"POT-Creation-Date: 2019-02-28 06:13+0530\n"
+"PO-Revision-Date: 2019-02-28 06:14+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: magik-woocategory-image.php:124
+msgid "Choose an image"
+msgstr ""
+
+#: magik-woocategory-image.php:125
+msgid "Use Image"
+msgstr ""
+
+#: magik-woocategory-image.php:148 magik-woocategory-image.php:149
+msgid "Magik WooCategory"
+msgstr ""
+
+#: magik-woocategory-image.php:165
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: magik-woocategory-image.php:172
+msgid "Magik Product Category Image"
+msgstr ""
+
+#: magik-woocategory-image.php:205
+msgid "Enable Woo Category Image"
+msgstr ""
+
+#: magik-woocategory-image.php:262 magik-woocategory-image.php:289
+msgid "Magik Category Banner"
+msgstr ""
+
+#: magik-woocategory-image.php:266 magik-woocategory-image.php:294
+msgid "Upload/Add image"
+msgstr ""
+
+#: magik-woocategory-image.php:267 magik-woocategory-image.php:295
+#: magik-woocategory-image.php:365
+msgid "Remove image"
+msgstr ""

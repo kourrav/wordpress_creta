@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: ja\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P-残りのスペース"
+
+msgid "$P - left"
+msgstr "$ P-左"
+
+msgid "(Approx. %s)"
+msgstr "（約%s）"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+レートへの関心、例：0.15"
+
+msgid "1 %s is"
+msgstr "1%sは"
+
+msgid "Base currency of the site is: %s"
+msgstr "サイトの基本通貨は次のとおりです：%s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "WooCommercev.%s.xで実現"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add Currency"
+msgstr "通貨を追加する"
+
+msgid "Add all"
+msgstr "全て追加する"
+
+msgid "Add custom money sign"
+msgstr "カスタム通貨記号を追加する"
+
+msgid "Add group"
+msgstr "グループを追加します"
+
+msgid "Add new profile"
+msgstr "新しいプロファイルを追加する"
+
+msgid "Add to:"
+msgstr "追加："
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "あなたの店にあなたのお金のシンボルを追加します。 例：$ USD、AAA、AUD $、DDD-カンマで区切る"
+
+msgid "Advanced"
+msgstr "高度な"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "cronが完了した後、新しい通貨レートがサイト管理者の電子メールで送信されます。 注意：メールが届かない場合は、PHP関数mail（）がサーバーで機能しないか、この関数によるメールの送信がロックされていることを意味します。"
+
+msgid "Aggregator API key"
+msgstr "アグリゲーターAPIキー"
+
+msgid "Base currency"
+msgstr "基本通貨"
+
+msgid "Basic"
+msgstr "ベーシック"
+
+msgid "Basic field(s)"
+msgstr "基本フィールド"
+
+msgid "Behavior"
+msgstr "アクション"
+
+msgid "Behavior for devices"
+msgstr "デバイスの動作"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cents"
+msgstr "セント"
+
+msgid "Change order currency"
+msgstr "注文通貨の変更"
+
+msgid "Change the order currency to any other"
+msgstr "注文通貨を他の通貨に変更します"
+
+msgid "Chart type: bar"
+msgstr "チャートタイプ：バー"
+
+msgid "Chart type: pie"
+msgstr "チャートタイプ：パイ"
+
+msgid "Checkout by GeoIP rules"
+msgstr "GeoIPルールによるチェックアウト"
+
+msgid "Choise behavior"
+msgstr "行動を選択する"
+
+msgid "Choise currencies"
+msgstr "通貨を選択する"
+
+msgid "Choise side"
+msgstr "選択側"
+
+msgid "Choise skin"
+msgstr "肌を選ぶ"
+
+msgid "Chosen dark drop-down"
+msgstr "選択した暗いドロップダウン"
+
+msgid "Chosen drop-down"
+msgstr "選択したドロップダウン"
+
+msgid "Classic blocks"
+msgstr "クラシックブロック"
+
+msgid "Click to select the flag"
+msgstr "クリックしてフラグを選択します"
+
+msgid "Codex"
+msgstr "古写本"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "ビジネス目的で通貨切り替え統計を収集します。 顧客の個人データは収集されず、通貨、国、切り替え時間のみが収集されます。 注文通貨の統計もあります。"
+
+msgid "Convert"
+msgstr "変換"
+
+msgid "Count of digits after point"
+msgstr "ポイント後の桁数"
+
+msgid "Coupon amount"
+msgstr "クーポン金額"
+
+msgid "Currencies"
+msgstr "通貨"
+
+msgid "Currencies excluding from view"
+msgstr "ビューから除外する通貨"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "通貨は、WordPresscronによる自動更新を評価します。"
+
+msgid "Currency"
+msgstr "通貨"
+
+msgid "Currency aggregator"
+msgstr "通貨アグリゲーター"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "通貨アグリゲーター。 注：WOOCSに表示されていないアグリゲーターを知っている場合は、サポートにリクエストを書き込んで、追加することを提案してください。"
+
+msgid "Currency in which the customer paid."
+msgstr "顧客が支払った通貨。"
+
+msgid "Currency rate when the customer paid"
+msgstr "顧客が支払ったときの為替レート"
+
+msgid "Currency storage"
+msgstr "通貨保管"
+
+msgid "Currencylayer"
+msgstr "多糖類"
+
+msgid "Current currency is:"
+msgstr "現在の通貨は次のとおりです。"
+
+msgid "Custom money signs"
+msgstr "カスタムマネーサイン"
+
+msgid "Custom price format"
+msgstr "カスタム価格フォーマット"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "顧客は、選択した通貨（はい）またはデフォルトの通貨（いいえ）で支払います。"
+
+msgid "Decimal"
+msgstr "10進数"
+
+msgid "Decimals"
+msgstr "10進数"
+
+msgid "Delete profile"
+msgstr "プロファイルを削除する"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Direct use"
+msgstr "直接使用する"
+
+msgid "Disable on pages"
+msgstr "ページで無効にする"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "説明されているページでのみWOOCSを無効または有効にします。 カンマとページスラッグを使用します。 例：ブログ、アカウント"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "画面の上部からスイッチャーのhtmlブロックまでの距離。 pxまたは％で設定できます。 例1：100px。 例2：10％。"
+
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+msgid "Drop-down options text type"
+msgstr "ドロップダウンオプションのテキストタイプ"
+
+msgid "EU countries"
+msgstr "EU諸国"
+
+msgid "Edit profile"
+msgstr "プロファイルを編集します。"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "「レート自動更新」の結果に関する通知をメールで送信"
+
+msgid "Enable/Disable"
+msgstr "有効化/無効化"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "ページのサイド通貨スイッチャーを有効/無効にします"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "例：300px、100％、auto"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "例：EUR、GBP、UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "例：USD、EUR"
+
+msgid "FAQ"
+msgstr "よくあるご質問"
+
+msgid "Fixer"
+msgstr "フィクサー"
+
+msgid "Flag"
+msgstr "フラグ"
+
+msgid "Flag position"
+msgstr "旗の位置"
+
+msgid "Flags (as images)"
+msgstr "フラグ（画像として）"
+
+msgid "For ajax redraw."
+msgstr "ajaxの再描画用。"
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "通貨の場合-ユーザーがサイトフロントで通貨を選択した国の数に関する集計データ。 注文の場合-請求先住所で選択した国によって検出された、国からの注文の数。"
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "通貨の場合-サイトフロントで選択した通貨に関する集計データ。 注文の場合-選択した通貨で行われた注文の数。"
+
+msgid "For ddslick script only!"
+msgstr "ddslickスクリプトのみ！"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "[GeoIPルール]タブで定義されたルールに従って、チェックアウトページで顧客に支払いを強制します。 注意：この機能は、「固定価格を有効にする」を有効にし、さまざまな通貨の製品に固定価格ルールをインストールした場合に論理的に意味があります。"
+
+msgid "Free flags images"
+msgstr "無料の旗の画像"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "GeoIPプロファイル"
+
+msgid "GeoIP rules"
+msgstr "GeoIPルール"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIPはWooCommerceプラグインのv.2.3から動作し、WooCommerceのマイナーバージョンでは動作しません!!"
+
+msgid "Get free API keys:"
+msgstr "無料のAPIキーを取得します。"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "ユーザーロールごとに異なる価格を設定する機能を提供します"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "ユーザーロールごとに異なる価格を設定する機能を提供します。 ネイティブのWooCommerce価格フィルターは、このデータを認識していません。"
+
+msgid "Go Pro!"
+msgstr "Go Pro！"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "ここでは、国のプロファイルのセットを作成して、ビジネスロジックによって製品に適用できます。%s！"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "ここでは、任意の通貨のクーポンの固定金額を設定できます。 空の金額の場合、レートによるフィールドの再カウントが機能します！"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "ここでは、任意の通貨の製品の固定価格を設定できます。 空の価格フィールドの場合、レートによる再カウントが機能します！"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "ここでは、さまざまな国の基本通貨で価格を設定できます。再カウントは、この値に対して相対的に行われます。 注意：通貨の固定価格が優先されます！"
+
+msgid "Hide cents"
+msgstr "セントを隠す"
+
+msgid "Hide on mobile devices"
+msgstr "モバイルデバイスで非表示"
+
+msgid "Hide on the pages"
+msgstr "ページに非表示"
+
+msgid "Hide switcher on checkout page"
+msgstr "チェックアウトページでスイッチャーを非表示にする"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "何らかの理由でチェックアウトページでスイッチャーを非表示にします。 複数モードのチェックアウトページで通貨を変更するユーザーのためのより良い再ストライク。"
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "現在の通貨に応じて、チェックアウトページで支払いシステムを表示/非表示にします"
+
+msgid "Hint"
+msgstr "ヒント"
+
+msgid "Hover color"
+msgstr "ホバーカラー"
+
+msgid "Hover field(s)"
+msgstr "ホバーフィールド"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "サイト前面に通貨スイッチャー（デフォルト）を表示する方法。 （新規）番号のあるスキンに注意してください-属性スタイルとスタイル番号で説明されているショートコード[woocs]で、同じページで異なるデザインのスキンを使用できます（[情報ヘルプ]タブの[コーデックス]ページを参照）。"
+
+msgid "I am using cache plugin on my site"
+msgstr "私は自分のサイトでキャッシュプラグインを使用しています"
+
+msgid "I cant add flags! What to do?"
+msgstr "フラグを追加できません！ 何をすべきか？"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "WOOCS設定パネルが正しくないように見える場合、またはJavaScriptエラーがある場合（更新後）-最初に"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "タブオプションでアクティブ化されたオプションの場合、サイトでキャッシュプラグインを使用しています-タブオプションでの統計データ登録の二重データを回避するためにオプションアクティブ化オプションリンクにGETデータがありません！"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "css + jsテンプレートについてのアイデアがある場合は、サポートにリクエストを送信して、ビジョンを説明してください。"
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "統計のシナリオについてアイデアがある場合は、%sで共有して話し合ってください。"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "[詳細設定]タブで選択した通貨で顧客に支払いを許可する場合は、[複数許可]オプションを[はい]に設定します。"
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "一部のサーバーでは、セッションに問題があり、通貨を選択した後、ウェルカム通貨またはジオIP通貨にリセットされます。 このような場合は、一時的に使用してください。 ホスティングで可能な場合は、MemcachedまたはRedisを使用してください。"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "プラグイン%sの無料バージョンでは、2つの任意の通貨のみ%sで操作できます！より多くの通貨%sを使用したい場合は、プラグインのプレミアムバージョン%sにアップグレードできます。"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "あなたのサイトであなたの顧客の最初の訪問のための通貨表示価格で。 論理的な混乱を避けるために、プライベートにしないでください！"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "各製品の個別のGeoIPルール"
+
+msgid "Individual fixed amount for coupon"
+msgstr "クーポンの個別定額"
+
+msgid "Individual fixed amount for shipping"
+msgstr "個別の送料定額"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "各製品の個別の固定価格ルール"
+
+msgid "Individual prices based on user role"
+msgstr "ユーザーの役割に基づく個別の価格"
+
+msgid "Is hidden"
+msgstr "隠されている"
+
+msgid "Is multiple allowed"
+msgstr "複数は許可されています"
+
+msgid "Is shown"
+msgstr "示されています"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Load countries from profile"
+msgstr "プロファイルから国をロードする"
+
+msgid "Loading"
+msgstr "ローディング"
+
+msgid "Main color"
+msgstr "メインカラー"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "スイッチャーエレメントを彩るメインカラー"
+
+msgid "Maximum spend"
+msgstr "最大費用"
+
+msgid "Minimum spend"
+msgstr "最小費用"
+
+msgid "Money signs"
+msgstr "お金の兆候"
+
+msgid "More power for your shop"
+msgstr "あなたの店のためのより多くの力"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "ネイティブWooCommerce価格フィルターは、この機能によって生成されたデータを認識しません。"
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "ネイティブのWooCommerce価格フィルターは、マークされた機能によって生成されたすべてのデータに対してブラインドです"
+
+msgid "New profile"
+msgstr "新しいプロフィール"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No GET data in link"
+msgstr "リンクにGETデータがありません"
+
+msgid "No such profile"
+msgstr "そのようなプロファイルはありません"
+
+msgid "Nope, maybe later!"
+msgstr "いいえ、多分後で！"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "注文を再計算することはできません-現在の基本通貨は%sであり、注文の基本通貨は%sであるためです！"
+
+msgid "Not styled drop-down"
+msgstr "スタイル設定されていないドロップダウン"
+
+msgid "Note"
+msgstr "ノート"
+
+msgid "Notes*"
+msgstr "ノート*"
+
+msgid "Ok, you deserve it"
+msgstr "わかりました、あなたはそれに値します"
+
+msgid "Open exchange rates"
+msgstr "オープン為替レート"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Order currency"
+msgstr "注文通貨"
+
+msgid "Order currency rate"
+msgstr "注文通貨レート"
+
+msgid "P $ - right space"
+msgstr "P $-右のスペース"
+
+msgid "P$ - right"
+msgstr "P $-右"
+
+msgid "PHP Session"
+msgstr "PHPセッション"
+
+msgid "Payments"
+msgstr "支払い"
+
+msgid "Payments behavior"
+msgstr "支払い行動"
+
+msgid "Payments rules"
+msgstr "支払いルール"
+
+msgid "Please use the API key"
+msgstr "APIキーを使用してください"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "ポート：memcachedまたはredis。 通常、memcachedポートの場合は11211、redisポートの場合は6379です。memcachedまたはredisに使用するポートについては、ホスティングドキュメントをお読みください。"
+
+msgid "Position"
+msgstr "ポジション"
+
+msgid "Precision"
+msgstr "精度"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "上で選択したアグリゲーターから為替レートを取得したい場合は、このボタンを押してください。"
+
+msgid "Prices preloader"
+msgstr "価格プリローダー"
+
+msgid "Prices without cents"
+msgstr "セントなしの価格"
+
+msgid "Private"
+msgstr "プライベート"
+
+msgid "Profile is deleted"
+msgstr "プロファイルが削除されます"
+
+msgid "Profiles"
+msgstr "プロファイル"
+
+msgid "Public"
+msgstr "公衆"
+
+msgid "Quick introduction"
+msgstr "クイック紹介"
+
+msgid "Rate"
+msgstr "レート"
+
+msgid "Rate and Interest"
+msgstr "金利と利息"
+
+msgid "Rate auto update"
+msgstr "自動更新を評価する"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "通貨アクティブコードに関するwikiを読む"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "通貨アクティブコードについてのウィキを読む<-よくわからない場合は、ここで正しい通貨コードを入手してください！"
+
+msgid "Recalculate all orders"
+msgstr "すべての注文を再計算します"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "基本通貨ですべての注文を再計算します。 サイトのクローンでこのオプションをテストすることをお勧めします。 それについてのプラグインのドキュメントを読んでください！"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "選択した通貨で現在の注文を再計算します。"
+
+msgid "Recalculate order"
+msgstr "順序を再計算する"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "本来セントがないJPYやTWDのように、どこでもセントなしで価格を再計算します。 カンマを使用します。 例：UAH、RUB。 セットアップ後にチェックアウトをテストしてください！"
+
+msgid "Regular price"
+msgstr "通常価格"
+
+msgid "Remove"
+msgstr "削除します"
+
+msgid "Reverse this option"
+msgstr "このオプションを逆にします"
+
+msgid "Reverse use"
+msgstr "逆使用"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Roll blocks"
+msgstr "ロールブロック"
+
+msgid "Round chain"
+msgstr "ラウンドチェーン"
+
+msgid "Round select"
+msgstr "ラウンドセレクト"
+
+msgid "Sale price"
+msgstr "セールスプライス"
+
+msgid "Save changes please!"
+msgstr "変更を保存してください！"
+
+msgid "Select Currency"
+msgstr "通貨を選択"
+
+msgid "Select currency..."
+msgstr "通貨を選択してください..."
+
+msgid "Select symbol position"
+msgstr "シンボル位置を選択"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "サーバーまたはソケット：memcachedまたはredis。 通常はlocalhostです。 memcachedまたはredisに使用するホストに関するホスティングドキュメントをお読みください。"
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "スーパーキャッシュやハイパーキャッシュなど、サイトにキャッシュプラグインを本当に使用している場合にのみ、ここで[はい]を設定します（重要ではありません）。 +「カスタム価格フォーマット」を設定します。例：__ PRICE __（__ CODE__）。 この機能を有効にした後、キャッシュをクリーンアップして機能させます。 これにより、サイトのすべてのページで選択した通貨で価格を表示できます。 この機能の料金-製品価格の再描画のための追加のAJAXクエリ。"
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "エタロンの主通貨を設定します。 これは、商品の価格が表示された通貨である必要があります。"
+
+msgid "Set title"
+msgstr "タイトルを設定"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "前面に価格を表示する方法をフォーマットに設定します。 キーを使用します：__ CODE __、__ PRICE__。 デフォルトの形式を使用するには、空のままにします。 例：__ PRICE __（__ CODE__）"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "選択した通貨では支払いシステムを非表示にする必要があります。その逆も同様です。"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "すばやくアクセスできるように、上部の管理バーにWOOCSオプションボタンを表示します。 アクティブな作業に非常に便利です。 サイト管理者のみに表示されます！"
+
+msgid "Show approx. amount"
+msgstr "おおよその金額"
+
+msgid "Show approx. price"
+msgstr "約表示価格"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "[GeoIpルール]タブのIPで定義されたユーザーの通貨を使用して、チェックアウトとカートページに概算金額を表示します。 通貨レートデータでのみ機能し、固定価格ルールと地理ルールでは機能しません。"
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "[GeoIpルール]タブのIPで定義されたユーザーの通貨を使用して、ショップと単一の製品ページに概算価格を表示します。 通貨レートデータでのみ機能し、固定価格ルールと地理ルールでは機能しません。"
+
+msgid "Show cents"
+msgstr "セントを表示"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "サイトの前面にすべての通貨を表示するか、wp管理パネルでプライベートな瞬間を非表示にします。"
+
+msgid "Show flags"
+msgstr "フラグを表示する"
+
+msgid "Show flags by default"
+msgstr "デフォルトでフラグを表示"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "製品の価格の近くに情報アイコンを表示します。ホバーの下にある間、すべての通貨で製品の価格が表示されます。"
+
+msgid "Show money signs"
+msgstr "お金の兆候を表示する"
+
+msgid "Show on all devices"
+msgstr "すべてのデバイスに表示"
+
+msgid "Show on mobile devices only"
+msgstr "モバイルデバイスにのみ表示"
+
+msgid "Show on the pages"
+msgstr "ページに表示"
+
+msgid "Show options button on top admin bar."
+msgstr "上部の管理バーにオプションボタンを表示します。"
+
+msgid "Show price info icon"
+msgstr "価格情報アイコンを表示"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "モバイルデバイスでの表示/非表示（最高の優先度）"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "前面のドロップダウンでフラグを表示/非表示"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "前面のドロップダウンにお金のサインを表示/非表示"
+
+msgid "Side"
+msgstr ""
+
+msgid "Side switcher"
+msgstr "サイドスイッチャー"
+
+msgid "Skin"
+msgstr "肌"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "一部のアグリゲーターにはAPIキーが必要です。 入手方法については、以下のヒントをご覧ください。"
+
+msgid "Statistic"
+msgstr "統計値"
+
+msgid "Storage port"
+msgstr "収納ポート"
+
+msgid "Storage server"
+msgstr "ストレージサーバー"
+
+msgid "Style #1"
+msgstr "スタイル＃1"
+
+msgid "Style #2"
+msgstr "スタイル＃2"
+
+msgid "Style #3"
+msgstr "スタイル＃3"
+
+msgid "Style of the switcher on the site front"
+msgstr "サイトフロントのスイッチャーのスタイル"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "リンクにGETプロパティ（？currency = USD）がない通貨を切り替えます。 woocommerce> 3.3.0で動作します。"
+
+msgid "Symbol"
+msgstr "シンボル"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "この注文通貨は手動で変更されます%s！"
+
+msgid "Thank you, I did it!"
+msgstr "ありがとう、やった！"
+
+msgid "The Free Currency Converter"
+msgstr "無料通貨コンバーター"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "クーポン固定の最小および最大支出ルール"
+
+msgid "The coupon fixed amount rules"
+msgstr "クーポン定額ルール"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "次のオプションは、フロントエンドでの価格の表示方法に影響します。WooCommerce CurrencySwitcherがアクティブになります。デフォルトの通貨%sを設定してください。"
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "このクーポンの最大使用額は%sです。"
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "このクーポンの最低費用は%sです。"
+
+msgid "The price based on user role"
+msgstr "ユーザーの役割に基づく価格"
+
+msgid "The product custom GeoIP rules"
+msgstr "製品のカスタムGeoIPルール"
+
+msgid "The product fixed prices rules"
+msgstr "製品の固定価格ルール"
+
+msgid "The side where the switcher is be placed"
+msgstr "スイッチャーが配置されている側"
+
+msgid "The switcher color when mouse hovering"
+msgstr "マウスをホバリングしたときのスイッチャーの色"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "これにより、各製品のルール設定の作業がより高速になります"
+
+msgid "Title"
+msgstr "役職"
+
+msgid "Top margin"
+msgstr "トップマージン"
+
+msgid "Total amount"
+msgstr "合計金額"
+
+msgid "Total in basic currency:"
+msgstr "基本通貨での合計："
+
+msgid "Transient"
+msgstr "トランジェント"
+
+msgid "UPGRADE to Full version"
+msgstr "フルバージョンへのアップグレード"
+
+msgid "Update all rates"
+msgstr "すべての料金を更新する"
+
+msgid "Update profile"
+msgstr "プロファイルを更新する"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "ジオロケーションを使用すると問題が発生しますが、うまくいかないようです"
+
+msgid "Video tutorials"
+msgstr "ビデオチュートリアル"
+
+msgid "Visibility"
+msgstr "視覚化"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE-WooCommerce Bulk Editor Professional"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS- 固定の 最小および最大支出"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS-クーポン定額"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS-ユーザーの役割に基づく価格"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS-製品のカスタムGeoIPルール"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS-製品の固定価格"
+
+msgid "WOOCS Currency Options"
+msgstr "WOOCS通貨オプション"
+
+msgid "WOOCS Order Info"
+msgstr "WOOCS注文情報"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF-WooCommerce製品フィルター"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT-WooCommerceアクティブ製品テーブル"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "警告：Woocommerceはアクティブ化されていません"
+
+msgid "Watch video instructions"
+msgstr "ビデオの説明を見る"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "私たちはこのプラグインをあなたのeショップにとってより効果的なツールにするために一生懸命働いています、そして%sがあなたのレビュー、提案、意見を聞く準備ができています%s、それを私たちと共有してください！"
+
+msgid "Welcome currency"
+msgstr "ウェルカム通貨"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "そこにある通貨にマウスを合わせた後、スイッチャーに表示するコンテンツ。 バリアント：__ CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "サイトページの読み込み後にスイッチャーに表示するコンテンツ。 バリアント：__ CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "サイトのどこにスイッチャーを隠す必要があります。 ここに値が表示されている場合、スイッチャーはそのページで非表示になり、他のすべてのページで表示されます。 カンマを使用してページIDを使用できます（例：28,34,232）。 また、特別な単語を次のように使用することもできます：product、shop、checkout、front_page、woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "サイトのどこにスイッチャーが見えるか。 ここに値が表示されている場合、スイッチャーはこのフィールドに表示されていない他のすべてのページで非表示になります。 カンマを使用してページIDを使用できます（例：28,34,232）。 また、特別な単語を次のように使用することもできます：product、shop、checkout、front_page、woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "ドロップダウンオプションに表示されるテキスト（通貨コードまたは説明テキスト）。 ddslickを除くすべてのドロップダウンに適しています。"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "WooCommerce通貨スイッチャーのサポート"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "WooCommerce Currency Switcher v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "WooCommerceGeoIP機能がサイトで機能しません。 多分 この あなたを助けるでしょう。"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "各通貨のクーポンに固定金額を設定することができます。 注意：「複数許可されていますか」を有効にする必要があります。"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "各通貨の固定金額を無料およびその他すべての配送方法で設定できます。 注意：「複数許可されていますか」を有効にする必要があります。"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "シンプルな商品と変動する商品の固定価格を設定できます。 注意：「複数許可されていますか」を有効にする必要があります。"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "国ごとに製品ごとに（基本通貨で）異なる価格を設定できます。"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "あなたの国は定義されていません！ GeoIpサービスの問題。"
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "あなたの国は定義されていません！ インターネット接続またはGeoIpサービスの問題。"
+
+msgid "Your country is: %s"
+msgstr "あなたの国は：%s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "あなたの国は%sです。（woocommerce GeoIP機能によって定義されます）"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "お使いのバージョンのWooCommerceプラグインは廃止されすぎています。誤動作を避けるために、最小値を%sバージョンに更新してください！"
+
+msgid "a hint"
+msgstr "ヒント"
+
+msgid "auto"
+msgstr "オート"
+
+msgid "cancel"
+msgstr "キャンセル"
+
+msgid "change the rate and this description to the right values"
+msgstr "レートとこの説明を正しい値に変更します"
+
+msgid "clear all"
+msgstr "すべてクリア"
+
+msgid "code"
+msgstr "コード"
+
+msgid "currency"
+msgstr "通貨"
+
+msgid "daily"
+msgstr "毎日"
+
+msgid "ddslick drop-down"
+msgstr "ddslickドロップダウン"
+
+msgid "description"
+msgstr "説明"
+
+msgid "drag and drop"
+msgstr "ドラッグアンドドロップ"
+
+msgid "enter amount"
+msgstr "金額を入力します"
+
+msgid "enter roll width"
+msgstr "ロール幅を入力してください"
+
+msgid "exchange rate"
+msgstr "為替レート"
+
+msgid "from"
+msgstr "から"
+
+msgid "full version of the plugin"
+msgstr "プラグインの完全版"
+
+msgid "here"
+msgstr "ここ"
+
+msgid "hourly"
+msgstr "毎時"
+
+msgid "interest"
+msgstr "関心"
+
+msgid "is added!"
+msgstr "追加されました！"
+
+msgid "is updated!"
+msgstr "更新されました！"
+
+msgid "left"
+msgstr "左"
+
+msgid "loading"
+msgstr "ローディング"
+
+msgid "monthly"
+msgstr "毎月"
+
+msgid "move"
+msgstr "モバイル"
+
+msgid "no auto update"
+msgstr "自動更新なし"
+
+msgid "no data for %s"
+msgstr "%sのデータはありません"
+
+msgid "orders (completed)"
+msgstr "注文（完了）"
+
+msgid "reset the browser cache"
+msgstr "ブラウザのキャッシュをリセットする"
+
+msgid "results"
+msgstr "結果"
+
+msgid "right"
+msgstr "右"
+
+msgid "select all"
+msgstr "すべて選択"
+
+msgid "select some countries"
+msgstr "いくつかの国を選択してください"
+
+msgid "select user role"
+msgstr "ユーザーロールを選択"
+
+msgid "special: each 15 minutes"
+msgstr "スペシャル：15分ごと"
+
+msgid "special: each 30 minutes"
+msgstr "スペシャル：30分ごと"
+
+msgid "special: each 45 minutes"
+msgstr "スペシャル：45分ごと"
+
+msgid "special: each 5 minutes"
+msgstr "スペシャル：5分ごと"
+
+msgid "special: each minute"
+msgstr "スペシャル：毎分"
+
+msgid "support"
+msgstr "サポート"
+
+msgid "the plugin forum"
+msgstr "プラグインフォーラム"
+
+msgid "to"
+msgstr "〜へ"
+
+msgid "twicedaily"
+msgstr "XNUMX日XNUMX回"
+
+msgid "wSelect drop-down"
+msgstr "w [選択]ドロップダウン"
+
+msgid "Currencies popularity"
+msgstr "通貨の人気"
+
+msgid "Countries popularity"
+msgstr "国の人気"

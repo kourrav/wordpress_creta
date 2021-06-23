@@ -1,0 +1,14 @@
+/**
+ * Admin Magik Infinite Scroller CSS
+ *
+ * @author MagikCommerce
+ * @package Magik Infinite Scroller
+ * @version 1.0
+ */
+ 
+.magik-infi-loader {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 15px;
+}

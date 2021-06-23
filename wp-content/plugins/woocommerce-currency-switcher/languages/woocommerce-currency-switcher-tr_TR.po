@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: tr_TR\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - sol boşluk"
+
+msgid "$P - left"
+msgstr "$ P - sol"
+
+msgid "(Approx. %s)"
+msgstr "(Yaklaşık %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ faiz oranınıza, örneğin: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s"
+
+msgid "Base currency of the site is: %s"
+msgstr "Sitenin temel para birimi: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "WooCommerce v.%s.x için gerçekleştirildi"
+
+msgid "Add"
+msgstr "Arkadaşlarınızdan"
+
+msgid "Add Currency"
+msgstr "Para Birimi Ekle"
+
+msgid "Add all"
+msgstr "Hepsini ekle"
+
+msgid "Add custom money sign"
+msgstr "Özel para işareti ekleyin"
+
+msgid "Add group"
+msgstr "grubu ekle"
+
+msgid "Add new profile"
+msgstr "Yeni profil ekle"
+
+msgid "Add to:"
+msgstr "A ekle:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Dükkanınıza para sembollerinizi ekleyin. Örnek: $ USD, AAA, AUD $, DDD - virgülle ayrılmış"
+
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Cron tamamlandıktan sonra - yeni döviz kurları site yöneticisi e-postasına gönderilecektir. DİKKAT: E-postalarınız yoksa - bu, PHP işlevi olan mail () sunucunuzda çalışmadığı veya bu işlevle e-posta göndermenin kilitlendiği anlamına gelir."
+
+msgid "Aggregator API key"
+msgstr "Toplayıcı API anahtarı"
+
+msgid "Base currency"
+msgstr "Temel para birimi"
+
+msgid "Basic"
+msgstr "Temel"
+
+msgid "Basic field(s)"
+msgstr "Temel alanlar"
+
+msgid "Behavior"
+msgstr "Davranış"
+
+msgid "Behavior for devices"
+msgstr "Cihazlar için davranış"
+
+msgid "Cancel"
+msgstr "İptal etmek"
+
+msgid "Cents"
+msgstr "gönderildi"
+
+msgid "Change order currency"
+msgstr "Sipariş para birimini değiştir"
+
+msgid "Change the order currency to any other"
+msgstr "Sipariş para birimini başka bir para birimiyle değiştirin"
+
+msgid "Chart type: bar"
+msgstr "Grafik türü: çubuk"
+
+msgid "Chart type: pie"
+msgstr "Grafik türü: pasta"
+
+msgid "Checkout by GeoIP rules"
+msgstr "GeoIP kurallarına göre ödeme"
+
+msgid "Choise behavior"
+msgstr "Davranışı seçin"
+
+msgid "Choise currencies"
+msgstr "Para birimlerini seçin"
+
+msgid "Choise side"
+msgstr "Taraf seç"
+
+msgid "Choise skin"
+msgstr "Cilt seçin"
+
+msgid "Chosen dark drop-down"
+msgstr "Seçilmiş koyu açılır menü"
+
+msgid "Chosen drop-down"
+msgstr "Seçili açılır menü"
+
+msgid "Classic blocks"
+msgstr "Klasik bloklar"
+
+msgid "Click to select the flag"
+msgstr "Bayrağı seçmek için tıklayın"
+
+msgid "Codex"
+msgstr "Kodeks"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Ticari amaçlarla istatistiği değiştiren para birimlerini toplayın. Müşterilerin hiçbir özel verisi toplanmaz, yalnızca para birimi, ülke ve geçiş zamanı. Ayrıca sipariş para birimleri için istatistik var."
+
+msgid "Convert"
+msgstr "dönüştürmek"
+
+msgid "Count of digits after point"
+msgstr "Noktadan sonraki basamak sayısı"
+
+msgid "Coupon amount"
+msgstr "Kupon miktarı"
+
+msgid "Currencies"
+msgstr "Kurlar"
+
+msgid "Currencies excluding from view"
+msgstr "Görünüm dışında kalan para birimleri"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Para birimleri, WordPress cron tarafından otomatik güncellemeyi derecelendirir."
+
+msgid "Currency"
+msgstr "Para birimi"
+
+msgid "Currency aggregator"
+msgstr "Para birimi toplayıcı"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Para birimi toplayıcıları. Not: WOOCS'ta temsil edilmeyen bir toplayıcı biliyorsanız, destek için istek yazın, lütfen ekleme önerisiyle birlikte yazın!"
+
+msgid "Currency in which the customer paid."
+msgstr "Müşterinin ödediği para birimi."
+
+msgid "Currency rate when the customer paid"
+msgstr "Müşteri ödeme yaptığı zamanki para birimi oranı"
+
+msgid "Currency storage"
+msgstr "Para birimi depolama"
+
+msgid "Currencylayer"
+msgstr "Para birimi oyuncusu"
+
+msgid "Current currency is:"
+msgstr "Mevcut para birimi:"
+
+msgid "Custom money signs"
+msgstr "Özel para işaretleri"
+
+msgid "Custom price format"
+msgstr "Özel fiyat biçimi"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "Müşteri, seçilen para birimi (Evet) veya varsayılan para birimi (Hayır) ile ödeme yapacaktır."
+
+msgid "Decimal"
+msgstr "Ondalık"
+
+msgid "Decimals"
+msgstr "Basamaklı"
+
+msgid "Delete profile"
+msgstr "Profili sil"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Direct use"
+msgstr "Doğrudan kullanım"
+
+msgid "Disable on pages"
+msgstr "Sayfalarda devre dışı bırak"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "WOOCS'u yalnızca açıklanan sayfalarda Devre Dışı Bırakmak veya Etkinleştirmek. Virgül ve sayfa sümüklü böcekleri kullanın. Örnek: blog, hesap"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Ekranın üstünden anahtarlayıcı html bloğuna olan mesafe. Pks veya% olarak ayarlayabilirsiniz. Örnek 1: 100 piksel. Örnek 2:% 10."
+
+msgid "Documentation"
+msgstr "belgeleme"
+
+msgid "Drop-down options text type"
+msgstr "Açılır seçenekler metin türü"
+
+msgid "EU countries"
+msgstr "AB ülkeleri"
+
+msgid "Edit profile"
+msgstr "Profili Düzenle"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "\\ \"Otomatik güncellemeyi derecelendirin \" sonuçları hakkında e-posta bildirimi"
+
+msgid "Enable/Disable"
+msgstr "Etkinleştirme / Devre dışı"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Sayfanızdaki yan para birimi değiştiriciyi etkinleştirin / devre dışı bırakın"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Örnekler: 300 piksel,% 100, otomatik"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Örnekler: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "Örn .: USD, EUR"
+
+msgid "FAQ"
+msgstr "Sıkça Sorulan Sorular"
+
+msgid "Fixer"
+msgstr "iş bitirici"
+
+msgid "Flag"
+msgstr "bayrak"
+
+msgid "Flag position"
+msgstr "Bayrak konumu"
+
+msgid "Flags (as images)"
+msgstr "Bayraklar (resim olarak)"
+
+msgid "For ajax redraw."
+msgstr "Ajax yeniden çizmek için."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "Para birimleri için - kullanıcıların site ön tarafında para birimlerini seçtiği ülkelerin sayısı hakkında toplu veriler. Siparişler için - faturalandırma adresinde seçilen ülke tarafından tespit edilen, ülkelerden yapılan siparişlerin sayısı."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "Para birimleri için - site cephesinde seçilen para birimleri hakkında toplu veriler. Siparişler için - seçilen para birimlerinde yapılan siparişlerin sayısı."
+
+msgid "For ddslick script only!"
+msgstr "Yalnızca ddslick komut dosyası için!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Müşterileri 'GeoIP kuralları' sekmesinde tanımlanan kurallara göre ödeme sayfasında ödeme yapmaya zorlayın. DİKKAT : Bu özellik, 'Sabit fiyatlandırmayı etkinleştir'i etkinleştirdiyseniz ve ayrıca ürünlere farklı para birimleri için sabit fiyat kuralları yüklediyseniz mantıklıdır!"
+
+msgid "Free flags images"
+msgstr "Ücretsiz bayrak resimleri"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "GeoIP profilleri"
+
+msgid "GeoIP rules"
+msgstr "GeoIP kuralları"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP, WooCommerce eklentisinin v.2.3 sürümünden itibaren çalışır ve WooCommerce'in küçük sürümleriyle çalışmaz !!"
+
+msgid "Get free API keys:"
+msgstr "Ücretsiz API anahtarları alın:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Her kullanıcı rolü için farklı fiyatlar belirleme yeteneği verir"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Her kullanıcı rolü için farklı fiyatlar belirleme yeteneği verir. Yerel WooCommerce fiyat filtresi bu veriler için kördür!"
+
+msgid "Go Pro!"
+msgstr "Pro'ya geçin!"
+
+msgid "Help"
+msgstr "Destek"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Burada, daha sonra iş mantığınıza göre ürünlere uygulamak için bir dizi ülke profili oluşturabilirsiniz. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Burada istediğiniz herhangi bir para birimi için kupon için SABİT miktar belirleyebilirsiniz. Miktar alanının boş olması durumunda orana göre yeniden sayma işe yarayacaktır!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Burada istediğiniz herhangi bir para birimi için ürün için SABİT fiyat belirleyebilirsiniz. Boş fiyat alanı durumunda orana göre yeniden sayma işe yarayacaktır!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Burada fiyatları farklı ülkeler için temel para biriminde ayarlayabilirsiniz ve bu değerlere göre yeniden sayım yapılacaktır. DİKKAT: para birimleri için sabit fiyat daha yüksek önceliğe sahiptir!"
+
+msgid "Hide cents"
+msgstr "Kuruşları gizle"
+
+msgid "Hide on mobile devices"
+msgstr "Mobil cihazlarda gizle"
+
+msgid "Hide on the pages"
+msgstr "Sayfalarda gizle"
+
+msgid "Hide switcher on checkout page"
+msgstr "Ödeme sayfasında değiştiriciyi gizle"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Herhangi bir nedenle ödeme sayfasında değiştiriciyi gizleyin. Çoklu modda ödeme sayfasındaki para birimini değiştiren kullanıcılar için daha iyi yeniden vuruş."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Mevcut para birimine bağlı olarak ödeme sayfasında ödeme sistemlerini gizle / göster"
+
+msgid "Hint"
+msgstr "Ipucu"
+
+msgid "Hover color"
+msgstr "Fareyle üzerine gelme rengi"
+
+msgid "Hover field(s)"
+msgstr "Fareyle üzerine gelme alanları"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Para birimi değiştirici (varsayılan olarak) site cephesinde nasıl görüntülenir. (YENİ) Rakamlı dış görünümlere dikkatinizi çekin - bunları aynı sayfada, öznitelik stilinde ve stil numarasında açıklanan kısa koddaki [woocs] farklı tasarımlarla kullanabilirsiniz (Bilgi Yardım sekmesindeki Kodeks sayfasına bakın)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "Sitemde önbellek eklentisi kullanıyorum"
+
+msgid "I cant add flags! What to do?"
+msgstr "Bayrak ekleyemiyorum! Ne yapalım?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "WOOCS ayarlar paneli yanlış görünüyorsa veya JavaScript hatalarınız varsa (güncellemeden sonra) - öncelikle"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Sekmede Seçenekler etkinleştirildi seçeneği Sitemde önbellek eklentisi kullanıyorum - sekmede istatistiksel veri kaydı için çift veriyi önlemek için Seçenekler etkinleştir seçeneği Bağlantıda GET verisi yok!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Css + js şablonu hakkında bir fikriniz varsa - destek talebinizi gönderin, lütfen vizyonunuzu açıklayın."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "İstatistiğin senaryoları hakkında fikirleriniz varsa, lütfen bunları %s'de paylaşın ve tartışın."
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Müşterilerinizin Gelişmiş sekmesinde seçtikleri para biriminde ödeme yapmasına izin vermek istiyorsanız Çoklu izinli seçeneğini Evet olarak ayarlayın."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "Bazı sunucularda oturumlarda sorunlar vardır ve para birimi, para birimini veya coğrafi ip para birimini kabul etmek için sıfırlamayı seçtikten sonra. Böyle bir durumda geçici kullanın. Barındırma hizmetinizde mümkünse Memcached veya Redis kullanın!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "%s eklentisinin ücretsiz sürümünde sadece 2 AY para birimi ile çalışabilirsini%sZ! Daha fazla para birimi %s kullanmak istiyorsanız, eklentinin %s premium sürümüne yükseltme yapabilirsiniz."
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "Müşterinizin sitenize ilk ziyareti için fiyatları hangi para biriminde gösterir. Mantık karışıklığından kaçınmak için bunu özel olarak yapmayın!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Her ürün için ayrı GeoIP kuralları"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Kupon için bireysel sabit miktar"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Gönderim için bireysel sabit miktar"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Her ürün için ayrı sabit fiyat kuralları"
+
+msgid "Individual prices based on user role"
+msgstr "Kullanıcı rolüne göre bireysel fiyatlar"
+
+msgid "Is hidden"
+msgstr "Gizlidir"
+
+msgid "Is multiple allowed"
+msgstr "Çoklu izin verilir mi"
+
+msgid "Is shown"
+msgstr "Gösterilir"
+
+msgid "Left"
+msgstr "Güneş"
+
+msgid "Load countries from profile"
+msgstr "Profilden ülkeleri yükle"
+
+msgid "Loading"
+msgstr "yükleme"
+
+msgid "Main color"
+msgstr "Ana renk"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Switcher elemanlarını renklendiren ana renk"
+
+msgid "Maximum spend"
+msgstr "Maksimum harcama"
+
+msgid "Minimum spend"
+msgstr "Minimum harcama"
+
+msgid "Money signs"
+msgstr "Para işaretleri"
+
+msgid "More power for your shop"
+msgstr "Mağazanız için daha fazla güç"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Yerel WooCommerce fiyat filtresi, bu özellik tarafından oluşturulan verileri görmez."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Yerel WooCommerce fiyat filtresi, işaretlenen özelliklerle oluşturulan tüm veriler için kördür"
+
+msgid "New profile"
+msgstr "Yeni profil"
+
+msgid "No"
+msgstr "Yok hayır"
+
+msgid "No GET data in link"
+msgstr "Bağlantıda GET verisi yok"
+
+msgid "No such profile"
+msgstr "Böyle bir profil yok"
+
+msgid "Nope, maybe later!"
+msgstr "Hayır, belki daha sonra!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "Siparişi yeniden hesaplamak mümkün değil - çünkü mevcut temel para birimi %s ve sipariş temel para birimi %s!"
+
+msgid "Not styled drop-down"
+msgstr "Açılır listeye stil uygulanmamış"
+
+msgid "Note"
+msgstr "değil"
+
+msgid "Notes*"
+msgstr "Notlar *"
+
+msgid "Ok, you deserve it"
+msgstr "Tamam hak ediyorsun"
+
+msgid "Open exchange rates"
+msgstr "Döviz kurlarını aç"
+
+msgid "Options"
+msgstr "Opsiyonlar"
+
+msgid "Order currency"
+msgstr "Sipariş para birimi"
+
+msgid "Order currency rate"
+msgstr "Sipariş döviz kuru"
+
+msgid "P $ - right space"
+msgstr "P $ - sağ boşluk"
+
+msgid "P$ - right"
+msgstr "P $ - sağ"
+
+msgid "PHP Session"
+msgstr "PHP Oturumu"
+
+msgid "Payments"
+msgstr "Ödemeler"
+
+msgid "Payments behavior"
+msgstr "Ödeme davranışı"
+
+msgid "Payments rules"
+msgstr "Ödeme kuralları"
+
+msgid "Please use the API key"
+msgstr "Lütfen API anahtarını kullanın"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Bağlantı noktası: memcached veya redis. Memcached bağlantı noktası genellikle 11211, redis bağlantı noktası 6379'dur. Memcached veya redis için hangi bağlantı noktasının kullanılacağı hakkında barındırma belgelerinizi okuyun."
+
+msgid "Position"
+msgstr "Pozisyon"
+
+msgid "Precision"
+msgstr "Hassas"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Yukarıda seçilen toplayıcıdan döviz kurunu almak istiyorsanız bu düğmeye basın!"
+
+msgid "Prices preloader"
+msgstr "Fiyatlar ön yükleyici"
+
+msgid "Prices without cents"
+msgstr "Kuruşsuz fiyatlar"
+
+msgid "Private"
+msgstr "Özel"
+
+msgid "Profile is deleted"
+msgstr "Profil silindi"
+
+msgid "Profiles"
+msgstr "Profiller"
+
+msgid "Public"
+msgstr "Açık Alan"
+
+msgid "Quick introduction"
+msgstr "Hızlı tanıtım"
+
+msgid "Rate"
+msgstr "oran"
+
+msgid "Rate and Interest"
+msgstr "Oran ve Faiz"
+
+msgid "Rate auto update"
+msgstr "Otomatik güncellemeyi değerlendirin"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Para Birimi Etkin kodları hakkındaki wiki'yi okuyun"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "Para Birimi Etkin kodlarıyla ilgili wiki'yi okuyun  <-  Bundan emin değilseniz, doğru para birimi kodlarını buradan alın!"
+
+msgid "Recalculate all orders"
+msgstr "Tüm siparişleri yeniden hesapla"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Tüm siparişleri temel para birimi ile yeniden hesaplayın. Bu seçeneği sitenizin klonunda test etmeniz önerilir! Eklentinin bununla ilgili belgelerini okuyun!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Mevcut siparişi seçilen para birimi ile yeniden hesaplayın."
+
+msgid "Recalculate order"
+msgstr "Siparişi yeniden hesapla"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Doğası gereği kuruş olmayan JPY ve TWD gibi her yerde fiyatları sent olmadan yeniden sayın. Virgül kullanın. Örnek: UAH, RUB. Kurulumdan sonra ödeme için test edin!"
+
+msgid "Regular price"
+msgstr "Normal fiyat"
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Reverse this option"
+msgstr "Bu seçeneği tersine çevirin"
+
+msgid "Reverse use"
+msgstr "Ters kullanım"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Roll blocks"
+msgstr "Rulo blokları"
+
+msgid "Round chain"
+msgstr "Yuvarlak zincir"
+
+msgid "Round select"
+msgstr "Yuvarlak seçim"
+
+msgid "Sale price"
+msgstr "Satış ücreti"
+
+msgid "Save changes please!"
+msgstr "Lütfen değişiklikleri kaydedin!"
+
+msgid "Select Currency"
+msgstr "Para birimini seçin"
+
+msgid "Select currency..."
+msgstr "Para birimini seçin..."
+
+msgid "Select symbol position"
+msgstr "Sembol konumunu seçin"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Memcached veya redis için sunucu veya soket. Genellikle localhost'tur. Memcached veya redis için hangi ana bilgisayarın kullanılacağı hakkında barındırma belgelerinizi okuyun."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "YALNIZCA siteniz için örneğin Süper önbellek veya Hiper önbellek (önemli değil) gibi önbellek eklentisi kullanıyorsanız YALNIZCA burada Evet'i ayarlayın. + \\ \"Özel fiyat biçimini \" ayarlayın, örneğin: __PRICE__ (__CODE__). Bu özelliği etkinleştirdikten sonra, çalışmasını sağlamak için önbelleğinizi temizleyin. Sitenin tüm sayfalarında seçilen para biriminde fiyatların gösterilmesine izin verecektir. Bu özellik için ücret - ürün fiyatlarının yeniden çizilmesi için ek AJAX sorguları."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Etalon ana para birimini ayarlayın. Bu, malların fiyatının sergilendiği para birimi olmalıdır!"
+
+msgid "Set title"
+msgstr "Başlığı ayarlayın"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Biçiminizi, fiyatı ön tarafta nasıl göstereceğinizi ayarlayın. Şu tuşları kullanın: __CODE __, __ PRICE__. Varsayılan biçimi kullanmak için boş bırakın. Örnek: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Seçilen para birimleri için ödeme sistemi gizlenmeli veya tam tersi gösterilmelidir!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Hızlı erişim için üst yönetici çubuğunda WOOCS seçenekleri düğmesini göster. Aktif çalışma için çok kullanışlıdır. Yalnızca site yöneticileri tarafından görülebilir!"
+
+msgid "Show approx. amount"
+msgstr "Yaklaşık göster. Miktar"
+
+msgid "Show approx. price"
+msgstr "Yaklaşık göster. fiyat"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "GeoIp kuralları sekmesinde IP tarafından tanımlanan kullanıcının para birimi ile ödeme ve alışveriş sepeti sayfasında yaklaşık tutarı gösterin. Yalnızca para birimi oranları verileriyle çalışır, sabit fiyat kuralları ve coğrafi kurallar ile DEĞİLDİR."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "GeoIp kuralları sekmesinde IP tarafından tanımlanan para birimi ile mağaza ve tek ürün sayfasında yaklaşık fiyatı gösterin. Yalnızca para birimi oranları verileriyle çalışır, sabit fiyat kuralları ve coğrafi kurallar ile DEĞİLDİR."
+
+msgid "Show cents"
+msgstr "Kuruşları göster"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Sadece wp yönetici panelinde site önündeki herkes için para birimini göster veya özel anlar için Gizle."
+
+msgid "Show flags"
+msgstr "Bayrakları göster"
+
+msgid "Show flags by default"
+msgstr "Varsayılan olarak bayrakları göster"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Ürün fiyatının yakınında, üzerine gelindiğinde tüm para birimlerinde ürün fiyatlarını gösteren bilgi simgesini göster"
+
+msgid "Show money signs"
+msgstr "Para işaretlerini göster"
+
+msgid "Show on all devices"
+msgstr "Tüm cihazlarda göster"
+
+msgid "Show on mobile devices only"
+msgstr "Yalnızca mobil cihazlarda göster"
+
+msgid "Show on the pages"
+msgstr "Sayfalarda göster"
+
+msgid "Show options button on top admin bar."
+msgstr "Üst yönetici çubuğunda seçenekler düğmesini göster."
+
+msgid "Show price info icon"
+msgstr "Fiyat bilgisi simgesini göster"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Mobil cihazda Göster / Gizle (en yüksek öncelik)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Ön açılır menüde bayrakları göster / gizle"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Ön açılır menüde para işaretlerini gösterin / gizleyin"
+
+msgid "Side"
+msgstr "Yan"
+
+msgid "Side switcher"
+msgstr "Yan değiştirici"
+
+msgid "Skin"
+msgstr "cilt"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Bazı toplayıcılar bir API anahtarı gerektirir. Nasıl elde edeceğinizi aşağıdaki ipucuna bakın!"
+
+msgid "Statistic"
+msgstr "Istatistik"
+
+msgid "Storage port"
+msgstr "Depolama portu"
+
+msgid "Storage server"
+msgstr "Depolama sunucusu"
+
+msgid "Style #1"
+msgstr "Stil # 1"
+
+msgid "Style #2"
+msgstr "Stil # 2"
+
+msgid "Style #3"
+msgstr "Stil # 3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Sitenin ön tarafındaki değiştiricinin stili"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Bağlantıda GET özellikleri (? Currency = USD) olmadan para birimini değiştirir. Woocommerce> 3.3.0'da çalışır."
+
+msgid "Symbol"
+msgstr "sembol"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "BU sipariş para birimi manuel olarak değiştirildi %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Teşekkür ederim, başardım!"
+
+msgid "The Free Currency Converter"
+msgstr "Ücretsiz Döviz Çevirici"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "Kupon Sabit Minimum ve Maksimum harcama kuralları"
+
+msgid "The coupon fixed amount rules"
+msgstr "Kupon sabit tutar kuralları"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "Aşağıdaki seçenekler, fiyatların ön uçta nasıl görüntülendiğini etkiler. WooCommerce Para Birimi Değiştirici etkinleştirildi. Lütfen %s varsayılan para birimini ayarlayın."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "Bu kupon için maksimum harcama %s'dir."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "Bu kupon için minimum harcama %s'dir."
+
+msgid "The price based on user role"
+msgstr "Kullanıcı rolüne göre fiyat"
+
+msgid "The product custom GeoIP rules"
+msgstr "Ürüne özel GeoIP kuralları"
+
+msgid "The product fixed prices rules"
+msgstr "Ürün sabit fiyat kuralları"
+
+msgid "The side where the switcher is be placed"
+msgstr "Değiştiricinin yerleştirileceği taraf"
+
+msgid "The switcher color when mouse hovering"
+msgstr "Fare üzerine gelindiğinde değiştirici rengi"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "Bu, her ürün için kural ayarlarında daha hızlı çalışmayı sağlar"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Top margin"
+msgstr "Üst boşluk"
+
+msgid "Total amount"
+msgstr "Toplam tutar"
+
+msgid "Total in basic currency:"
+msgstr "Temel para biriminde toplam:"
+
+msgid "Transient"
+msgstr "Geçici"
+
+msgid "UPGRADE to Full version"
+msgstr "Tam sürüme YÜKSELT"
+
+msgid "Update all rates"
+msgstr "Tüm oranları güncelle"
+
+msgid "Update profile"
+msgstr "Profili Güncelle"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Coğrafi Konum kullanmak sorunlara neden oluyor, bende işe yaramıyor gibi görünüyor"
+
+msgid "Video tutorials"
+msgstr "video eğitimlerini"
+
+msgid "Visibility"
+msgstr "Görünürlük"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - WooCommerce Toplu Düzenleyici Profesyonel"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - sabit Minimum ve Maksimum harcama"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - sabit kupon tutarı"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - kullanıcı rolüne göre fiyat"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - ürünün özel GeoIP kuralları"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - ürün sabit fiyatları"
+
+msgid "WOOCS Currency Options"
+msgstr "WOOCS Para Birimi Seçenekleri"
+
+msgid "WOOCS Order Info"
+msgstr "WOOCS Sipariş Bilgisi"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - WooCommerce Ürünleri Filtresi"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - WooCommerce Aktif Ürünler Tabloları"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Uyarı: Woocommerce etkin değil"
+
+msgid "Watch video instructions"
+msgstr "Video talimatlarını izleyin"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "Bu eklentiyi e-mağazalarınız için daha etkili bir araç haline getirmek için çok çalışıyoruz ve %s'ye yorumlarınızı, önerilerinizi ve görüşlerinizi dinlemeye hazırız %s, lütfen bizimle paylaşın!"
+
+msgid "Welcome currency"
+msgstr "Karşılama para birimi"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Fare imleci oradaki herhangi bir para birimine getirdikten sonra değiştiricide hangi içeriğin gösterileceği. Varyantlar:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Site sayfası yüklendikten sonra değiştiricide hangi içeriğin gösterileceği. Varyantlar:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Sitenin neresinde değiştirici gizlenmelidir. Burada herhangi bir değer sunulursa, değiştirici bu sayfalarda gizlenecek ve diğer tüm sayfalarda görünecektir. Sayfa kimliklerini virgül kullanarak kullanabilirsiniz, örneğin: 28,34,232. Ayrıca şu özel kelimeleri de kullanabilirsiniz: product, shop, checkout, front_page, woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Sitenin neresinde, değiştirici görünür olmalıdır. Burada herhangi bir değer sunulursa, değiştirici bu alanda gösterilmeyen diğer tüm sayfalarda gizlenecektir. Sayfa kimliklerini virgül kullanarak kullanabilirsiniz, örneğin: 28,34,232. Ayrıca şu özel kelimeleri de kullanabilirsiniz: product, shop, checkout, front_page, woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Açılır seçeneklerde hangi metin görüntülenir - para birimi kodu VEYA açıklama metni. Ddslick dışındaki tüm açılır menüler için iyi görünüyor."
+
+msgid "Width"
+msgstr "genişlik"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "WooCommerce Para Birimi Değiştirici DESTEĞİ"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "WooCommerce Para Birimi Değiştirici v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "WooCommerce GeoIP işlevi sitenizde çalışmıyor. Belki Re-Tweet sana yardım edeceğim."
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Her para birimi için kupon için SABİT miktar belirleyebileceksiniz. DİKKAT: 'Çoklu izin verilir' etkinleştirilmelidir!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Her para birimi için SABİT tutar ve diğer tüm gönderim yöntemlerini ücretsiz olarak ayarlayabileceksiniz. DİKKAT: 'Çoklu izin verilir' etkinleştirilmelidir!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Basit ve değişken ürünler için SABİT fiyatlar belirleyebileceksiniz. DİKKAT: 'Çoklu izin verilir' etkinleştirilmelidir!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "Her ürün için (BASIC para birimi cinsinden) farklı ülkeler için farklı fiyatlar belirleyebileceksiniz."
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Ülkeniz tanımlanmadı! GeoIp hizmetiyle ilgili sorunlar."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Ülkeniz tanımlanmadı! İnternet bağlantısı veya GeoIp hizmeti ile ilgili sorunlar."
+
+msgid "Your country is: %s"
+msgstr "Ülkeniz: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Ülkeniz: %s. (woocommerce GeoIP işlevi ile tanımlanmıştır)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "WooCommerce eklenti sürümünüz çok eski. Arızaları önlemek için minimum %s sürümüne güncelleyin!"
+
+msgid "a hint"
+msgstr "ipucu"
+
+msgid "auto"
+msgstr "Oto"
+
+msgid "cancel"
+msgstr "iptal"
+
+msgid "change the rate and this description to the right values"
+msgstr "oranı ve bu açıklamayı doğru değerlerle değiştirin"
+
+msgid "clear all"
+msgstr "hepsini temizle"
+
+msgid "code"
+msgstr "kod"
+
+msgid "currency"
+msgstr "için"
+
+msgid "daily"
+msgstr "günlük"
+
+msgid "ddslick drop-down"
+msgstr "ddslick açılır menüsü"
+
+msgid "description"
+msgstr "tanım"
+
+msgid "drag and drop"
+msgstr "sürükle ve bırak"
+
+msgid "enter amount"
+msgstr "miktarı girin"
+
+msgid "enter roll width"
+msgstr "rulo genişliğini girin"
+
+msgid "exchange rate"
+msgstr "Döviz kuru"
+
+msgid "from"
+msgstr "itibaren"
+
+msgid "full version of the plugin"
+msgstr "eklentinin tam sürümü"
+
+msgid "here"
+msgstr "okuyun"
+
+msgid "hourly"
+msgstr "saatlik"
+
+msgid "interest"
+msgstr "faiz"
+
+msgid "is added!"
+msgstr "eklendi!"
+
+msgid "is updated!"
+msgstr "Güncellendi!"
+
+msgid "left"
+msgstr "Güneş"
+
+msgid "loading"
+msgstr "yükleme"
+
+msgid "monthly"
+msgstr "aylık"
+
+msgid "move"
+msgstr "hareket"
+
+msgid "no auto update"
+msgstr "otomatik güncelleme yok"
+
+msgid "no data for %s"
+msgstr "%s için veri yok"
+
+msgid "orders (completed)"
+msgstr "siparişler (tamamlandı)"
+
+msgid "reset the browser cache"
+msgstr "tarayıcı önbelleğini sıfırla"
+
+msgid "results"
+msgstr "Sonuçlar"
+
+msgid "right"
+msgstr "krallar gibi yaşamaya"
+
+msgid "select all"
+msgstr "hepsini seç"
+
+msgid "select some countries"
+msgstr "bazı ülkeler seçin"
+
+msgid "select user role"
+msgstr "kullanıcı rolünü seçin"
+
+msgid "special: each 15 minutes"
+msgstr "özel: her 15 dakikada bir"
+
+msgid "special: each 30 minutes"
+msgstr "özel: her 30 dakikada bir"
+
+msgid "special: each 45 minutes"
+msgstr "özel: her 45 dakikada"
+
+msgid "special: each 5 minutes"
+msgstr "özel: her 5 dakikada bir"
+
+msgid "special: each minute"
+msgstr "özel: her dakika"
+
+msgid "support"
+msgstr "destek"
+
+msgid "the plugin forum"
+msgstr "eklenti forumu"
+
+msgid "to"
+msgstr "için"
+
+msgid "twicedaily"
+msgstr "günde iki kez"
+
+msgid "wSelect drop-down"
+msgstr "wSelect açılır"
+
+msgid "Currencies popularity"
+msgstr "Para birimlerinin popülerliği"
+
+msgid "Countries popularity"
+msgstr "Ülkelerin popülerliği"

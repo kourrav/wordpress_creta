@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: ms_MY\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - ruang kiri"
+
+msgid "$P - left"
+msgstr "$ P - kiri"
+
+msgid "(Approx. %s)"
+msgstr "(Lebih kurang %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ untuk minat anda pada kadar, misalnya: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s ialah"
+
+msgid "Base currency of the site is: %s"
+msgstr "Mata wang asas laman web ini adalah: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Dicipta untuk WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Add Currency"
+msgstr "Tambah Mata Wang"
+
+msgid "Add all"
+msgstr "Tambah semua"
+
+msgid "Add custom money sign"
+msgstr "Tambah tanda wang tersuai"
+
+msgid "Add group"
+msgstr "Tambah kumpulan"
+
+msgid "Add new profile"
+msgstr "Tambahkan profil baru"
+
+msgid "Add to:"
+msgstr "Tambah ke:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Tambahkan simbol wang anda di kedai anda. Contoh: $ USD, AAA, AUD $, DDD - dipisahkan dengan koma"
+
+msgid "Advanced"
+msgstr "Ke atas"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Setelah cron selesai - kadar mata wang baru akan dihantar di e-mel pentadbir laman web. PERHATIAN: jika anda tidak mendapat e-mel - ini bermaksud bahawa surat fungsi PHP () tidak berfungsi pada pelayan anda atau menghantar e-mel dengan fungsi ini terkunci."
+
+msgid "Aggregator API key"
+msgstr "Kekunci API pengagregat"
+
+msgid "Base currency"
+msgstr "Mata wang asas"
+
+msgid "Basic"
+msgstr "Asas"
+
+msgid "Basic field(s)"
+msgstr "Bidang asas"
+
+msgid "Behavior"
+msgstr "Kelakuan"
+
+msgid "Behavior for devices"
+msgstr "Kelakuan untuk peranti"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Cents"
+msgstr "Ia"
+
+msgid "Change order currency"
+msgstr "Tukar mata wang pesanan"
+
+msgid "Change the order currency to any other"
+msgstr "Tukar mata wang pesanan kepada yang lain"
+
+msgid "Chart type: bar"
+msgstr "Jenis carta: bar"
+
+msgid "Chart type: pie"
+msgstr "Jenis carta: pai"
+
+msgid "Checkout by GeoIP rules"
+msgstr "Pemeriksaan mengikut peraturan GeoIP"
+
+msgid "Choise behavior"
+msgstr "Memilih tingkah laku"
+
+msgid "Choise currencies"
+msgstr "Pilih mata wang"
+
+msgid "Choise side"
+msgstr "Pilih sebelah"
+
+msgid "Choise skin"
+msgstr "Memilih kulit"
+
+msgid "Chosen dark drop-down"
+msgstr "Pilihan lungsur gelap"
+
+msgid "Chosen drop-down"
+msgstr "Lungsur turun terpilih"
+
+msgid "Classic blocks"
+msgstr "Blok klasik"
+
+msgid "Click to select the flag"
+msgstr "Klik untuk memilih bendera"
+
+msgid "Codex"
+msgstr "Codex"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Kumpulkan statistik pertukaran mata wang untuk tujuan perniagaan. Tidak ada data peribadi pelanggan yang dikumpulkan, hanya mata wang, negara dan masa pertukaran. Juga statistik untuk mata wang pesanan ada."
+
+msgid "Convert"
+msgstr "Pertukaran"
+
+msgid "Count of digits after point"
+msgstr "Kira digit demi titik"
+
+msgid "Coupon amount"
+msgstr "Bilangan kupon"
+
+msgid "Currencies"
+msgstr "Mata wang"
+
+msgid "Currencies excluding from view"
+msgstr "Mata wang tidak termasuk dari pandangan"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Mata wang menilai kemas kini automatik oleh WordPress cron."
+
+msgid "Currency"
+msgstr "Mata wang"
+
+msgid "Currency aggregator"
+msgstr "Pengagregat mata wang"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Pengagregat mata wang. Catatan: Sekiranya anda mengetahui agregator yang tidak terwakili dalam WOOCS, tuliskan permintaan sokongan, dengan cadangan untuk menambahkannya!"
+
+msgid "Currency in which the customer paid."
+msgstr "Mata wang di mana pelanggan membayar."
+
+msgid "Currency rate when the customer paid"
+msgstr "Nilai mata wang semasa pelanggan membayar"
+
+msgid "Currency storage"
+msgstr "Penyimpanan mata wang"
+
+msgid "Currencylayer"
+msgstr "Pembaris mata wang"
+
+msgid "Current currency is:"
+msgstr "Mata wang semasa adalah:"
+
+msgid "Custom money signs"
+msgstr "Tanda wang tersuai"
+
+msgid "Custom price format"
+msgstr "Format harga tersuai"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "Pelanggan akan membayar dengan mata wang terpilih (Ya) atau dengan mata wang lalai (Tidak)."
+
+msgid "Decimal"
+msgstr "Perpuluhan"
+
+msgid "Decimals"
+msgstr "Perpuluhan"
+
+msgid "Delete profile"
+msgstr "Padamkan profil"
+
+msgid "Description"
+msgstr "Penerangan"
+
+msgid "Direct use"
+msgstr "Penggunaan langsung"
+
+msgid "Disable on pages"
+msgstr "Lumpuhkan di halaman"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "Melumpuhkan atau Mengaktifkan WOOCS pada halaman yang dijelaskan sahaja. Gunakan koma dan slug halaman. Contoh: blog, akaun"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Jarak dari bahagian atas skrin ke blok html pengalih. Anda boleh menetapkan dalam px atau dalam%. Contoh 1: 100px. Contoh 2: 10%."
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "Drop-down options text type"
+msgstr "Jenis teks pilihan drop-down"
+
+msgid "EU countries"
+msgstr "negara-negara EU"
+
+msgid "Edit profile"
+msgstr "Sunting profil"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "Notis e-mel mengenai hasil \\ \"Nilai kemas kini automatik \""
+
+msgid "Enable/Disable"
+msgstr "Membolehkan melumpuhkan"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Dayakan / Lumpuhkan penukar mata wang sampingan di halaman anda"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Contoh: 300px, 100%, automatik"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Contoh: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "Contoh: USD, EUR"
+
+msgid "FAQ"
+msgstr "Soalan Lazim"
+
+msgid "Fixer"
+msgstr "Pembetulan"
+
+msgid "Flag"
+msgstr "Bendera"
+
+msgid "Flag position"
+msgstr "Kedudukan bendera"
+
+msgid "Flags (as images)"
+msgstr "Bendera (seperti gambar)"
+
+msgid "For ajax redraw."
+msgstr "Untuk gambaran semula ajax."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "Untuk mata wang - data agregat mengenai bilangan negara yang pengguna memilih mata wang di laman web. Untuk pesanan - jumlah pesanan yang dibuat dari negara, dikesan oleh negara terpilih di alamat pengebilan."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "Untuk mata wang - data gabungan mengenai mata wang terpilih di bahagian depan laman web. Untuk pesanan - jumlah pesanan yang dibuat dalam mata wang terpilih."
+
+msgid "For ddslick script only!"
+msgstr "Untuk skrip ddslick sahaja!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Memaksa pelanggan membayar di halaman pembayaran dengan peraturan yang ditentukan dalam tab 'Peraturan GeoIP'. PERHATIAN: ciri ini masuk akal jika anda mengaktifkan 'Aktifkan harga tetap' dan juga memasang peraturan harga tetap dalam produk untuk mata wang yang berbeza!"
+
+msgid "Free flags images"
+msgstr "Gambar bendera percuma"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "Profil GeoIP"
+
+msgid "GeoIP rules"
+msgstr "Peraturan GeoIP"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP berfungsi dari v.2.3 plugin WooCommerce dan tidak dengan versi kecil WooCommerce !!"
+
+msgid "Get free API keys:"
+msgstr "Dapatkan kunci API percuma:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Memberi kemampuan untuk menetapkan harga yang berbeza untuk setiap peranan pengguna"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Memberi kemampuan untuk menetapkan harga yang berbeza untuk setiap peranan pengguna. Penapis harga WooCommerce asli buta untuk data ini!"
+
+msgid "Go Pro!"
+msgstr "Pergi Pro!"
+
+msgid "Help"
+msgstr "Tolonglah"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Di sini anda boleh membuat sekumpulan profil negara untuk menggunakannya kemudian dalam produk mengikut logik perniagaan anda. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Di sini anda boleh menetapkan jumlah TETAP untuk kupon untuk mata wang yang anda mahukan. Sekiranya medan jumlah kosong, pengiraan semula mengikut kadar akan berfungsi!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Di sini anda boleh menetapkan harga TETAP untuk produk untuk mata wang yang anda mahukan. Sekiranya medan harga kosong, pengiraan semula mengikut kadar akan berfungsi!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Di sini anda dapat menetapkan harga dalam mata wang asas untuk negara yang berbeza, dan pengiraan semula akan dilakukan berdasarkan nilai ini. PERHATIAN: harga tetap untuk mata wang mempunyai keutamaan yang lebih tinggi!"
+
+msgid "Hide cents"
+msgstr "Sembunyikan sen"
+
+msgid "Hide on mobile devices"
+msgstr "Sembunyikan pada peranti mudah alih"
+
+msgid "Hide on the pages"
+msgstr "Sembunyikan di halaman"
+
+msgid "Hide switcher on checkout page"
+msgstr "Sembunyikan suis di halaman pembayaran"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Sembunyikan pengalih di halaman pembayaran untuk sebarang alasan anda. Pembatasan yang lebih baik untuk pengguna menukar mata wang di halaman pembayaran dalam pelbagai mod."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Sembunyikan / Tunjukkan sistem pembayaran di halaman pembayaran bergantung pada mata wang semasa"
+
+msgid "Hint"
+msgstr "Arahan"
+
+msgid "Hover color"
+msgstr "Tuduhan warna"
+
+msgid "Hover field(s)"
+msgstr "Arahkan kursor"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Cara memaparkan pertukaran mata wang (secara lalai) di bahagian depan laman web. (BARU) Perhatikan kulit dengan nombor - anda boleh menggunakannya di halaman yang sama dengan reka bentuk yang berbeza dalam kod pendek [woocs] yang dijelaskan dalam gaya dan nombor gaya atributnya (lihat halaman Codex di tab Bantuan Info)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "Saya menggunakan pemalam cache di laman web saya"
+
+msgid "I cant add flags! What to do?"
+msgstr "Saya tidak dapat menambah bendera! Apa nak buat?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "Sekiranya panel tetapan WOOCS kelihatan tidak betul atau anda mempunyai ralat JavaScript (selepas kemas kini) - pertama"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Sekiranya di tab Pilihan diaktifkan pilihan saya menggunakan pemalam cache di laman web saya - untuk mengelakkan data berganda untuk pendaftaran data statistik di tab Pilihan mengaktifkan pilihan Tidak DAPATKAN data dalam pautan!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Sekiranya anda mempunyai idea mengenai templat css + js - hantarkan permintaan sokongan, jelaskan visi anda di mana."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "Sekiranya anda mempunyai idea mengenai senario statistik, sila bagikan dan membincangkannya di %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Sekiranya anda mahu biarkan pelanggan anda membayar dalam mata wang pilihan mereka di tab Lanjutan tetapkan pilihan Adakah banyak dibenarkan Ya."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "Di beberapa pelayan terdapat masalah dengan sesi, dan setelah mata wang memilih set semula untuk menyambut mata wang atau mata wang geo ip. Dalam kes sedemikian gunakan sementara. Sekiranya mungkin pada hosting anda gunakan Memcached atau Redis!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "Dalam versi percuma plugin %s anda boleh beroperasi dengan 2 mata wang SETIAP sahaja%s! Sekiranya anda ingin menggunakan lebih banyak mata wang %s, anda boleh membuat peningkatan ke versi premium %s pemalam"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "Dalam mata wang yang menunjukkan harga untuk lawatan pertama pelanggan anda di laman web anda. Jangan lakukan secara peribadi untuk mengelakkan kekacauan logik!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Peraturan GeoIP individu untuk setiap produk"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Amaun tetap individu untuk kupon"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Jumlah tetap individu untuk penghantaran"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Peraturan harga tetap individu untuk setiap produk"
+
+msgid "Individual prices based on user role"
+msgstr "Harga individu berdasarkan peranan pengguna"
+
+msgid "Is hidden"
+msgstr "Tersembunyi"
+
+msgid "Is multiple allowed"
+msgstr "Adakah berbilang dibenarkan"
+
+msgid "Is shown"
+msgstr "Adakah ditunjukkan"
+
+msgid "Left"
+msgstr "Meninggalkan"
+
+msgid "Load countries from profile"
+msgstr "Muatkan negara dari profil"
+
+msgid "Loading"
+msgstr "Memuatkan"
+
+msgid "Main color"
+msgstr "Warna utama"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Warna utama yang mewarnai elemen penukar"
+
+msgid "Maximum spend"
+msgstr "Perbelanjaan maksimum"
+
+msgid "Minimum spend"
+msgstr "Perbelanjaan minimum"
+
+msgid "Money signs"
+msgstr "Tanda wang"
+
+msgid "More power for your shop"
+msgstr "Lebih banyak kuasa untuk kedai anda"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Penapis harga WooCommerce asli tidak melihat data yang dihasilkan oleh ciri ini."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Penapis harga WooCommerce asli buta untuk semua data yang dihasilkan oleh ciri yang ditandai"
+
+msgid "New profile"
+msgstr "Profil baru"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "No GET data in link"
+msgstr "Tiada data GET dalam pautan"
+
+msgid "No such profile"
+msgstr "Tiada profil sedemikian"
+
+msgid "Nope, maybe later!"
+msgstr "Tidak, mungkin begitu!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "Tidak mungkin mengira semula pesanan - kerana mata wang asas semasa adalah %s, dan mata wang asas pesanan adalah %s!"
+
+msgid "Not styled drop-down"
+msgstr "Tidak digayakan drop-down"
+
+msgid "Note"
+msgstr "Catatan"
+
+msgid "Notes*"
+msgstr "Catatan *"
+
+msgid "Ok, you deserve it"
+msgstr "Ok, anda layak mendapatnya"
+
+msgid "Open exchange rates"
+msgstr "Nilai tukar terbuka"
+
+msgid "Options"
+msgstr "Pemilihan"
+
+msgid "Order currency"
+msgstr "Mata wang pesanan"
+
+msgid "Order currency rate"
+msgstr "Kadar mata wang pesanan"
+
+msgid "P $ - right space"
+msgstr "P $ - ruang kanan"
+
+msgid "P$ - right"
+msgstr "P $ - betul"
+
+msgid "PHP Session"
+msgstr "Suara PHP"
+
+msgid "Payments"
+msgstr "Pembayaran"
+
+msgid "Payments behavior"
+msgstr "Tingkah laku pembayaran"
+
+msgid "Payments rules"
+msgstr "Peraturan pembayaran"
+
+msgid "Please use the API key"
+msgstr "Sila gunakan kunci API"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Port untuk: memcached atau redis. Biasanya untuk port memcached adalah 11211, untuk port redis adalah 6379. Baca dokumentasi hosting anda mengenai port apa yang akan digunakan untuk memcached atau redis."
+
+msgid "Position"
+msgstr "Kedudukan"
+
+msgid "Precision"
+msgstr "Kepersisan"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Tekan butang ini jika anda ingin mendapatkan kadar mata wang dari agregator terpilih di atas!"
+
+msgid "Prices preloader"
+msgstr "Pramuat harga"
+
+msgid "Prices without cents"
+msgstr "Harga tanpa sen"
+
+msgid "Private"
+msgstr "Peribadi"
+
+msgid "Profile is deleted"
+msgstr "Profil dipadamkan"
+
+msgid "Profiles"
+msgstr "Profil"
+
+msgid "Public"
+msgstr "Awam"
+
+msgid "Quick introduction"
+msgstr "Pengenalan ringkas"
+
+msgid "Rate"
+msgstr "Sehingga"
+
+msgid "Rate and Interest"
+msgstr "Kadar dan Faedah"
+
+msgid "Rate auto update"
+msgstr "Nilai kemas kini automatik"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Baca wiki mengenai kod Aktif Mata Wang"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "Baca wiki mengenai kod Aktif Mata Wang  <-  Dapatkan kod mata wang yang betul di sini jika anda tidak pasti mengenainya!"
+
+msgid "Recalculate all orders"
+msgstr "Hitung semula semua pesanan"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Hitung semula semua pesanan dengan mata wang asas. Uji pilihan ini disyorkan pada klon laman web anda! Baca dokumentasi pemalam mengenainya!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Hitung semula pesanan semasa dengan mata wang yang dipilih."
+
+msgid "Recalculate order"
+msgstr "Kira semula pesanan"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Kira semula harga tanpa sen di mana-mana seperti JPY dan TWD yang secara semula jadi tidak ada sen. Gunakan koma. Contoh: UAH, RUB. Uji untuk pembayaran selepas persediaan!"
+
+msgid "Regular price"
+msgstr "Harga biasa"
+
+msgid "Remove"
+msgstr "Batal"
+
+msgid "Reverse this option"
+msgstr "Balikkan pilihan ini"
+
+msgid "Reverse use"
+msgstr "Penggunaan terbalik"
+
+msgid "Right"
+msgstr "Betul"
+
+msgid "Roll blocks"
+msgstr "Gulung blok"
+
+msgid "Round chain"
+msgstr "Rantai bulat"
+
+msgid "Round select"
+msgstr "Pilih bulat"
+
+msgid "Sale price"
+msgstr "Harga jualan"
+
+msgid "Save changes please!"
+msgstr "Simpan perubahan sila!"
+
+msgid "Select Currency"
+msgstr "Pilih mata wang"
+
+msgid "Select currency..."
+msgstr "Pilih mata wang ..."
+
+msgid "Select symbol position"
+msgstr "Pilih kedudukan simbol"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Pelayan atau soket untuk: memcached atau redis. Biasanya adalah localhost. Bacalah dokumentasi hosting anda tentang apa yang digunakan host untuk memcached atau redis."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "Tetapkan Ya di sini HANYA jika anda BENAR-BENAR menggunakan pemalam cache untuk laman web anda, misalnya seperti Super cache atau Hiper cache (tidak penting). + Tetapkan \\ \"Format harga tersuai \", misalnya: __PRICE__ (__CODE__). Setelah mengaktifkan ciri ini - bersihkan cache anda untuk membuatnya berfungsi. Ini akan membenarkan harga tunjuk dalam mata wang terpilih di semua halaman laman web. Bayaran untuk ciri ini - pertanyaan tambahan AJAX untuk rancangan harga semula produk."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Tetapkan mata wang utama etalon. Ini mestilah mata wang di mana harga barang dipamerkan!"
+
+msgid "Set title"
+msgstr "Tetapkan tajuk"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Tetapkan format anda bagaimana memaparkan harga di bahagian depan. Gunakan kekunci: __CODE __, __ PRICE__. Biarkan kosong untuk menggunakan format lalai. Contoh: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "Tetapan"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Sepatutnya sistem pembayaran disembunyikan untuk mata wang terpilih atau sebaliknya ditunjukkan!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Tunjukkan butang pilihan WOOCS di bar pentadbir atas untuk akses cepat. Sangat berguna untuk kerja aktif. Kelihatan hanya untuk pentadbir laman web!"
+
+msgid "Show approx. amount"
+msgstr "Tunjukkan lebih kurang. jumlah"
+
+msgid "Show approx. price"
+msgstr "Tunjukkan lebih kurang. harga"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Tunjukkan jumlah anggaran pada halaman pembayaran dan troli dengan mata wang pengguna yang ditentukan oleh IP di tab peraturan GeoIp. Berfungsi hanya dengan data kadar mata wang dan BUKAN dengan peraturan harga tetap dan peraturan geo."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Tunjukkan anggaran harga di kedai dan halaman produk tunggal dengan mata wang pengguna yang ditentukan oleh IP di tab peraturan GeoIp. Berfungsi hanya dengan data kadar mata wang dan BUKAN dengan peraturan harga tetap dan peraturan geo."
+
+msgid "Show cents"
+msgstr "Tunjukkan satu sen"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Tunjukkan mata wang untuk semua di bahagian depan laman web atau Sembunyikan saat-saat peribadi di panel pentadbir wp hanya."
+
+msgid "Show flags"
+msgstr "Tunjukkan bendera"
+
+msgid "Show flags by default"
+msgstr "Tunjukkan bendera secara lalai"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Tunjukkan ikon maklumat berhampiran harga produk yang sementara di bawahnya menunjukkan harga produk dalam semua mata wang"
+
+msgid "Show money signs"
+msgstr "Tunjukkan tanda wang"
+
+msgid "Show on all devices"
+msgstr "Tunjukkan pada semua peranti"
+
+msgid "Show on mobile devices only"
+msgstr "Tunjukkan pada peranti mudah alih sahaja"
+
+msgid "Show on the pages"
+msgstr "Tunjukkan di halaman"
+
+msgid "Show options button on top admin bar."
+msgstr "Tunjukkan butang pilihan di bar pentadbir atas."
+
+msgid "Show price info icon"
+msgstr "Tunjukkan ikon maklumat harga"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Tunjukkan / Sembunyikan pada peranti mudah alih (keutamaan tertinggi)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Tunjukkan / sembunyikan bendera pada menu lungsur bawah"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Tunjukkan / sembunyikan tanda wang pada menu lungsur depan"
+
+msgid "Side"
+msgstr "Sampingan"
+
+msgid "Side switcher"
+msgstr "Penukar sebelah"
+
+msgid "Skin"
+msgstr "Kulit"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Beberapa pengagregat memerlukan kunci API. Lihat petunjuk di bawah bagaimana mendapatkannya!"
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "Storage port"
+msgstr "Pelabuhan simpanan"
+
+msgid "Storage server"
+msgstr "Pelayan storan"
+
+msgid "Style #1"
+msgstr "Gaya # 1"
+
+msgid "Style #2"
+msgstr "Gaya # 2"
+
+msgid "Style #3"
+msgstr "Gaya # 3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Gaya penukar di bahagian depan laman web"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Tukar mata wang tanpa sifat GET (? Currency = USD) dalam pautan. Berfungsi dalam woocommerce> 3.3.0."
+
+msgid "Symbol"
+msgstr "Simbol"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "Mata wang pesanan INI ditukar secara manual %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Terima kasih, saya berjaya!"
+
+msgid "The Free Currency Converter"
+msgstr "Penukar Mata Wang Percuma"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "Kupon menetapkan peraturan perbelanjaan Minimum dan Maksimum"
+
+msgid "The coupon fixed amount rules"
+msgstr "Memperbaiki peraturan bilangan kupon"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "Pilihan berikut mempengaruhi bagaimana harga dipaparkan di bahagian depan. WooCommerce Currency Switcher diaktifkan. Tetapkan mata wang lalai %s."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "Perbelanjaan maksimum untuk kupon ini ialah %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "Perbelanjaan minimum untuk kupon ini ialah %s."
+
+msgid "The price based on user role"
+msgstr "Harga berdasarkan peranan pengguna"
+
+msgid "The product custom GeoIP rules"
+msgstr "Peraturan GeoIP tersuai produk"
+
+msgid "The product fixed prices rules"
+msgstr "Peraturan harga tetap produk"
+
+msgid "The side where the switcher is be placed"
+msgstr "Bahagian di mana penukar diletakkan"
+
+msgid "The switcher color when mouse hovering"
+msgstr "Warna penukar semasa tetikus melayang"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "Ini menjadikan kerja tetapan peraturan untuk setiap produk lebih cepat"
+
+msgid "Title"
+msgstr "Tajuk"
+
+msgid "Top margin"
+msgstr "Margin teratas"
+
+msgid "Total amount"
+msgstr "Jumlah keseluruhan"
+
+msgid "Total in basic currency:"
+msgstr "Jumlah dalam mata wang asas:"
+
+msgid "Transient"
+msgstr "Sementara"
+
+msgid "UPGRADE to Full version"
+msgstr "TINGKATKAN ke versi Penuh"
+
+msgid "Update all rates"
+msgstr "Kemas kini semua kadar"
+
+msgid "Update profile"
+msgstr "Kemas kini profil"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Menggunakan Geolokasi menyebabkan masalah, nampaknya tidak berfungsi untuk saya"
+
+msgid "Video tutorials"
+msgstr "Tutorial video"
+
+msgid "Visibility"
+msgstr "Keterlihatan"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - Editor WooCommerce Pukal Profesional"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - yang ditetapkan Perbelanjaan minimum dan maksimum"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - bilangan kupon tetap"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - harga berdasarkan peranan pengguna"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - peraturan GeoIP tersuai produk"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - harga produk tetap"
+
+msgid "WOOCS Currency Options"
+msgstr "Pilihan Mata Wang WOOCS"
+
+msgid "WOOCS Order Info"
+msgstr "Maklumat Pesanan WOOCS"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - Penapis Produk WooCommerce"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - Jadual Produk Aktif WooCommerce"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Amaran: Woocommerce tidak diaktifkan"
+
+msgid "Watch video instructions"
+msgstr "Tonton arahan video"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "Kami bekerja keras untuk menjadikan alat ini lebih berkesan untuk e-kedai anda, dan bersedia untuk %s mendengar ulasan, cadangan dan pendapat anda %s, sila kongsi dengan kami!"
+
+msgid "Welcome currency"
+msgstr "Mata wang selamat datang"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Apa kandungan yang akan ditunjukkan dalam pengalih selepas tetikus melayang pada mata wang di sana. Varian:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Apa kandungan yang akan ditunjukkan di pengalih selepas halaman laman dimuat. Varian:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Di mana di laman web pengalih harus disembunyikan. Sekiranya ada nilai yang ditunjukkan di sini, pengalih akan disembunyikan di halaman tersebut dan dapat dilihat pada semua yang lain. Anda boleh menggunakan ID halaman menggunakan koma, contoh: 28,34,232. Anda juga boleh menggunakan kata-kata khas seperti: produk, kedai, checkout, front_page, woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Di mana di laman web, pengalih mesti kelihatan. Sekiranya ada nilai yang ditunjukkan di sini, pengalih akan disembunyikan di semua halaman lain yang tidak ditunjukkan dalam bidang ini. Anda boleh menggunakan ID halaman menggunakan koma, contoh: 28,34,232. Anda juga boleh menggunakan kata-kata khas seperti: produk, kedai, checkout, front_page, woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Teks mana yang dipaparkan dalam pilihan drop-down - kod mata wang ATAU teks keterangan. Nampak baik untuk semua dropdown kecuali ddslick."
+
+msgid "Width"
+msgstr "Luas"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "SOKONGAN Penukar Mata Wang WooCommerce"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "Penukar Mata Wang WooCommerce v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "Fungsi GeoIP WooCommerce tidak berfungsi di laman web anda. Mungkin ini akan membantu anda."
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Anda akan dapat menetapkan jumlah TETAP untuk kupon untuk setiap mata wang. PERHATIAN: 'Adakah banyak dibenarkan' harus diaktifkan!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Anda akan dapat menetapkan jumlah TETAP untuk setiap mata wang secara percuma dan semua kaedah penghantaran yang lain. PERHATIAN: 'Adakah banyak dibenarkan' harus diaktifkan!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Anda akan dapat menetapkan harga TETAP untuk produk sederhana dan berubah-ubah. PERHATIAN: 'Adakah banyak dibenarkan' harus diaktifkan!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "Anda akan dapat menetapkan harga yang berbeza untuk setiap produk (dalam mata wang ASAS) untuk negara yang berbeza"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Negara anda tidak ditentukan! Masalah dengan perkhidmatan GeoIp."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Negara anda tidak ditentukan! Masalah dengan sambungan internet atau perkhidmatan GeoIp."
+
+msgid "Your country is: %s"
+msgstr "Negara anda adalah: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Negara anda adalah: %s. (ditakrifkan oleh fungsi GeoIP woocommerce)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "Plugin WooCommerce versi anda terlalu usang. Kemas kini minimum ke versi %s untuk mengelakkan kerosakan!"
+
+msgid "a hint"
+msgstr "petunjuk"
+
+msgid "auto"
+msgstr "kereta"
+
+msgid "cancel"
+msgstr "membatalkan"
+
+msgid "change the rate and this description to the right values"
+msgstr "ubah kadar dan keterangan ini kepada nilai yang betul"
+
+msgid "clear all"
+msgstr "kosong semua"
+
+msgid "code"
+msgstr "kod"
+
+msgid "currency"
+msgstr "mata wang"
+
+msgid "daily"
+msgstr "setiap hari"
+
+msgid "ddslick drop-down"
+msgstr "lungsur turun ddslick"
+
+msgid "description"
+msgstr "Penerangan"
+
+msgid "drag and drop"
+msgstr "seret dan lepas"
+
+msgid "enter amount"
+msgstr "masukkan jumlah"
+
+msgid "enter roll width"
+msgstr "masukkan lebar gulung"
+
+msgid "exchange rate"
+msgstr "kadar pertukaran"
+
+msgid "from"
+msgstr "dari"
+
+msgid "full version of the plugin"
+msgstr "versi penuh pemalam"
+
+msgid "here"
+msgstr "di sini"
+
+msgid "hourly"
+msgstr "setiap jam"
+
+msgid "interest"
+msgstr "minat"
+
+msgid "is added!"
+msgstr "tambah!"
+
+msgid "is updated!"
+msgstr "dikemas kini!"
+
+msgid "left"
+msgstr "meninggalkan"
+
+msgid "loading"
+msgstr "memuatkan"
+
+msgid "monthly"
+msgstr "bulanan"
+
+msgid "move"
+msgstr "bergerak"
+
+msgid "no auto update"
+msgstr "tiada kemas kini automatik"
+
+msgid "no data for %s"
+msgstr "tiada data untuk %s"
+
+msgid "orders (completed)"
+msgstr "pesanan (selesai)"
+
+msgid "reset the browser cache"
+msgstr "tetapkan semula cache penyemak imbas"
+
+msgid "results"
+msgstr "keputusan"
+
+msgid "right"
+msgstr "betul"
+
+msgid "select all"
+msgstr "pilih semua"
+
+msgid "select some countries"
+msgstr "pilih pelbagai negara"
+
+msgid "select user role"
+msgstr "pilih peranan pengguna"
+
+msgid "special: each 15 minutes"
+msgstr "istimewa: setiap 15 minit"
+
+msgid "special: each 30 minutes"
+msgstr "istimewa: setiap 30 minit"
+
+msgid "special: each 45 minutes"
+msgstr "istimewa: setiap 45 minit"
+
+msgid "special: each 5 minutes"
+msgstr "istimewa: setiap 5 minit"
+
+msgid "special: each minute"
+msgstr "istimewa: setiap minit"
+
+msgid "support"
+msgstr "menyokong"
+
+msgid "the plugin forum"
+msgstr "forum pemalam"
+
+msgid "to"
+msgstr "kepada"
+
+msgid "twicedaily"
+msgstr "dua kali sehari"
+
+msgid "wSelect drop-down"
+msgstr "drop-down wPilih"
+
+msgid "Currencies popularity"
+msgstr "Populariti mata wang"
+
+msgid "Countries popularity"
+msgstr "Populariti negara"

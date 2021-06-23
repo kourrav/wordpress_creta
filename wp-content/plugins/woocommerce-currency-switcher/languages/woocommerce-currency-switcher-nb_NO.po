@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: nb_NO\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P - venstre plass"
+
+msgid "$P - left"
+msgstr "$ P - igjen"
+
+msgid "(Approx. %s)"
+msgstr "(Omtrent %s)"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+ til din interesse i renten, for eksempel: 0.15"
+
+msgid "1 %s is"
+msgstr "1 %s er"
+
+msgid "Base currency of the site is: %s"
+msgstr "Nettstedets grunnvaluta er: %s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "Aktualisert for WooCommerce v.%s.x"
+
+msgid "Add"
+msgstr "Legg"
+
+msgid "Add Currency"
+msgstr "Legg til valuta"
+
+msgid "Add all"
+msgstr "Legg til alle"
+
+msgid "Add custom money sign"
+msgstr "Legg til tilpasset pengeskilt"
+
+msgid "Add group"
+msgstr "Legg til gruppe"
+
+msgid "Add new profile"
+msgstr "Legg til ny profil"
+
+msgid "Add to:"
+msgstr "Legge til:"
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "Legg til pengesymbolene i butikken din. Eksempel: $ USD, AAA, AUD $, DDD - atskilt med komma"
+
+msgid "Advanced"
+msgstr "Avansert"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Etter cron ferdig - nye valutakurser vil bli sendt på administratorens e-postadresse. OBS: Hvis du ikke har e-post - betyr det at PHP-funksjon mail () ikke fungerer på serveren din eller å sende e-post med denne funksjonen er låst."
+
+msgid "Aggregator API key"
+msgstr "Aggregator API-nøkkel"
+
+msgid "Base currency"
+msgstr "Basisvaluta"
+
+msgid "Basic"
+msgstr "Grunnleggende"
+
+msgid "Basic field(s)"
+msgstr "Grunnleggende felt"
+
+msgid "Behavior"
+msgstr "Behavior"
+
+msgid "Behavior for devices"
+msgstr "Oppførsel for enheter"
+
+msgid "Cancel"
+msgstr "Kansellere"
+
+msgid "Cents"
+msgstr "cents"
+
+msgid "Change order currency"
+msgstr "Endre ordrevaluta"
+
+msgid "Change the order currency to any other"
+msgstr "Endre ordrevalutaen til hvilken som helst annen"
+
+msgid "Chart type: bar"
+msgstr "Karttype: bar"
+
+msgid "Chart type: pie"
+msgstr "Karttype: kake"
+
+msgid "Checkout by GeoIP rules"
+msgstr "Kassa etter GeoIP-regler"
+
+msgid "Choise behavior"
+msgstr "Velg atferd"
+
+msgid "Choise currencies"
+msgstr "Velg valutaer"
+
+msgid "Choise side"
+msgstr "Velg side"
+
+msgid "Choise skin"
+msgstr "Velg hud"
+
+msgid "Chosen dark drop-down"
+msgstr "Valgt mørkt rullegardin"
+
+msgid "Chosen drop-down"
+msgstr "Valgt rullegardin"
+
+msgid "Classic blocks"
+msgstr "Klassiske blokker"
+
+msgid "Click to select the flag"
+msgstr "Klikk for å velge flagget"
+
+msgid "Codex"
+msgstr "Codex"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "Samle valuta bytte statistikk for forretningsformål. Ingen private data om kunder samler inn, bare valuta, land og tidspunkt for bytte. Også statistikk for ordrevalutaer er der."
+
+msgid "Convert"
+msgstr "Konverter"
+
+msgid "Count of digits after point"
+msgstr "Antall sifre etter punkt"
+
+msgid "Coupon amount"
+msgstr "Kupongbeløp"
+
+msgid "Currencies"
+msgstr "Valuta"
+
+msgid "Currencies excluding from view"
+msgstr "Valutaer unntatt fra visning"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "Valutaer vurderer automatisk oppdatering av WordPress cron."
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Currency aggregator"
+msgstr "Valutaaggregator"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "Valutaaggregatorer. Merk: Hvis du vet aggregator som ikke er representert i WOOCS skriv forespørsel om støtte, vennligst med forslag om å legge den til!"
+
+msgid "Currency in which the customer paid."
+msgstr "Valuta som kunden betalte i."
+
+msgid "Currency rate when the customer paid"
+msgstr "Valutakurs når kunden betalte"
+
+msgid "Currency storage"
+msgstr "Valutalagring"
+
+msgid "Currencylayer"
+msgstr "Currencylayer"
+
+msgid "Current currency is:"
+msgstr "Nåværende valuta er:"
+
+msgid "Custom money signs"
+msgstr "Egendefinerte pengeskilt"
+
+msgid "Custom price format"
+msgstr "Tilpasset prisformat"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "Kunden betaler med valgt valuta (Ja) eller med standardvaluta (Nei)."
+
+msgid "Decimal"
+msgstr "Desimal"
+
+msgid "Decimals"
+msgstr "Desimaler"
+
+msgid "Delete profile"
+msgstr "Slett profil"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Direct use"
+msgstr "Direkte bruk"
+
+msgid "Disable on pages"
+msgstr "Deaktiver på sider"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "Deaktivere eller aktivere WOOCS bare på de beskrevne sidene. Bruk komma og sider. Eksempel: blogg, konto"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "Avstand fra toppen av skjermen til switcher html-blokken. Du kan angi i px eller i%. Eksempel 1: 100 px. Eksempel 2: 10%."
+
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+msgid "Drop-down options text type"
+msgstr "Nedtrekksalternativer teksttype"
+
+msgid "EU countries"
+msgstr "EU-land"
+
+msgid "Edit profile"
+msgstr "Rediger profil"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "Send en e-postmelding om \\ \"Ranger automatisk oppdatering \" -resultater"
+
+msgid "Enable/Disable"
+msgstr "På av"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "Aktivere / deaktivere sidevalutaomskifteren på siden din"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "Eksempler: 300 px, 100%, automatisk"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "Eksempler: EUR, GBP, UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "Eksempel: USD, EUR"
+
+msgid "FAQ"
+msgstr "Spørsmål og svar"
+
+msgid "Fixer"
+msgstr "Fixer"
+
+msgid "Flag"
+msgstr "Flagg"
+
+msgid "Flag position"
+msgstr "Flaggposisjon"
+
+msgid "Flags (as images)"
+msgstr "Flagg (som bilder)"
+
+msgid "For ajax redraw."
+msgstr "For ajax-tegning."
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "For valutaer - samlet data om antall land hvilke brukere som valgte valutaer på nettstedet. For bestillinger - antall bestillinger gjort fra land, oppdaget av valgt land i faktureringsadressen."
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "For valutaer - aggregerte data om utvalgte valutaer på nettstedets front. For ordrer - antall bestillinger gjort i de valgte valutaene."
+
+msgid "For ddslick script only!"
+msgstr "Bare for ddslick-skript!"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "Tving kundene til å betale på kassen etter regler som er definert i 'GeoIP regler' -fanen. OBS: denne funksjonen har logisk mening hvis du aktiverte 'Aktiver fast prissetting' og også installerte regler for faste priser i produktene for forskjellige valutaer!"
+
+msgid "Free flags images"
+msgstr "Gratis flagg bilder"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "GeoIP-profiler"
+
+msgid "GeoIP rules"
+msgstr "GeoIP regler"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP fungerer fra v.2.3 av WooCommerce plugin og nei med mindre versjoner av WooCommerce !!"
+
+msgid "Get free API keys:"
+msgstr "Få gratis API-nøkler:"
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "Gir mulighet til å sette forskjellige priser for hver brukerrolle"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "Gir mulighet til å sette forskjellige priser for hver brukerrolle. Native WooCommerce-prisfilter er blind for disse dataene!"
+
+msgid "Go Pro!"
+msgstr "Bli profesjonell!"
+
+msgid "Help"
+msgstr "Hjelp"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "Her kan du opprette sett med landsprofiler for å bruke den deretter i produktene etter din forretningslogikk. %s!"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "Her kan du angi FESTET beløp for kupongen for hvilken valuta du ønsker. I tilfelle tom beløp vil feltfortelling etter sats fungere!"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "Her kan du sette fast pris for produktet for hvilken valuta du ønsker. I tilfelle tomt prisfelt vil opptelling etter sats fungere!"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "Her kan du angi priser i grunnvalutaen for forskjellige land, og tellingen vil gjøres relativt av disse verdiene. OBS: fast pris for valutaer har høyere prioritet!"
+
+msgid "Hide cents"
+msgstr "Skjul øre"
+
+msgid "Hide on mobile devices"
+msgstr "Skjul på mobile enheter"
+
+msgid "Hide on the pages"
+msgstr "Skjul på sidene"
+
+msgid "Hide switcher on checkout page"
+msgstr "Skjul bryteren på kassen"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "Skjul bryteren på kassen siden av en eller annen grunn. Bedre overføring for brukere endrer valuta på kassen i flere modus."
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "Skjul / vis betalingssystemer på kassen siden avhengig av gjeldende valuta"
+
+msgid "Hint"
+msgstr "Hint"
+
+msgid "Hover color"
+msgstr "Hold markøren over fargen"
+
+msgid "Hover field(s)"
+msgstr "Hold markøren (e)"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "Hvordan vise valutaomskifter (som standard) på nettstedets front. (NYTT) Gjør deg oppmerksom på skinn med tall - du kan bruke dem på samme side med forskjellige design i kortkode [woocs] beskrevet i attributtstil og stilnummer (se Codex-siden i Info Help-fanen)!"
+
+msgid "I am using cache plugin on my site"
+msgstr "Jeg bruker hurtigbuffer-plugin på nettstedet mitt"
+
+msgid "I cant add flags! What to do?"
+msgstr "Jeg kan ikke legge til flagg! Hva å gjøre?"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "Hvis WOOCS-innstillingspanelet ser feil ut, eller hvis du har JavaScript-feil (etter oppdatering) - først"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "Hvis i kategorien Alternativer aktivert, bruker jeg hurtigbuffer-plugin på nettstedet mitt - for å unngå dobbel data for statistisk dataregistrering i kategorien Alternativer aktiverer alternativet Ingen GET-data i link!"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "Hvis du har en idé om css + js mal - send forespørsel om støtte, vær så snill, beskriv din visjon."
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "Hvis du har ideer om scenarier for statistikken, kan du dele og diskutere dem på %s"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "Hvis du vil la kundene dine betale i valgt valuta i fanen Avansert, angir alternativet Er flere tillatt til Ja."
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "På noen servere er det problemer med økter, og etter at valuta har valgt tilbakestilling til velkomstvaluta eller geo ip-valuta. Bruk i så fall forbigående. Hvis det er mulig på din hosting, bruk Memcached eller Redis!"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "I den gratis versjonen av pluginet %s kan du kun operere med 2 ALLE valutaer %s! Hvis du vil bruke flere valutaer %s, kan du oppgradere til premiumversjonen %s av pluginet"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "I hvilken valuta viser priser for kundens første besøk på nettstedet ditt. Ikke gjør det privat for å unngå logisk rot!"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "Individuelle GeoIP-regler for hvert produkt"
+
+msgid "Individual fixed amount for coupon"
+msgstr "Individuelt fast beløp for kupong"
+
+msgid "Individual fixed amount for shipping"
+msgstr "Individuelt fast beløp for frakt"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "Individuelle faste priser regler for hvert produkt"
+
+msgid "Individual prices based on user role"
+msgstr "Individuelle priser basert på brukerrolle"
+
+msgid "Is hidden"
+msgstr "Er skjult"
+
+msgid "Is multiple allowed"
+msgstr "Er flere tillatt"
+
+msgid "Is shown"
+msgstr "Er vist"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Load countries from profile"
+msgstr "Last inn land fra profil"
+
+msgid "Loading"
+msgstr "Laster"
+
+msgid "Main color"
+msgstr "Hovedfarge"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "Hovedfarge som farger bryterelementene"
+
+msgid "Maximum spend"
+msgstr "Maksimal utgift"
+
+msgid "Minimum spend"
+msgstr "Minimum forbruk"
+
+msgid "Money signs"
+msgstr "Pengeskilt"
+
+msgid "More power for your shop"
+msgstr "Mer kraft til butikken din"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "Native WooCommerce-prisfilter ser ikke data generert av denne funksjonen."
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "Native WooCommerce-prisfilter er blind for alle data generert av merkede funksjoner"
+
+msgid "New profile"
+msgstr "Ny profil"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "No GET data in link"
+msgstr "Ingen GET-data i lenken"
+
+msgid "No such profile"
+msgstr "Ingen slik profil"
+
+msgid "Nope, maybe later!"
+msgstr "Nei, kanskje senere!"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "Det er ikke mulig å beregne ordren på nytt - fordi nåværende basisvaluta er %s, og ordrebasevaluta er %s!"
+
+msgid "Not styled drop-down"
+msgstr "Ikke rullegardin"
+
+msgid "Note"
+msgstr "Merknader"
+
+msgid "Notes*"
+msgstr "Merknader *"
+
+msgid "Ok, you deserve it"
+msgstr "Ok, du fortjener det"
+
+msgid "Open exchange rates"
+msgstr "Åpne valutakurser"
+
+msgid "Options"
+msgstr "alternativer"
+
+msgid "Order currency"
+msgstr "Bestill valuta"
+
+msgid "Order currency rate"
+msgstr "Bestill valutakurs"
+
+msgid "P $ - right space"
+msgstr "P $ - riktig plass"
+
+msgid "P$ - right"
+msgstr "P $ - rett"
+
+msgid "PHP Session"
+msgstr "PHP-økt"
+
+msgid "Payments"
+msgstr "betalinger"
+
+msgid "Payments behavior"
+msgstr "Betalingsatferd"
+
+msgid "Payments rules"
+msgstr "Betalingsregler"
+
+msgid "Please use the API key"
+msgstr "Bruk API-nøkkelen"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "Port for: memcached eller redis. Vanligvis er 11211 for memcached port, for redis port er 6379. Les hosting-dokumentasjonen din om hvilken port du skal bruke for memcached eller redis."
+
+msgid "Position"
+msgstr "Stilling"
+
+msgid "Precision"
+msgstr "Precision"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "Trykk på denne knappen hvis du vil få valutakurs fra den valgte aggregatoren ovenfor!"
+
+msgid "Prices preloader"
+msgstr "Priser forhåndslaster"
+
+msgid "Prices without cents"
+msgstr "Priser uten øre"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Profile is deleted"
+msgstr "Profilen er slettet"
+
+msgid "Profiles"
+msgstr "Profiler"
+
+msgid "Public"
+msgstr "offentlig"
+
+msgid "Quick introduction"
+msgstr "Rask introduksjon"
+
+msgid "Rate"
+msgstr "Sats"
+
+msgid "Rate and Interest"
+msgstr "Pris og interesse"
+
+msgid "Rate auto update"
+msgstr "Vurder automatisk oppdatering"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "Les wiki om valutaaktive koder"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "Les wiki om Valuta Aktive koder  <-  Få riktige valutakoder her hvis du ikke er sikker på det!"
+
+msgid "Recalculate all orders"
+msgstr "Beregn alle bestillinger på nytt"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "Beregn alle ordrer på nytt med grunnleggende valuta. Anbefalt test dette alternativet på klonen til nettstedet ditt! Les dokumentasjonen til pluginet om det!"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "Beregn gjeldende ordre på nytt med valgt valuta."
+
+msgid "Recalculate order"
+msgstr "Beregn rekkefølgen på nytt"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "Fortell priser uten cent overalt, som i JPY og TWD, som i sin natur ikke har cent. Bruk komma. Eksempel: UAH, RUB. Test det for utsjekking etter oppsett!"
+
+msgid "Regular price"
+msgstr "Vanlig pris"
+
+msgid "Remove"
+msgstr "fjerne"
+
+msgid "Reverse this option"
+msgstr "Snu dette alternativet"
+
+msgid "Reverse use"
+msgstr "Omvendt bruk"
+
+msgid "Right"
+msgstr "Ikke sant"
+
+msgid "Roll blocks"
+msgstr "Rull blokker"
+
+msgid "Round chain"
+msgstr "Rund kjede"
+
+msgid "Round select"
+msgstr "Rundt velg"
+
+msgid "Sale price"
+msgstr "Salgs pris"
+
+msgid "Save changes please!"
+msgstr "Lagre endringer takk!"
+
+msgid "Select Currency"
+msgstr "Velg valuta"
+
+msgid "Select currency..."
+msgstr "Velg valuta ..."
+
+msgid "Select symbol position"
+msgstr "Velg symbolposisjon"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "Server eller stikkontakt for: memcached eller redis. Vanligvis er localhost. Les vertsdokumentasjonen din om hvilken vert du skal bruke til memcached eller redis."
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "Sett Ja her KUN hvis du virkelig bruker cache-plugin for nettstedet ditt, for eksempel som Super cache eller Hiper cache (betyr ikke noe). + Sett \\ \"Tilpasset prisformat \", for eksempel: __PRICE__ (__CODE__). Etter at du har aktivert denne funksjonen - rengjør hurtigbufferen slik at den fungerer. Det vil tillate visningspriser i valgt valuta på alle sider på nettstedet. Avgift for denne funksjonen - ytterligere AJAX-spørsmål for tegning av produktpriser."
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "Sett etalon hovedvaluta. Dette bør være valutaen som vareprisen er utstilt i!"
+
+msgid "Set title"
+msgstr "Sett tittel"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "Still inn formatet ditt for hvordan du skal vise prisen foran. Bruk tastene: __CODE __, __ PRICE__. La den være tom for å bruke standardformat. Eksempel: __PRICE__ (__CODE__)"
+
+msgid "Settings"
+msgstr "innstillinger"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "Bør betalingssystemet være skjult for utvalgte valutaer eller omvendt vist!"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "Vis WOOCS-alternativknappen øverst på adminlinjen for rask tilgang. Veldig praktisk for aktivt arbeid. Kun synlig for nettstedsadministratorer!"
+
+msgid "Show approx. amount"
+msgstr "Vis ca. beløp"
+
+msgid "Show approx. price"
+msgstr "Vis ca. pris"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Vis omtrentlig beløp i kassen og handlekurven med brukerens valuta definert av IP i GeoIp regler-fanen. Fungerer bare med valutakursdata og IKKE med faste priser og geografiske regler."
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "Vis omtrentlig pris i butikken og den ene produktsiden med brukerens valuta definert av IP i GeoIp regler-fanen. Fungerer bare med valutakursdata og IKKE med faste priser og geografiske regler."
+
+msgid "Show cents"
+msgstr "Vis øre"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "Vis valuta for alle på sidefronten eller Skjul for private øyeblikk i wp admin-panelet med bare bruk."
+
+msgid "Show flags"
+msgstr "Vis flagg"
+
+msgid "Show flags by default"
+msgstr "Vis flagg som standard"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "Vis info-ikonet i nærheten av prisen på produktet som mens det er under sveve viser priser på produkter i alle valutaer"
+
+msgid "Show money signs"
+msgstr "Vis pengeskilt"
+
+msgid "Show on all devices"
+msgstr "Vis på alle enheter"
+
+msgid "Show on mobile devices only"
+msgstr "Vis bare på mobile enheter"
+
+msgid "Show on the pages"
+msgstr "Vis på sidene"
+
+msgid "Show options button on top admin bar."
+msgstr "Vis alternativknappen øverst på adminlinjen."
+
+msgid "Show price info icon"
+msgstr "Vis prisinfo-ikonet"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "Vis / skjul på mobilenhet (høyeste prioritet)"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "Vis / skjul flagg på rullegardinmenyen foran"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "Vis / skjul pengeskilt på rullegardinmenyen foran"
+
+msgid "Side"
+msgstr "Side"
+
+msgid "Side switcher"
+msgstr "Sidebryter"
+
+msgid "Skin"
+msgstr "Skin"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "Noen aggregatorer krever en API-nøkkel. Se hintet nedenfor hvordan du får tak i det!"
+
+msgid "Statistic"
+msgstr "Statistisk"
+
+msgid "Storage port"
+msgstr "Lagringsport"
+
+msgid "Storage server"
+msgstr "Lagringsserver"
+
+msgid "Style #1"
+msgstr "Stil nr. 1"
+
+msgid "Style #2"
+msgstr "Stil nr. 2"
+
+msgid "Style #3"
+msgstr "Stil nr. 3"
+
+msgid "Style of the switcher on the site front"
+msgstr "Stil på bryteren på stedet"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "Bytter valuta uten GET-egenskaper (? Valuta = USD) i lenken. Fungerer i woocommerce> 3.3.0."
+
+msgid "Symbol"
+msgstr "symbol"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "DENNE ordrevalutaen endres manuelt %s!"
+
+msgid "Thank you, I did it!"
+msgstr "Takk, jeg gjorde det!"
+
+msgid "The Free Currency Converter"
+msgstr "Gratis valutaomregner"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "Kupongen fastsatte minimums- og maksimumsregler"
+
+msgid "The coupon fixed amount rules"
+msgstr "Reglene for kupongens faste beløp"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "Følgende alternativer påvirker hvordan prisene vises på frontend. WooCommerce Currency Switcher er aktivert. Angi standard valuta %s takk."
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "Maksimal utgift for denne kupongen er %s."
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "Minimumsutgiften for denne kupongen er %s."
+
+msgid "The price based on user role"
+msgstr "Prisen er basert på brukerrollen"
+
+msgid "The product custom GeoIP rules"
+msgstr "Produktets tilpassede GeoIP-regler"
+
+msgid "The product fixed prices rules"
+msgstr "Produktets faste priser regler"
+
+msgid "The side where the switcher is be placed"
+msgstr "Siden der bryteren er plassert"
+
+msgid "The switcher color when mouse hovering"
+msgstr "Switcher-fargen når musen svever"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "Dette gjør arbeidet med reglerinnstillinger for hvert produkt raskere"
+
+msgid "Title"
+msgstr "Tittel"
+
+msgid "Top margin"
+msgstr "Toppmargin"
+
+msgid "Total amount"
+msgstr "Totale mengden"
+
+msgid "Total in basic currency:"
+msgstr "Totalt i grunnvaluta:"
+
+msgid "Transient"
+msgstr "Flyktig"
+
+msgid "UPGRADE to Full version"
+msgstr "OPPGRADER til fullversjon"
+
+msgid "Update all rates"
+msgstr "Oppdater alle priser"
+
+msgid "Update profile"
+msgstr "Oppdater profil"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "Å bruke Geolocation gir problemer, ser ikke ut til å fungere for meg"
+
+msgid "Video tutorials"
+msgstr "Videoopplæring"
+
+msgid "Visibility"
+msgstr "Synlighet"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE - WooCommerce Bulk Editor Professional"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS - the fikset Minimum og maksimalt forbruk"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS - kupongens faste beløp"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS - prisen basert på brukerrollen"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS - produktets tilpassede GeoIP-regler"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS - produktets faste priser"
+
+msgid "WOOCS Currency Options"
+msgstr "WOOCS valutaopsjoner"
+
+msgid "WOOCS Order Info"
+msgstr "WOOCS Bestillingsinfo"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF - WooCommerce-produktfilter"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT - WooCommerce tabeller for aktive produkter"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "Advarsel: Woocommerce er ikke aktivert"
+
+msgid "Watch video instructions"
+msgstr "Se videoinstruksjoner"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "Vi jobber hardt for å gjøre dette pluginet mer effektivt verktøy for dine e-butikker, og klar til å %s høre din anmeldelse, forslag og meninger %s, vennligst del den med oss!"
+
+msgid "Welcome currency"
+msgstr "Velkomstvaluta"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Hvilket innhold som skal vises i bryteren etter at musen svever på hvilken som helst valuta der. Varianter:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "Hvilket innhold skal vises i bryteren etter at siden på siden er lastet inn. Varianter:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Hvor på nettstedet bryteren skal være skjult. Hvis noen verdi blir presentert her, vil bryteren være skjult på sidene og synlig på alle andre. Du kan bruke side-ID-er ved å bruke komma, eksempel: 28,34,232. Du kan også bruke spesielle ord som: produkt, butikk, kasse, front_page, woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "Hvor på stedet bryteren skal være synlig. Hvis noen verdi presenteres her, vil bryteren være skjult på alle andre sider som ikke er presentert i dette feltet. Du kan bruke side-ID-er ved å bruke komma, eksempel: 28,34,232. Du kan også bruke spesielle ord som: produkt, butikk, kasse, front_page, woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "Hvilken tekst som vises i rullegardinmenyene - valutakode ELLER beskrivelsestekst. Ser bra ut for alle dropdowns unntatt ddslick."
+
+msgid "Width"
+msgstr "Bredde"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "STØTTE for WooCommerce Currency Switcher"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "WooCommerce Currency Switcher v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "WooCommerce GeoIP-funksjonalitet fungerer ikke på nettstedet ditt. Kan være dette vil hjelpe deg."
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Du vil være i stand til å angi fast beløp for kupong for hver valuta. OBS: 'Er flere tillatt' bør være aktivert!"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Du vil være i stand til å angi et fast beløp for hver valuta gratis og alle andre fraktveier. OBS: 'Er flere tillatt' bør være aktivert!"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "Du vil være i stand til å angi faste priser for enkle og variable produkter. OBS: 'Er flere tillatt' bør være aktivert!"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "Du vil kunne angi forskjellige priser for hvert produkt (i BASIS-valuta) for forskjellige land"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "Landet ditt er ikke definert! Problemer med GeoIp-tjenesten."
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "Landet ditt er ikke definert! Problemer med internettforbindelse eller GeoIp-tjeneste."
+
+msgid "Your country is: %s"
+msgstr "Landet ditt er: %s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "Landet ditt er: %s. (definert av GeoIP-funksjonaliteten til woocommerce)"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "Din versjon av WooCommerce-plugin er for foreldet. Oppdater minimum til %s-versjon for å unngå funksjonsfeil!"
+
+msgid "a hint"
+msgstr "et hint"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "cancel"
+msgstr "avbryte"
+
+msgid "change the rate and this description to the right values"
+msgstr "endre hastigheten og denne beskrivelsen til riktige verdier"
+
+msgid "clear all"
+msgstr "Rydd alt"
+
+msgid "code"
+msgstr "kode"
+
+msgid "currency"
+msgstr "valuta"
+
+msgid "daily"
+msgstr "daglig"
+
+msgid "ddslick drop-down"
+msgstr "rullegardinmenyen ddslick"
+
+msgid "description"
+msgstr "beskrivelse"
+
+msgid "drag and drop"
+msgstr "dra og slipp"
+
+msgid "enter amount"
+msgstr "Tast inn beløp"
+
+msgid "enter roll width"
+msgstr "skriv inn rullebredde"
+
+msgid "exchange rate"
+msgstr "vekslingskurs"
+
+msgid "from"
+msgstr "fra"
+
+msgid "full version of the plugin"
+msgstr "fullversjon av plugin"
+
+msgid "here"
+msgstr "her."
+
+msgid "hourly"
+msgstr "time"
+
+msgid "interest"
+msgstr "interesse"
+
+msgid "is added!"
+msgstr "er lagt til!"
+
+msgid "is updated!"
+msgstr "er oppdatert!"
+
+msgid "left"
+msgstr "venstre"
+
+msgid "loading"
+msgstr "lasting"
+
+msgid "monthly"
+msgstr "månedlig"
+
+msgid "move"
+msgstr "flytte"
+
+msgid "no auto update"
+msgstr "ingen automatisk oppdatering"
+
+msgid "no data for %s"
+msgstr "ingen data for %s"
+
+msgid "orders (completed)"
+msgstr "bestillinger (fullført)"
+
+msgid "reset the browser cache"
+msgstr "tilbakestill nettleserbufferen"
+
+msgid "results"
+msgstr "resultater"
+
+msgid "right"
+msgstr "ikke sant"
+
+msgid "select all"
+msgstr "Velg alle"
+
+msgid "select some countries"
+msgstr "velg noen land"
+
+msgid "select user role"
+msgstr "velg brukerrolle"
+
+msgid "special: each 15 minutes"
+msgstr "spesiell: hvert 15. minutt"
+
+msgid "special: each 30 minutes"
+msgstr "spesiell: hvert 30. minutt"
+
+msgid "special: each 45 minutes"
+msgstr "spesiell: hvert 45. minutt"
+
+msgid "special: each 5 minutes"
+msgstr "spesiell: hvert 5. minutt"
+
+msgid "special: each minute"
+msgstr "spesiell: hvert minutt"
+
+msgid "support"
+msgstr "støtte"
+
+msgid "the plugin forum"
+msgstr "pluginforumet"
+
+msgid "to"
+msgstr "til"
+
+msgid "twicedaily"
+msgstr "to ganger daglig"
+
+msgid "wSelect drop-down"
+msgstr "wVelg rullegardinmenyen"
+
+msgid "Currencies popularity"
+msgstr "Valutapopularitet"
+
+msgid "Countries popularity"
+msgstr "Landets popularitet"

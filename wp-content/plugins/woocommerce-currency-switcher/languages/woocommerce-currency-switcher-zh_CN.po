@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 2.0.6\n"
+
+msgid "$ P - left space"
+msgstr "$ P-剩余空间"
+
+msgid "$P - left"
+msgstr "$ P-左"
+
+msgid "(Approx. %s)"
+msgstr "（约%s）"
+
+msgid "+ to your interest in the rate, for example: 0.15"
+msgstr "+您对利率的兴趣，例如：0.15"
+
+msgid "1 %s is"
+msgstr "1 %s是"
+
+msgid "Base currency of the site is: %s"
+msgstr "该网站的基本货币为：%s"
+
+msgid "Actualized for WooCommerce v.%s.x"
+msgstr "已针对WooCommerce v.%s.x实现"
+
+msgid "Add"
+msgstr "加入"
+
+msgid "Add Currency"
+msgstr "添加货币"
+
+msgid "Add all"
+msgstr "加入所有"
+
+msgid "Add custom money sign"
+msgstr "添加自定义资金标志"
+
+msgid "Add group"
+msgstr "添加组"
+
+msgid "Add new profile"
+msgstr "新增个人资料"
+
+msgid "Add to:"
+msgstr "添加："
+
+msgid "Add your money symbols in your shop. Example: $USD,AAA,AUD$,DDD - separated by commas"
+msgstr "在您的商店中添加您的货币符号。 例如：$ USD，AAA，AUD $，DDD-用逗号分隔"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "After cron done - new currency rates will be sent on the site admin email. ATTENTION: if you not got emails - it is mean that PHP function mail() doesnt work on your server or sending emails by this function is locked."
+msgstr "Cron完成后-新的货币汇率将在网站管理员电子邮件中发送。 注意：如果您没有收到电子邮件-这意味着PHP函数mail（）在您的服务器上不起作用，或者通过此函数发送电子邮件已被锁定。"
+
+msgid "Aggregator API key"
+msgstr "聚合器API密钥"
+
+msgid "Base currency"
+msgstr "基础货币"
+
+msgid "Basic"
+msgstr "基础"
+
+msgid "Basic field(s)"
+msgstr "基本领域"
+
+msgid "Behavior"
+msgstr "行为"
+
+msgid "Behavior for devices"
+msgstr "设备行为"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cents"
+msgstr "仙"
+
+msgid "Change order currency"
+msgstr "更改订单币种"
+
+msgid "Change the order currency to any other"
+msgstr "将订单货币更改为其他货币"
+
+msgid "Chart type: bar"
+msgstr "图表类型：条形图"
+
+msgid "Chart type: pie"
+msgstr "图表类型：饼图"
+
+msgid "Checkout by GeoIP rules"
+msgstr "通过GeoIP规则结帐"
+
+msgid "Choise behavior"
+msgstr "选择行为"
+
+msgid "Choise currencies"
+msgstr "选择货币"
+
+msgid "Choise side"
+msgstr "选择侧"
+
+msgid "Choise skin"
+msgstr "选择皮肤"
+
+msgid "Chosen dark drop-down"
+msgstr "选择深色下拉菜单"
+
+msgid "Chosen drop-down"
+msgstr "选择下拉菜单"
+
+msgid "Classic blocks"
+msgstr "经典积木"
+
+msgid "Click to select the flag"
+msgstr "单击以选择标志"
+
+msgid "Codex"
+msgstr "法典"
+
+msgid "Collect currencies switching statistic for business purposes. No any private data of customers collects, only currency, country and time of switching. Also statistic for order currencies is there."
+msgstr "出于业务目的收集货币转换统计信息。 不会收集任何客户的私人数据，而只会收集货币，国家/地区和切换时间。 还有订单货币的统计信息。"
+
+msgid "Convert"
+msgstr "转化率"
+
+msgid "Count of digits after point"
+msgstr "点后的位数"
+
+msgid "Coupon amount"
+msgstr "票面金额"
+
+msgid "Currencies"
+msgstr "货币"
+
+msgid "Currencies excluding from view"
+msgstr "从视图中排除的货币"
+
+msgid "Currencies rate auto update by WordPress cron."
+msgstr "汇率由WordPress cron自动更新。"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "Currency aggregator"
+msgstr "货币汇总器"
+
+msgid "Currency aggregators. Note: If you know aggregator which not is represented in WOOCS write request on support please with suggestion to add it!"
+msgstr "货币聚合器。 注意：如果您知道未在WOOCS中代表的聚合器，请在支持上写请求，并建议添加它！"
+
+msgid "Currency in which the customer paid."
+msgstr "客户支付的货币。"
+
+msgid "Currency rate when the customer paid"
+msgstr "客户付款时的货币汇率"
+
+msgid "Currency storage"
+msgstr "货币存储"
+
+msgid "Currencylayer"
+msgstr "货币层"
+
+msgid "Current currency is:"
+msgstr "当前货币是："
+
+msgid "Custom money signs"
+msgstr "定制钱标志"
+
+msgid "Custom price format"
+msgstr "自定义价格格式"
+
+msgid "Customer will pay with selected currency (Yes) or with default currency (No)."
+msgstr "客户将使用选定的货币（是）或默认货币（否）付款。"
+
+msgid "Decimal"
+msgstr "十进制"
+
+msgid "Decimals"
+msgstr "小数"
+
+msgid "Delete profile"
+msgstr "删除个人资料"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Direct use"
+msgstr "直接使用"
+
+msgid "Disable on pages"
+msgstr "在页面上禁用"
+
+msgid "Disabling or Enabling WOOCS on the described pages only. Use comma and pages slugs. Example: blog,account"
+msgstr "仅在所述页面上禁用或启用WOOCS。 使用逗号和页面标记。 示例：博客，帐户"
+
+msgid "Distance from the top of the screen to the switcher html block. You can set in px or in %. Example 1: 100px. Example 2: 10%."
+msgstr "从屏幕顶部到切换器html块的距离。 您可以设置px或％。 范例1：100像素。 范例2：10％。"
+
+msgid "Documentation"
+msgstr "技术文档"
+
+msgid "Drop-down options text type"
+msgstr "下拉选项文字类型"
+
+msgid "EU countries"
+msgstr "欧盟国家"
+
+msgid "Edit profile"
+msgstr "编辑个人资料"
+
+msgid "Email notice about \"Rate auto update\" results"
+msgstr "有关“费率自动更新”结果的电子邮件通知"
+
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+msgid "Enable/Disable the side currency switcher on your page"
+msgstr "在页面上启用/禁用辅助货币切换器"
+
+msgid "Examples: 300px,100%,auto"
+msgstr "示例：300px，100％，自动"
+
+msgid "Examples: EUR,GBP,UAH"
+msgstr "例如：EUR，GBP，UAH"
+
+msgid "Exmpl.: USD,EUR"
+msgstr "范例：USD，EUR"
+
+msgid "FAQ"
+msgstr "常见问题"
+
+msgid "Fixer"
+msgstr "定影液"
+
+msgid "Flag"
+msgstr "旗"
+
+msgid "Flag position"
+msgstr "旗标位置"
+
+msgid "Flags (as images)"
+msgstr "标志（作为图像）"
+
+msgid "For ajax redraw."
+msgstr "对于ajax重绘。"
+
+msgid "For currencies - aggregated data about count of countries which users selected currencies on the site front. For orders - count of orders made from countries, detected by selected country in the billing address."
+msgstr "对于货币-有关用户在网站正面选择货币的国家/地区总数的汇总数据。 对于订单-从帐单地址中所选国家/地区检测到的国家/地区的订单计数。"
+
+msgid "For currencies - aggregated data about selected currencies on the site front. For orders - count of orders made in the selected currencies."
+msgstr "对于货币-有关网站前端所选货币的汇总数据。 对于订单-用选定货币进行的订单计数。"
+
+msgid "For ddslick script only!"
+msgstr "仅适用于ddslick脚本！"
+
+msgid "Force the customers to pay on checkout page by rules defined in 'GeoIP rules' tab. ATTENTION: this feature has logical sense if you enabled 'Enable fixed pricing' and also installed fixed prices rules in the products for different currencies!"
+msgstr "强制客户按照“ GeoIP规则”标签中定义的规则在结帐页面上付款。 注意注意：如果您启用了“启用固定定价”功能，并且还在产品中针对不同货币安装了固定价格规则，则此功能具有逻辑意义！"
+
+msgid "Free flags images"
+msgstr "免费标志图片"
+
+msgid "GeoIP"
+msgstr "GeoIP"
+
+msgid "GeoIP profiles"
+msgstr "GeoIP配置文件"
+
+msgid "GeoIP rules"
+msgstr "GeoIP规则"
+
+msgid "GeoIP works from v.2.3 of the WooCommerce plugin and no with minor versions of WooCommerce!!"
+msgstr "GeoIP从WooCommerce插件的v.2.3版本开始运行，而在WooCommerce的次要版本中则无法使用！"
+
+msgid "Get free API keys:"
+msgstr "获取免费的API密钥："
+
+msgid "Gives ability to set different prices for each user role"
+msgstr "能够为每个用户角色设置不同的价格"
+
+msgid "Gives ability to set different prices for each user role. Native WooCommerce price filter is blind for this data!"
+msgstr "能够为每个用户角色设置不同的价格。 本地WooCommerce价格过滤器对此数据不了解！"
+
+msgid "Go Pro!"
+msgstr "亲！"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Here you can create set of countries profiles to apply it then in the products by your business logic. %s!"
+msgstr "在这里，您可以创建一组国家概况，然后根据您的业务逻辑将其应用到产品中。%s！"
+
+msgid "Here you can set FIXED amount for the coupon for any currency you want. In the case of empty amount field recounting by rate will work!"
+msgstr "在这里，您可以为优惠券设置FIXED固定金额，以使用任意货币。 在空金额字段的情况下，按费率重新计算将起作用！"
+
+msgid "Here you can set FIXED price for the product for any currency you want. In the case of empty price field recounting by rate will work!"
+msgstr "您可以在此处为所需的任何货币设置产品的固定价格。 在价格字段为空的情况下，按费率重新计算就可以了！"
+
+msgid "Here you can set prices in the basic currency for different countries, and recount will be done relatively of this values. ATTENTION: fixed price for currencies has higher priority!"
+msgstr "在这里，您可以使用不同国家/地区的基本货币设置价格，然后相对于此值重新计价。 注意：货币固定价格具有更高的优先级！"
+
+msgid "Hide cents"
+msgstr "隐藏仙"
+
+msgid "Hide on mobile devices"
+msgstr "隐藏在移动设备上"
+
+msgid "Hide on the pages"
+msgstr "隐藏在页面上"
+
+msgid "Hide switcher on checkout page"
+msgstr "在结帐页面上隐藏切换器"
+
+msgid "Hide switcher on checkout page for any of your reason. Better restrike for users change currency on checkout page in multiple mode."
+msgstr "由于任何原因在结帐页面上隐藏切换台。 更好的重击，使用户可以在多种模式下在结帐页面上更改币种。"
+
+msgid "Hide/Show payments systems on checkout page depending on the current currency"
+msgstr "根据当前货币在结帐页面上隐藏/显示付款系统"
+
+msgid "Hint"
+msgstr "提示"
+
+msgid "Hover color"
+msgstr "悬停颜色"
+
+msgid "Hover field(s)"
+msgstr "悬停字段"
+
+msgid "How to display currency switcher (by default) on the site front. (NEW) Make your attention on skins with numbers - you can use them on the same page with different designs in shortcode [woocs] described in its attribute style and style number (see Codex page in Info Help tab)!"
+msgstr "如何在网站正面显示货币切换器（默认情况下）。 （新）将注意力放在带有数字的皮肤上-您可以在同一页面上使用它们的短样式[woocs]以不同的设计使用它们，该样式以其属性样式和样式编号描述（请参见“信息帮助”选项卡中的“法典”页面）！"
+
+msgid "I am using cache plugin on my site"
+msgstr "我在网站上使用缓存插件"
+
+msgid "I cant add flags! What to do?"
+msgstr "我无法添加标志！ 该怎么办？"
+
+msgid "If WOOCS settings panel looks incorrect or you have JavaScript errors (after update) - firstly"
+msgstr "如果WOOCS设置面板看起来不正确或您有JavaScript错误（更新后）-首先"
+
+msgid "If in tab Options activated option I am using cache plugin on my site - to avoid double data for statistical data registration in tab Options activate option No GET data in link!"
+msgstr "如果在“选项已激活选项”选项卡中，我正在我的网站上使用缓存插件-避免在“选项”中激活用于统计数据注册的重复数据选项激活选项链接中未获取数据！"
+
+msgid "If you have an idea about css+js template - send request on support please where describe your vision."
+msgstr "如果您对css + js模板有想法-请发送支持请求，请在哪里描述您的愿景。"
+
+msgid "If you have ideas about scenarios of the statistic please share and discuss them on %s"
+msgstr "如果您对统计的方案有想法，请在%s上分享和讨论"
+
+msgid "If you want let your customers pay in their selected currency in tab Advanced set the option Is multiple allowed to Yes."
+msgstr "如果要让客户在“高级”选项卡中以其选择的货币付款，请将选项“允许多个”设置为“是”。"
+
+msgid "In some servers there is troubles with sessions, and after currency selecting its reset to welcome currency or geo ip currency. In such case use transient. If it is possible on your hosting use Memcached or Redis!"
+msgstr "在某些服务器中，会话存在问题，并且在货币选择其重置为欢迎货币或geo ip货币后。 在这种情况下，请使用瞬态。 如果可以在您的主机上使用Memcached或Redis！"
+
+msgid "In the free version of the plugin %s you can operate with 2 ANY currencies only%s! If you want to use more currencies %s you can make upgrade to the premium version%s of the plugin"
+msgstr "在免费版本的%s插件中，您只能使用2种任何货币进行操作！如果您想使用更多货币%s，则可以升级到该插件的高级版本%s"
+
+msgid "In wich currency show prices for first visit of your customer on your site. Do not do it private to avoid logic mess!"
+msgstr "以货币表示的价格，用于您的客户在您网站上的首次访问。 不要私下处理，以免造成逻辑混乱！"
+
+msgid "Individual GeoIP rules for each product"
+msgstr "每个产品的单独GeoIP规则"
+
+msgid "Individual fixed amount for coupon"
+msgstr "优惠券的个人固定金额"
+
+msgid "Individual fixed amount for shipping"
+msgstr "个人固定运费"
+
+msgid "Individual fixed prices rules for each product"
+msgstr "每个产品的个别固定价格规则"
+
+msgid "Individual prices based on user role"
+msgstr "基于用户角色的个人价格"
+
+msgid "Is hidden"
+msgstr "隐藏"
+
+msgid "Is multiple allowed"
+msgstr "允许多个"
+
+msgid "Is shown"
+msgstr "显示"
+
+msgid "Left"
+msgstr "离开"
+
+msgid "Load countries from profile"
+msgstr "从配置文件加载国家"
+
+msgid "Loading"
+msgstr "装载"
+
+msgid "Main color"
+msgstr "主色"
+
+msgid "Main color which coloring the switcher elements"
+msgstr "为切换器元件着色的主要颜色"
+
+msgid "Maximum spend"
+msgstr "最高消费"
+
+msgid "Minimum spend"
+msgstr "最低消费"
+
+msgid "Money signs"
+msgstr "钱迹象"
+
+msgid "More power for your shop"
+msgstr "为您的商店提供更多动力"
+
+msgid "Native WooCommerce price filter does not see data generated by this feature."
+msgstr "本机WooCommerce价格过滤器看不到此功能生成的数据。"
+
+msgid "Native WooCommerce price filter is blind for all data generated by marked features"
+msgstr "本机WooCommerce价格过滤器无法识别标记功能生成的所有数据"
+
+msgid "New profile"
+msgstr "新的配置文件"
+
+msgid "No"
+msgstr "没有"
+
+msgid "No GET data in link"
+msgstr "链接中没有GET数据"
+
+msgid "No such profile"
+msgstr "没有这样的个人资料"
+
+msgid "Nope, maybe later!"
+msgstr "不，也许以后！"
+
+msgid "Not possible to recalculate the order - because current base currency is %s, and order base currency is %s!"
+msgstr "无法重新计算订单-因为当前基础货币为%s，而订单基础货币为%s！"
+
+msgid "Not styled drop-down"
+msgstr "没有样式的下拉菜单"
+
+msgid "Note"
+msgstr "备注"
+
+msgid "Notes*"
+msgstr "笔记*"
+
+msgid "Ok, you deserve it"
+msgstr "好吧，你应得的"
+
+msgid "Open exchange rates"
+msgstr "开放汇率"
+
+msgid "Options"
+msgstr "附加选项"
+
+msgid "Order currency"
+msgstr "订单币种"
+
+msgid "Order currency rate"
+msgstr "订单货币汇率"
+
+msgid "P $ - right space"
+msgstr "P $-右空格"
+
+msgid "P$ - right"
+msgstr "P $-对"
+
+msgid "PHP Session"
+msgstr "PHP会话"
+
+msgid "Payments"
+msgstr "付款方式"
+
+msgid "Payments behavior"
+msgstr "付款行为"
+
+msgid "Payments rules"
+msgstr "付款规则"
+
+msgid "Please use the API key"
+msgstr "请使用API​​密钥"
+
+msgid "Port for: memcached or redis. Usually for memcached port is 11211, for redis port is 6379. Read your hosting documentation about what port to use for memcached or redis."
+msgstr "用于以下端口：memcached或redis。 通常，用于memcached的端口是11211，用于redis的端口是6379。请阅读您的托管文档，了解要用于memcached或redis的端口。"
+
+msgid "Position"
+msgstr "职务"
+
+msgid "Precision"
+msgstr "平台精度"
+
+msgid "Press this button if you want get currency rate from the selected aggregator above!"
+msgstr "如果要从上面所选的聚合器中获取货币汇率，请按此按钮！"
+
+msgid "Prices preloader"
+msgstr "价格预载器"
+
+msgid "Prices without cents"
+msgstr "没有美分的价格"
+
+msgid "Private"
+msgstr "私做"
+
+msgid "Profile is deleted"
+msgstr "个人资料已删除"
+
+msgid "Profiles"
+msgstr "简介"
+
+msgid "Public"
+msgstr "公共"
+
+msgid "Quick introduction"
+msgstr "快速介绍"
+
+msgid "Rate"
+msgstr "率"
+
+msgid "Rate and Interest"
+msgstr "利率和利息"
+
+msgid "Rate auto update"
+msgstr "评分自动更新"
+
+msgid "Read wiki about Currency Active codes"
+msgstr "阅读有关货币有效代码的Wiki"
+
+msgid "Read wiki about Currency Active codes  <-  Get right currencies codes here if you are not sure about it!"
+msgstr "阅读有关货币有效代码的Wiki <-如果不确定，请在此处获取正确的货币代码！"
+
+msgid "Recalculate all orders"
+msgstr "重新计算所有订单"
+
+msgid "Recalculate all orders with basic currency. Recommended test this option on the clone of your site! Read the documentation of the plugin about it!"
+msgstr "重新计算所有使用基本货币的订单。 建议在您的网站的克隆上测试此选项！ 阅读有关该插件的文档！"
+
+msgid "Recalculate current order with the selected currency."
+msgstr "用所选货币重新计算当前订单。"
+
+msgid "Recalculate order"
+msgstr "重新计算订单"
+
+msgid "Recount prices without cents everywhere like in JPY and TWD which by its nature have not cents. Use comma. Example: UAH,RUB. Test it for checkout after setup!"
+msgstr "重估没有美分的价格，例如日元和新台币，从本质上讲没有美分。 使用逗号。 例如：UAH，RUB。 设置后对其进行测试以进行结帐！"
+
+msgid "Regular price"
+msgstr "正常价格"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Reverse this option"
+msgstr "撤消此选项"
+
+msgid "Reverse use"
+msgstr "反向使用"
+
+msgid "Right"
+msgstr "正确的"
+
+msgid "Roll blocks"
+msgstr "滚动块"
+
+msgid "Round chain"
+msgstr "圆链"
+
+msgid "Round select"
+msgstr "回合选择"
+
+msgid "Sale price"
+msgstr "卖出价"
+
+msgid "Save changes please!"
+msgstr "请保存更改！"
+
+msgid "Select Currency"
+msgstr "选择货币"
+
+msgid "Select currency..."
+msgstr "选择货币..."
+
+msgid "Select symbol position"
+msgstr "选择符号位置"
+
+msgid "Server or socket for: memcached or redis. Usually is localhost. Read your hosting documentation about what host to use for memcached or redis."
+msgstr "服务器或套接字用于：memcached或redis。 通常是localhost。 阅读您的托管文档，了解要用于memcached或redis的主机。"
+
+msgid "Set Yes here ONLY if you are REALLY use cache plugin for your site, for example like Super cache or Hiper cache (doesn matter). + Set \"Custom price format\", for example: __PRICE__ (__CODE__). After enabling this feature - clean your cache to make it works. It will allow show prices in selected currency on all pages of site. Fee for this feature - additional AJAX queries for products prices redrawing."
+msgstr "仅当您确实为站点使用缓存插件时才在此处设置“是”，例如超级缓存或超级缓存（无关紧要）。 +设置“自定义价格格式”，例如：__ PRICE__（__CODE__）。 启用此功能后-清理缓存以使其起作用。 它将允许在网站的所有页面上以选定的货币显示价格。 此功能的费用-重新绘制有关产品价格的其他AJAX查询。"
+
+msgid "Set etalon main currency. This should be the currency in which the price of goods exhibited!"
+msgstr "设置标准具主要货币。 这应该是商品价格所显示的货币！"
+
+msgid "Set title"
+msgstr "设定标题"
+
+msgid "Set your format how to display price on front. Use keys: __CODE__,__PRICE__. Leave it empty to use default format. Example: __PRICE__ (__CODE__)"
+msgstr "设置格式，如何在最前面显示价格。 使用键：__ CODE __，__ PRICE__。 将其保留为空以使用默认格式。 示例：__ PRICE__（__CODE__）"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Should be payments system be hidden for selected currencies or vice versa shown!"
+msgstr "应该显示所选货币的付款系统是隐藏的，反之亦然！"
+
+msgid "Show WOOCS options button on top admin bar for quick access. Very handy for active work. Visible for site administrators only!"
+msgstr "在顶部管理栏上显示“ WOOCS选项”按钮可快速访问。 非常适合从事积极工作。 仅对网站管理员可见！"
+
+msgid "Show approx. amount"
+msgstr "显示约数量"
+
+msgid "Show approx. price"
+msgstr "显示约价格"
+
+msgid "Show approximate amount on the checkout and the cart page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "在结帐页面和购物车页面上显示大概的金额，并在GeoIp规则标签中显示由IP定义的用户币种。 仅适用于货币汇率数据，不适用于固定价格规则和地理位置规则。"
+
+msgid "Show approximate price on the shop and the single product page with currency of user defined by IP in the GeoIp rules tab. Works only with currencies rates data and NOT with fixed prices rules and geo rules."
+msgstr "在商店和单一产品页面上显示近似价格，并在GeoIp规则标签中显示由IP定义的用户币种。 仅适用于货币汇率数据，不适用于固定价格规则和地理位置规则。"
+
+msgid "Show cents"
+msgstr "显示分"
+
+msgid "Show currency for all on the site front or Hide for private moments in wp admin panel using only."
+msgstr "仅在网站正面显示所有货币，或在wp管理面板中隐藏私人时刻以显示所有货币。"
+
+msgid "Show flags"
+msgstr "显示标志"
+
+msgid "Show flags by default"
+msgstr "默认显示标志"
+
+msgid "Show info icon near the price of the product which while its under hover shows prices of products in all currencies"
+msgstr "在产品价格附近显示信息图标，当其悬停时会显示所有货币的产品价格"
+
+msgid "Show money signs"
+msgstr "显示钱迹象"
+
+msgid "Show on all devices"
+msgstr "在所有设备上显示"
+
+msgid "Show on mobile devices only"
+msgstr "仅在移动设备上显示"
+
+msgid "Show on the pages"
+msgstr "在页面上显示"
+
+msgid "Show options button on top admin bar."
+msgstr "在顶部管理栏上显示选项按钮。"
+
+msgid "Show price info icon"
+msgstr "显示价格信息图标"
+
+msgid "Show/Hide on mobile device (highest priority)"
+msgstr "在移动设备上显示/隐藏（最高优先级）"
+
+msgid "Show/hide flags on the front drop-down"
+msgstr "在前面的下拉菜单中显示/隐藏标志"
+
+msgid "Show/hide money signs on the front drop-down"
+msgstr "在前面的下拉菜单中显示/隐藏货币符号"
+
+msgid "Side"
+msgstr "侧"
+
+msgid "Side switcher"
+msgstr "侧面切换器"
+
+msgid "Skin"
+msgstr "皮肤"
+
+msgid "Some aggregators require an API key. See the hint below how to get it!"
+msgstr "一些聚合器需要API密钥。 请参阅下面的提示如何获得它！"
+
+msgid "Statistic"
+msgstr "统计"
+
+msgid "Storage port"
+msgstr "存储端口"
+
+msgid "Storage server"
+msgstr "储存伺服器"
+
+msgid "Style #1"
+msgstr "风格编号1"
+
+msgid "Style #2"
+msgstr "风格编号2"
+
+msgid "Style #3"
+msgstr "风格编号3"
+
+msgid "Style of the switcher on the site front"
+msgstr "现场前端切换台的样式"
+
+msgid "Switches currency without GET properties (?currency=USD) in the link. Works in woocommerce > 3.3.0."
+msgstr "在链接中切换没有GET属性（？currency = USD）的货币。 适用于woocommerce> 3.3.0。"
+
+msgid "Symbol"
+msgstr "图形符号"
+
+msgid "THIS order currency is changed manually %s!"
+msgstr "此订单币种已手动更改为%s！"
+
+msgid "Thank you, I did it!"
+msgstr "谢谢，我做到了！"
+
+msgid "The Free Currency Converter"
+msgstr "免费货币转换器"
+
+msgid "The coupon fixed Minimum and Maximum spend rules"
+msgstr "优惠券固定的最低和最高消费规则"
+
+msgid "The coupon fixed amount rules"
+msgstr "优惠券固定金额规则"
+
+msgid "The following options affect how prices are displayed on the frontend. WooCommerce Currency Switcher is activated. Set default currency %s please."
+msgstr "以下选项影响价格在前端上的显示方式。WooCommerce货币切换器已激活。请设置默认货币%s。"
+
+msgid "The maximum spend for this coupon is %s."
+msgstr "此优惠券的最高支出为%s。"
+
+msgid "The minimum spend for this coupon is %s."
+msgstr "此优惠券的最低消费为%s。"
+
+msgid "The price based on user role"
+msgstr "基于用户角色的价格"
+
+msgid "The product custom GeoIP rules"
+msgstr "产品自定义GeoIP规则"
+
+msgid "The product fixed prices rules"
+msgstr "产品固定价格规则"
+
+msgid "The side where the switcher is be placed"
+msgstr "放置切换台的一侧"
+
+msgid "The switcher color when mouse hovering"
+msgstr "鼠标悬停时的切换器颜色"
+
+msgid "This make work on rules settings for each product more fast"
+msgstr "这样可以更快地处理每个产品的规则设置"
+
+msgid "Title"
+msgstr "选项"
+
+msgid "Top margin"
+msgstr "上边距"
+
+msgid "Total amount"
+msgstr "总金额"
+
+msgid "Total in basic currency:"
+msgstr "基本货币总计："
+
+msgid "Transient"
+msgstr "短暂的"
+
+msgid "UPGRADE to Full version"
+msgstr "升级到完整版"
+
+msgid "Update all rates"
+msgstr "更新所有费率"
+
+msgid "Update profile"
+msgstr "更新配置文件"
+
+msgid "Using Geolocation causes problems, doesn’t seem to work for me"
+msgstr "使用地理定位会导致问题，但似乎对我不起作用"
+
+msgid "Video tutorials"
+msgstr "视频教程"
+
+msgid "Visibility"
+msgstr "提升品牌曝光率"
+
+msgid "WOOBE - WooCommerce Bulk Editor Professional"
+msgstr "WOOBE-WooCommerce批量编辑器专业版"
+
+msgid "WOOCS - the fixed Minimum and Maximum spend"
+msgstr "WOOCS-的 固定 最低和最高支出"
+
+msgid "WOOCS - the coupon fixed amount"
+msgstr "WOOCS-息票固定金额"
+
+msgid "WOOCS - the price based on user role"
+msgstr "WOOCS-基于用户角色的价格"
+
+msgid "WOOCS - the product custom GeoIP rules"
+msgstr "WOOCS-产品自定义GeoIP规则"
+
+msgid "WOOCS - the product fixed prices"
+msgstr "WOOCS-产品固定价格"
+
+msgid "WOOCS Currency Options"
+msgstr "WOOCS货币期权"
+
+msgid "WOOCS Order Info"
+msgstr "WOOCS订单信息"
+
+msgid "WOOF - WooCommerce Products Filter"
+msgstr "WOOF-WooCommerce产品过滤器"
+
+msgid "WOOT - WooCommerce Active Products Tables"
+msgstr "WOOT-WooCommerce有效产品表"
+
+msgid "Warning: Woocommerce is not activated"
+msgstr "警告：Woocommerce未激活"
+
+msgid "Watch video instructions"
+msgstr "观看视频说明"
+
+msgid "We work hard to make this plugin more effective tool for your e-shops, and ready to %s hear your review, suggestions and opinions %s, please share it with us!"
+msgstr "我们正在努力使该插件成为您的电子商店更有效的工具，并准备让%s听到您的评论，建议和意见%s，请与我们分享！"
+
+msgid "Welcome currency"
+msgstr "迎宾币"
+
+msgid "What content to show in the switcher after mouse hover on any currency there. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "鼠标悬停在任何货币上后，在切换台中显示什么内容。 变体：__ CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "What content to show in the switcher after the site page loading. Variants:  __CODE__ __FLAG___ __SIGN__ __DESCR__"
+msgstr "网站页面加载后在切换台中显示什么内容。 变体：__ CODE__ __FLAG___ __SIGN__ __DESCR__"
+
+msgid "Where on the site the switcher should be hidden. If any value is presented here switcher will be hidden on that pages and visible on all another ones. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "切换台在现场应隐藏的位置。 如果此处显示任何值，则切换器将在该页面上隐藏，并在所有其他页面上可见。 您可以使用逗号使用页面ID，例如：28,34,232。 您也可以使用特殊字词，例如：产品，商店，结帐，首页，woocommerce"
+
+msgid "Where on the site the switcher should be visible. If any value is presented here switcher will be hidden on all another pages which not presented in this field. You can use pages IDs using comma, example: 28,34,232. Also you can use special words as: product, shop, checkout, front_page, woocommerce"
+msgstr "切换台在现场的哪个地方应该可见。 如果此处显示任何值，则切换器将在此字段中未显示的所有其他页面上隐藏。 您可以使用逗号使用页面ID，例如：28,34,232。 您也可以使用特殊字词，例如：产品，商店，结帐，首页，woocommerce"
+
+msgid "Which text display in the drop-down options - currency code OR description text. Looks good for all dropdowns except ddslick."
+msgstr "下拉选项中显示哪个文本-货币代码或描述文本。 对于除ddslick之外的所有下拉列表看起来都不错。"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "WooCommerce Currency Switcher SUPPORT"
+msgstr "WooCommerce货币切换器支持"
+
+msgid "WooCommerce Currency Switcher v.%s"
+msgstr "WooCommerce货币切换器v.%s"
+
+msgid "WooCommerce GeoIP functionality doesn't work on your site. Maybe this will help you."
+msgstr "WooCommerce GeoIP功能在您的网站上不起作用。 可能是 Free Introduction 会帮助你。"
+
+msgid "Yes"
+msgstr "有"
+
+msgid "You will be able to set FIXED amount for coupon for each currency. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "您将能够为每种货币设置优惠券的固定金额。 注意：应启用“允许多个”！"
+
+msgid "You will be able to set FIXED amount for each currency for free and all another shipping ways. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "您将能够免费设置每种货币的固定金额以及所有其他运输方式。 注意：应启用“允许多个”！"
+
+msgid "You will be able to set FIXED prices for simple and variable products. ATTENTION: 'Is multiple allowed' should be enabled!"
+msgstr "您将能够为简单和可变的产品设置固定价格。 注意：应启用“允许多个”！"
+
+msgid "You will be able to set different prices for each product (in BASIC currency) for different countries"
+msgstr "您将能够为不同国家/地区的每种产品设置不同的价格（以BASIC货币表示）"
+
+msgid "Your country is not defined! Troubles with GeoIp service."
+msgstr "您的国家未定义！ GeoIp服务出现问题。"
+
+msgid "Your country is not defined! Troubles with internet connection or GeoIp service."
+msgstr "您的国家未定义！ 互联网连接或GeoIp服务出现问题。"
+
+msgid "Your country is: %s"
+msgstr "您的国家/地区是：%s"
+
+msgid "Your country is: %s. (defined by woocommerce GeoIP functionality)"
+msgstr "您的国家/地区是：%s。（由woocommerce GeoIP功能定义）"
+
+msgid "Your version of WooCommerce plugin is too obsolete. Update minimum to %s version to avoid malfunctionality!"
+msgstr "您的WooCommerce插件版本已过时。将最低版本更新为%s版本，以避免发生故障！"
+
+msgid "a hint"
+msgstr "一个提示"
+
+msgid "auto"
+msgstr "汽车"
+
+msgid "cancel"
+msgstr "取消"
+
+msgid "change the rate and this description to the right values"
+msgstr "将费率和此说明更改为正确的值"
+
+msgid "clear all"
+msgstr "全部清除"
+
+msgid "code"
+msgstr "码"
+
+msgid "currency"
+msgstr "货币"
+
+msgid "daily"
+msgstr "每天"
+
+msgid "ddslick drop-down"
+msgstr "ddslick下拉列表"
+
+msgid "description"
+msgstr "描述"
+
+msgid "drag and drop"
+msgstr "拖放"
+
+msgid "enter amount"
+msgstr "输入金额"
+
+msgid "enter roll width"
+msgstr "输入纸卷宽度"
+
+msgid "exchange rate"
+msgstr "汇率"
+
+msgid "from"
+msgstr "低至"
+
+msgid "full version of the plugin"
+msgstr "完整版的插件"
+
+msgid "here"
+msgstr "查看更多"
+
+msgid "hourly"
+msgstr "每小时"
+
+msgid "interest"
+msgstr "兴趣"
+
+msgid "is added!"
+msgstr "被添加！"
+
+msgid "is updated!"
+msgstr "已更新！"
+
+msgid "left"
+msgstr "左"
+
+msgid "loading"
+msgstr "装载"
+
+msgid "monthly"
+msgstr "每月一次"
+
+msgid "move"
+msgstr "移动"
+
+msgid "no auto update"
+msgstr "没有自动更新"
+
+msgid "no data for %s"
+msgstr "暂无%s数据"
+
+msgid "orders (completed)"
+msgstr "订单（已完成）"
+
+msgid "reset the browser cache"
+msgstr "重置浏览器缓存"
+
+msgid "results"
+msgstr "结果"
+
+msgid "right"
+msgstr "正确的"
+
+msgid "select all"
+msgstr "全选"
+
+msgid "select some countries"
+msgstr "选择一些国家"
+
+msgid "select user role"
+msgstr "选择用户角色"
+
+msgid "special: each 15 minutes"
+msgstr "特别：每15分钟"
+
+msgid "special: each 30 minutes"
+msgstr "特别：每30分钟"
+
+msgid "special: each 45 minutes"
+msgstr "特别：每45分钟"
+
+msgid "special: each 5 minutes"
+msgstr "特别：每5分钟"
+
+msgid "special: each minute"
+msgstr "特别：每分钟"
+
+msgid "support"
+msgstr "支持"
+
+msgid "the plugin forum"
+msgstr "插件论坛"
+
+msgid "to"
+msgstr "至"
+
+msgid "twicedaily"
+msgstr "每天两次"
+
+msgid "wSelect drop-down"
+msgstr "w选择下拉菜单"
+
+msgid "Currencies popularity"
+msgstr "货币人气"
+
+msgid "Countries popularity"
+msgstr "国家知名度"

@@ -1,0 +1,155 @@
+# Copyright (C) 2019 MagikCommerce
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Magik WooAjax Search 1.0\n"
+"POT-Creation-Date: 2019-02-28 06:13+0530\n"
+"PO-Revision-Date: 2019-02-28 06:14+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: magik-wooajax-search.php:117 magik-wooajax-search.php:118
+msgid "Magik WooAjax Search"
+msgstr ""
+
+#: magik-wooajax-search.php:133
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: magik-wooajax-search.php:151
+msgid "For Header section Shortcode is:"
+msgstr ""
+
+#: magik-wooajax-search.php:152
+msgid "For Widget section Shortcode is:"
+msgstr ""
+
+#: magik-wooajax-search.php:153
+msgid "For Pages section Shortcode is:"
+msgstr ""
+
+#: magik-wooajax-search.php:175
+msgid "Basic Settings"
+msgstr ""
+
+#: magik-wooajax-search.php:182
+msgid "Enable Magik WooAjax Search"
+msgstr ""
+
+#: magik-wooajax-search.php:191
+msgid "Suggestions limit"
+msgstr ""
+
+#: magik-wooajax-search.php:199
+msgid "Minimum characters"
+msgstr ""
+
+#: magik-wooajax-search.php:207
+msgid "Show submit button"
+msgstr ""
+
+#: magik-wooajax-search.php:214
+msgid "Search input placeholder"
+msgstr ""
+
+#: magik-wooajax-search.php:221
+msgid "Search submit button text"
+msgstr ""
+
+#: magik-wooajax-search.php:229
+msgid "Search Settings"
+msgstr ""
+
+#: magik-wooajax-search.php:236
+msgid "Search in Product Catgories"
+msgstr ""
+
+#: magik-wooajax-search.php:243
+msgid "Search in Product Tags"
+msgstr ""
+
+#: magik-wooajax-search.php:251
+msgid "Search in Product Content"
+msgstr ""
+
+#: magik-wooajax-search.php:258
+msgid "Search in Product Excerpt"
+msgstr ""
+
+#: magik-wooajax-search.php:266
+msgid "Search in Product Sku"
+msgstr ""
+
+#: magik-wooajax-search.php:274
+msgid "Exclude out of stock"
+msgstr ""
+
+#: magik-wooajax-search.php:283
+msgid "Advance Settings"
+msgstr ""
+
+#: magik-wooajax-search.php:290
+msgid "Show matching categories"
+msgstr ""
+
+#: magik-wooajax-search.php:297
+msgid "Show matching tags"
+msgstr ""
+
+#: magik-wooajax-search.php:305
+msgid "Show product image"
+msgstr ""
+
+#: magik-wooajax-search.php:312
+msgid "Show price"
+msgstr ""
+
+#: magik-wooajax-search.php:319
+msgid "Show product description"
+msgstr ""
+
+#: magik-wooajax-search.php:326
+msgid "Show SKU"
+msgstr ""
+
+#: magik-wooajax-search.php:334
+msgid "Show Sale Badge"
+msgstr ""
+
+#: magik-wooajax-search.php:342
+msgid "Show Featured Badge"
+msgstr ""
+
+#: magik-wooajax-search.php:513
+msgid "Search"
+msgstr ""
+
+#: magik-wooajax-search.php:524
+msgid "Search Here"
+msgstr ""
+
+
+#: magik-wooajax-search.php:758
+msgid "sale"
+msgstr ""
+
+#: magik-wooajax-search.php:759
+msgid "featured"
+msgstr ""
+
+#: magik-wooajax-search.php:858
+msgid "Search for:"
+msgstr ""
+
+#: magik-wooajax-search.php:1093
+msgid "No results"
+msgstr ""
+
+
+
+#: magik-wooajax-search.php:1232 magik-wooajax-search.php:1289
+msgid "in"
+msgstr ""

@@ -1,0 +1,132 @@
+/**
+ * Admin Magik Woo Ajax Search CSS
+ *
+ * @author MagikCommerce
+ * @package Magik Woo Ajax Search
+ * @version 1.0
+ */
+
+.mgkwooas_img img {
+	width: 100%;
+	height: auto;
+}
+.autocomplete-suggestions {
+	background: #fff;
+	border: 1px #eee solid;
+	border-radius: 2px;
+	overflow: auto;
+}
+input.mgkwooas-searchstr {
+	padding: 7px 50px 7px 10px !important;
+	border: none !important;
+	border-radius: 2px;
+	width: 100%;
+	font-size: 13px;
+}
+.autocomplete-suggestion {
+	border-bottom: 1px #ddd solid;
+	padding: 8px;
+	display: inline-block;
+	width: 100%;
+}
+.autocomplete-suggestion:last-child {
+	border: none;
+}
+.autocomplete-suggestion .mgkwooas_img {
+	float: left;
+	width: 17%;
+	margin-right: 8px;
+	position: relative;
+}
+.mgkwooas_name {
+	font-weight: 600;
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 3px;
+	padding-right: 60px;
+}
+.magkwooas_desc {
+	display: inline-block;
+	width: 100%;
+	margin-bottom: 3px;
+}
+.magkwooas_price {
+	font-weight: 600;
+	display: inline-block;
+	width: 100%;
+}
+.magkwooas_sale.search-sale-label {
+	font-size: 9px;
+	color: #333;
+	background: #ffd740;
+	text-transform: uppercase;
+	padding: 1px 6px;
+	text-align: center;
+	display: block;
+	position: absolute;
+	top: 1px;
+	right: 0px;
+}
+.magkwooas_featured.search-featured-label {
+	font-size: 9px;
+	color: #fff;
+	background: #1f72ce;
+	text-transform: uppercase;
+	padding: 1px 6px;
+	text-align: center;
+	display: block;
+	position: absolute;
+	top: 1px;
+	right: 0px;
+}
+.mgkwooas_othersec {
+	display: inline-block;
+	float: left;
+	width: 80%;
+	position: relative;
+}
+.mgkwooas_widget {
+	position: relative;
+	margin: 15px 15px 0px;
+}
+.mgkwooas_page {
+	position: relative;
+	margin: 15px 0px 0px;
+	width: 50%;
+}
+.mgkwooas_widget input.mgkwooas-searchstr, .mgkwooas_page input.mgkwooas-searchstr {
+	padding: 6px 50px 6px 10px !important;
+	border: 1px #ddd solid !important;
+	border-radius: 2px;
+	width: 100%;
+	font-size: 13px;
+}
+.mgkwooas_widget .autocomplete-suggestion .mgkwooas_img {
+	width: 20%;
+	margin-right: 6px;
+}
+.mgkwooas_widget .mgkwooas_othersec {
+	width: 76%;
+}
+.mgkwooas_widget .magkwooas_desc {
+	display: none;
+}
+.mgkwooas_widget .mgkwooas_name {
+	padding-right: 0;
+}
+.mgkwooas_widget .magkwooas_sale.search-sale-label, .mgkwooas_widget .magkwooas_featured.search-featured-label {
+	display: none;
+}
+ @media only screen and (min-width: 250px) and (max-width: 767px) {
+.autocomplete-suggestion .mgkwooas_img {
+	width: 24%;
+	margin-right: 0px;
+	margin-bottom: 8px;
+}
+.mgkwooas_othersec {
+	width: 100%;
+}
+.mgkwooas_page {
+	width: 100%;
+}
+}
